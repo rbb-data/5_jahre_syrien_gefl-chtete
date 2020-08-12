@@ -1,0 +1,2383 @@
+"Schutzsuchende (Anzahl)_Stichtag
+Kreise_","Schutzsuchende (Anzahl)_Stichtag
+Kreise__1",Schutzsuchende (Anzahl)_männlich_,Schutzsuchende (Anzahl)_weiblich_,Schutzsuchende (Anzahl)_Insgesamt_,Datum
+01001,"Flensburg, kreisfreie Stadt",330,170,500,31.12.2013
+01002,"Kiel, kreisfreie Stadt",1495,935,2430,31.12.2013
+01003,"Lübeck, kreisfreie Stadt",890,655,1545,31.12.2013
+01004,"Neumünster, kreisfreie Stadt",450,360,805,31.12.2013
+01051,"Dithmarschen, Landkreis",370,270,635,31.12.2013
+01053,"Herzogtum Lauenburg, Landkreis",565,550,1110,31.12.2013
+01054,"Nordfriesland, Landkreis",525,310,835,31.12.2013
+01055,"Ostholstein, Landkreis",560,330,890,31.12.2013
+01056,"Pinneberg, Landkreis",1420,1170,2590,31.12.2013
+01057,"Plön, Landkreis",310,220,530,31.12.2013
+01058,"Rendsburg-Eckernförde, Landkreis",765,560,1320,31.12.2013
+01059,"Schleswig-Flensburg, Landkreis",445,360,805,31.12.2013
+01060,"Segeberg, Landkreis",795,540,1335,31.12.2013
+01061,"Steinburg, Landkreis",360,290,650,31.12.2013
+01062,"Stormarn, Landkreis",740,535,1275,31.12.2013
+02000,"Hamburg, kreisfreie Stadt",15205,10850,26050,31.12.2013
+03101,"Braunschweig, kreisfreie Stadt",675,420,1100,31.12.2013
+03102,"Salzgitter, kreisfreie Stadt",455,365,825,31.12.2013
+03103,"Wolfsburg, kreisfreie Stadt",660,595,1255,31.12.2013
+03151,"Gifhorn, Landkreis",455,375,830,31.12.2013
+03152,"Göttingen, Landkreis (bis 31.10.2016)",1235,1085,2320,31.12.2013
+03153,"Goslar, Landkreis",440,380,825,31.12.2013
+03154,"Helmstedt, Landkreis",365,125,490,31.12.2013
+03155,"Northeim, Landkreis",610,620,1235,31.12.2013
+03156,"Osterode am Harz, Landkreis (bis 31.10.2016)",255,170,425,31.12.2013
+03157,"Peine, Landkreis",675,480,1155,31.12.2013
+03158,"Wolfenbüttel, Landkreis",455,330,785,31.12.2013
+03159,"Göttingen, Landkreis",-,-,-,31.12.2013
+03201,"Hannover, kreisfreie Stadt (bis 31.10.2001)",-,-,-,31.12.2013
+03241,"Region Hannover, Landkreis",8840,7005,15845,31.12.2013
+03251,"Diepholz, Landkreis",800,705,1500,31.12.2013
+03252,"Hameln-Pyrmont, Landkreis",695,705,1400,31.12.2013
+03253,"Hannover, Landkreis (bis 31.10.2001)",-,-,-,31.12.2013
+03254,"Hildesheim, Landkreis",1385,1090,2480,31.12.2013
+03255,"Holzminden, Landkreis",190,170,360,31.12.2013
+03256,"Nienburg (Weser), Landkreis",550,500,1045,31.12.2013
+03257,"Schaumburg, Landkreis",590,485,1075,31.12.2013
+03351,"Celle, Landkreis",825,810,1635,31.12.2013
+03352,"Cuxhaven, Landkreis",785,500,1285,31.12.2013
+03353,"Harburg, Landkreis",1060,465,1525,31.12.2013
+03354,"Lüchow-Dannenberg, Landkreis",135,120,260,31.12.2013
+03355,"Lüneburg, Landkreis",700,520,1220,31.12.2013
+03356,"Osterholz, Landkreis",450,430,880,31.12.2013
+03357,"Rotenburg (Wümme), Landkreis",630,465,1090,31.12.2013
+03358,Heidekreis,595,535,1135,31.12.2013
+03359,"Stade, Landkreis",795,380,1175,31.12.2013
+03360,"Uelzen, Landkreis",295,190,485,31.12.2013
+03361,"Verden, Landkreis",560,550,1110,31.12.2013
+03401,"Delmenhorst, kreisfreie Stadt",410,330,740,31.12.2013
+03402,"Emden, kreisfreie Stadt",210,155,365,31.12.2013
+03403,"Oldenburg (Oldenburg), kreisfreie Stadt",1020,845,1870,31.12.2013
+03404,"Osnabrück, kreisfreie Stadt",880,585,1465,31.12.2013
+03405,"Wilhelmshaven, kreisfreie Stadt",360,290,650,31.12.2013
+03451,"Ammerland, Landkreis",450,300,750,31.12.2013
+03452,"Aurich, Landkreis",785,610,1395,31.12.2013
+03453,"Cloppenburg, Landkreis",705,550,1255,31.12.2013
+03454,"Emsland, Landkreis",1030,795,1825,31.12.2013
+03455,"Friesland, Landkreis",320,305,625,31.12.2013
+03456,"Grafschaft Bentheim, Landkreis",405,310,715,31.12.2013
+03457,"Leer, Landkreis",520,385,910,31.12.2013
+03458,"Oldenburg, Landkreis",580,485,1065,31.12.2013
+03459,"Osnabrück, Landkreis",905,705,1610,31.12.2013
+03460,"Vechta, Landkreis",640,480,1120,31.12.2013
+03461,"Wesermarsch, Landkreis",335,230,565,31.12.2013
+03462,"Wittmund, Landkreis",155,160,315,31.12.2013
+04011,"Bremen, kreisfreie Stadt",4055,3070,7125,31.12.2013
+04012,"Bremerhaven, kreisfreie Stadt",590,495,1080,31.12.2013
+05111,"Düsseldorf, kreisfreie Stadt",4570,3875,8445,31.12.2013
+05112,"Duisburg, kreisfreie Stadt",2480,2010,4490,31.12.2013
+05113,"Essen, kreisfreie Stadt",4790,3935,8730,31.12.2013
+05114,"Krefeld, kreisfreie Stadt",1005,900,1905,31.12.2013
+05116,"Mönchengladbach, kreisfreie Stadt",1445,1200,2650,31.12.2013
+05117,"Mülheim an der Ruhr, kreisfreie Stadt",1190,1055,2245,31.12.2013
+05119,"Oberhausen, kreisfreie Stadt",1145,990,2140,31.12.2013
+05120,"Remscheid, kreisfreie Stadt",445,375,820,31.12.2013
+05122,"Solingen, kreisfreie Stadt",635,555,1185,31.12.2013
+05124,"Wuppertal, kreisfreie Stadt",2995,2405,5400,31.12.2013
+05154,"Kleve, Landkreis",1250,735,1985,31.12.2013
+05158,"Mettmann, Landkreis",2125,1800,3925,31.12.2013
+05162,Rhein-Kreis Neuss,2030,1510,3545,31.12.2013
+05166,"Viersen, Landkreis",1155,655,1810,31.12.2013
+05170,"Wesel, Landkreis",1890,1355,3245,31.12.2013
+05313,"Aachen, kreisfreie Stadt (bis 20.10.2009)",-,-,-,31.12.2013
+05314,"Bonn, kreisfreie Stadt",2135,1645,3780,31.12.2013
+05315,"Köln, kreisfreie Stadt",7245,5630,12875,31.12.2013
+05316,"Leverkusen, kreisfreie Stadt",930,725,1655,31.12.2013
+05334,"Städteregion Aachen, Landkreis",3310,2270,5580,31.12.2013
+05354,"Aachen, Landkreis (bis 20.10.2009)",-,-,-,31.12.2013
+05358,"Düren, Landkreis",1400,820,2220,31.12.2013
+05362,Rhein-Erft-Kreis,1990,1465,3455,31.12.2013
+05366,"Euskirchen, Landkreis",665,370,1035,31.12.2013
+05370,"Heinsberg, Landkreis",850,485,1335,31.12.2013
+05374,Oberbergischer Kreis,1035,495,1530,31.12.2013
+05378,Rheinisch-Bergischer Kreis,1030,700,1730,31.12.2013
+05382,Rhein-Sieg-Kreis,2535,1720,4255,31.12.2013
+05512,"Bottrop, kreisfreie Stadt",495,425,920,31.12.2013
+05513,"Gelsenkirchen, kreisfreie Stadt",1775,1480,3255,31.12.2013
+05515,"Münster, kreisfreie Stadt",1580,1265,2845,31.12.2013
+05554,"Borken, Landkreis",1745,1205,2950,31.12.2013
+05558,"Coesfeld, Landkreis",860,640,1500,31.12.2013
+05562,"Recklinghausen, Landkreis",2760,2275,5035,31.12.2013
+05566,"Steinfurt, Landkreis",2280,1790,4070,31.12.2013
+05570,"Warendorf, Landkreis",1215,855,2070,31.12.2013
+05711,"Bielefeld, kreisfreie Stadt",3360,2660,6020,31.12.2013
+05754,"Gütersloh, Landkreis",1830,1295,3130,31.12.2013
+05758,"Herford, Landkreis",1095,820,1915,31.12.2013
+05762,"Höxter, Landkreis",485,215,700,31.12.2013
+05766,"Lippe, Landkreis",1630,1160,2790,31.12.2013
+05770,"Minden-Lübbecke, Landkreis",1510,1065,2575,31.12.2013
+05774,"Paderborn, Landkreis",1310,900,2205,31.12.2013
+05911,"Bochum, kreisfreie Stadt",1900,1590,3495,31.12.2013
+05913,"Dortmund, kreisfreie Stadt",4915,3270,8185,31.12.2013
+05914,"Hagen, kreisfreie Stadt",1020,835,1855,31.12.2013
+05915,"Hamm, kreisfreie Stadt",760,665,1425,31.12.2013
+05916,"Herne, kreisfreie Stadt",875,665,1540,31.12.2013
+05954,Ennepe-Ruhr-Kreis,1460,1165,2630,31.12.2013
+05958,Hochsauerlandkreis,1225,835,2060,31.12.2013
+05962,Märkischer Kreis,1695,1225,2915,31.12.2013
+05966,"Olpe, Landkreis",655,360,1015,31.12.2013
+05970,"Siegen-Wittgenstein, Landkreis",1520,1085,2605,31.12.2013
+05974,"Soest, Landkreis",1250,760,2010,31.12.2013
+05978,"Unna, Landkreis",1615,1290,2900,31.12.2013
+06411,"Darmstadt, kreisfreie Stadt",1760,975,2735,31.12.2013
+06412,"Frankfurt am Main, kreisfreie Stadt",5250,3915,9170,31.12.2013
+06413,"Offenbach am Main, kreisfreie Stadt",1040,735,1775,31.12.2013
+06414,"Wiesbaden, kreisfreie Stadt",1850,1440,3290,31.12.2013
+06431,"Bergstraße, Landkreis",1515,1095,2610,31.12.2013
+06432,"Darmstadt-Dieburg, Landkreis",1355,1030,2390,31.12.2013
+06433,"Groß-Gerau, Landkreis",1305,960,2265,31.12.2013
+06434,Hochtaunuskreis,1080,845,1925,31.12.2013
+06435,Main-Kinzig-Kreis,1950,1550,3500,31.12.2013
+06436,Main-Taunus-Kreis,1145,910,2055,31.12.2013
+06437,Odenwaldkreis,185,130,315,31.12.2013
+06438,"Offenbach, Landkreis",1860,1565,3430,31.12.2013
+06439,Rheingau-Taunus-Kreis,860,645,1510,31.12.2013
+06440,Wetteraukreis,1475,1185,2660,31.12.2013
+06531,"Gießen, Landkreis",1780,1190,2975,31.12.2013
+06532,Lahn-Dill-Kreis,1200,785,1985,31.12.2013
+06533,"Limburg-Weilburg, Landkreis",910,630,1540,31.12.2013
+06534,"Marburg-Biedenkopf, Landkreis",1065,800,1865,31.12.2013
+06535,Vogelsbergkreis,345,230,575,31.12.2013
+06611,"Kassel, kreisfreie Stadt",2010,1520,3530,31.12.2013
+06631,"Fulda, Landkreis",840,605,1445,31.12.2013
+06632,"Hersfeld-Rotenburg, Landkreis",420,345,765,31.12.2013
+06633,"Kassel, Landkreis",-,-,-,31.12.2013
+06634,Schwalm-Eder-Kreis,645,360,1010,31.12.2013
+06635,"Waldeck-Frankenberg, Landkreis",645,395,1040,31.12.2013
+06636,Werra-Meißner-Kreis,330,220,550,31.12.2013
+07111,"Koblenz, kreisfreie Stadt",770,625,1395,31.12.2013
+07131,"Ahrweiler, Landkreis",600,415,1015,31.12.2013
+07132,"Altenkirchen (Westerwald), Landkreis",375,250,625,31.12.2013
+07133,"Bad Kreuznach, Landkreis",655,425,1080,31.12.2013
+07134,"Birkenfeld, Landkreis",340,200,540,31.12.2013
+07135,"Cochem-Zell, Landkreis",170,130,300,31.12.2013
+07137,"Mayen-Koblenz, Landkreis",690,555,1245,31.12.2013
+07138,"Neuwied, Landkreis",785,565,1350,31.12.2013
+07140,Rhein-Hunsrück-Kreis,235,190,425,31.12.2013
+07141,Rhein-Lahn-Kreis,370,310,680,31.12.2013
+07143,Westerwaldkreis,465,330,795,31.12.2013
+07211,"Trier, kreisfreie Stadt",785,550,1335,31.12.2013
+07231,"Bernkastel-Wittlich, Landkreis",310,250,560,31.12.2013
+07232,Eifelkreis Bitburg-Prüm,275,225,500,31.12.2013
+07233,"Vulkaneifel, Landkreis",130,100,230,31.12.2013
+07235,"Trier-Saarburg, Landkreis",305,250,555,31.12.2013
+07311,"Frankenthal (Pfalz), kreisfreie Stadt",190,120,310,31.12.2013
+07312,"Kaiserslautern, kreisfreie Stadt",325,230,555,31.12.2013
+07313,"Landau in der Pfalz, kreisfreie Stadt",210,130,345,31.12.2013
+07314,"Ludwigshafen am Rhein, kreisfreie Stadt",1130,760,1890,31.12.2013
+07315,"Mainz, kreisfreie Stadt",1180,925,2105,31.12.2013
+07316,"Neustadt an der Weinstraße, kreisfreie Stadt",170,110,280,31.12.2013
+07317,"Pirmasens, kreisfreie Stadt",180,130,310,31.12.2013
+07318,"Speyer, kreisfreie Stadt",210,160,370,31.12.2013
+07319,"Worms, kreisfreie Stadt",380,235,615,31.12.2013
+07320,"Zweibrücken, kreisfreie Stadt",160,115,270,31.12.2013
+07331,"Alzey-Worms, Landkreis",305,235,540,31.12.2013
+07332,"Bad Dürkheim, Landkreis",375,280,655,31.12.2013
+07333,Donnersbergkreis,185,155,340,31.12.2013
+07334,"Germersheim, Landkreis",375,240,615,31.12.2013
+07335,"Kaiserslautern, Landkreis",270,185,460,31.12.2013
+07336,"Kusel, Landkreis",190,135,325,31.12.2013
+07337,"Südliche Weinstraße, Landkreis",245,135,380,31.12.2013
+07338,Rhein-Pfalz-Kreis,465,345,815,31.12.2013
+07339,"Mainz-Bingen, Landkreis",390,265,655,31.12.2013
+07340,"Südwestpfalz, Landkreis",155,75,235,31.12.2013
+08111,"Stuttgart, kreisfreie Stadt",4515,3140,7655,31.12.2013
+08115,"Böblingen, Landkreis",1250,885,2135,31.12.2013
+08116,"Esslingen, Landkreis",2350,1465,3815,31.12.2013
+08117,"Göppingen, Landkreis",875,565,1440,31.12.2013
+08118,"Ludwigsburg, Landkreis",2000,1280,3280,31.12.2013
+08119,Rems-Murr-Kreis,1785,970,2755,31.12.2013
+08121,"Heilbronn, kreisfreie Stadt",1115,735,1850,31.12.2013
+08125,"Heilbronn, Landkreis",1260,730,1990,31.12.2013
+08126,Hohenlohekreis,340,90,430,31.12.2013
+08127,"Schwäbisch Hall, Landkreis",585,330,910,31.12.2013
+08128,Main-Tauber-Kreis,340,185,530,31.12.2013
+08135,"Heidenheim, Landkreis",420,210,625,31.12.2013
+08136,Ostalbkreis,1040,610,1650,31.12.2013
+08211,"Baden-Baden, kreisfreie Stadt",480,475,955,31.12.2013
+08212,"Karlsruhe, kreisfreie Stadt",2080,1420,3500,31.12.2013
+08215,"Karlsruhe, Landkreis",1380,845,2225,31.12.2013
+08216,"Rastatt, Landkreis",755,650,1405,31.12.2013
+08221,"Heidelberg, kreisfreie Stadt",775,630,1410,31.12.2013
+08222,"Mannheim, kreisfreie Stadt",1530,1055,2585,31.12.2013
+08225,Neckar-Odenwald-Kreis,440,235,675,31.12.2013
+08226,Rhein-Neckar-Kreis,1965,1470,3430,31.12.2013
+08231,"Pforzheim, kreisfreie Stadt",1420,1085,2505,31.12.2013
+08235,"Calw, Landkreis",510,225,735,31.12.2013
+08236,Enzkreis,495,270,765,31.12.2013
+08237,"Freudenstadt, Landkreis",385,170,555,31.12.2013
+08311,"Freiburg im Breisgau, kreisfreie Stadt",1290,980,2270,31.12.2013
+08315,"Breisgau-Hochschwarzwald, Landkreis",1070,605,1680,31.12.2013
+08316,"Emmendingen, Landkreis",710,415,1125,31.12.2013
+08317,Ortenaukreis,1690,1260,2945,31.12.2013
+08325,"Rottweil, Landkreis",515,325,845,31.12.2013
+08326,Schwarzwald-Baar-Kreis,855,360,1215,31.12.2013
+08327,"Tuttlingen, Landkreis",480,275,755,31.12.2013
+08335,"Konstanz, Landkreis",1120,825,1945,31.12.2013
+08336,"Lörrach, Landkreis",900,700,1605,31.12.2013
+08337,"Waldshut, Landkreis",515,300,815,31.12.2013
+08415,"Reutlingen, Landkreis",1105,715,1825,31.12.2013
+08416,"Tübingen, Landkreis",915,665,1585,31.12.2013
+08417,Zollernalbkreis,540,340,880,31.12.2013
+08421,"Ulm, kreisfreie Stadt",785,650,1440,31.12.2013
+08425,Alb-Donau-Kreis,630,405,1040,31.12.2013
+08426,"Biberach, Landkreis",545,350,895,31.12.2013
+08435,Bodenseekreis,705,460,1165,31.12.2013
+08436,"Ravensburg, Landkreis",1000,530,1530,31.12.2013
+08437,"Sigmaringen, Landkreis",465,250,710,31.12.2013
+09161,"Ingolstadt, kreisfreie Stadt",470,270,740,31.12.2013
+09162,"München, kreisfreie Stadt",14020,8480,22500,31.12.2013
+09163,"Rosenheim, kreisfreie Stadt",320,170,490,31.12.2013
+09171,"Altötting, Landkreis",230,135,365,31.12.2013
+09172,"Berchtesgadener Land, Landkreis",190,105,295,31.12.2013
+09173,"Bad Tölz-Wolfratshausen, Landkreis",215,145,365,31.12.2013
+09174,"Dachau, Landkreis",460,250,710,31.12.2013
+09175,"Ebersberg, Landkreis",295,165,460,31.12.2013
+09176,"Eichstätt, Landkreis",175,95,270,31.12.2013
+09177,"Erding, Landkreis",245,135,380,31.12.2013
+09178,"Freising, Landkreis",465,320,790,31.12.2013
+09179,"Fürstenfeldbruck, Landkreis",635,440,1075,31.12.2013
+09180,"Garmisch-Partenkirchen, Landkreis",195,75,270,31.12.2013
+09181,"Landsberg am Lech, Landkreis",195,105,300,31.12.2013
+09182,"Miesbach, Landkreis",155,85,235,31.12.2013
+09183,"Mühldorf am Inn, Landkreis",180,135,310,31.12.2013
+09184,"München, Landkreis",775,460,1235,31.12.2013
+09185,"Neuburg-Schrobenhausen, Landkreis",520,235,750,31.12.2013
+09186,"Pfaffenhofen an der Ilm, Landkreis",240,90,330,31.12.2013
+09187,"Rosenheim, Landkreis",500,180,680,31.12.2013
+09188,"Starnberg, Landkreis",380,255,635,31.12.2013
+09189,"Traunstein, Landkreis",375,180,555,31.12.2013
+09190,"Weilheim-Schongau, Landkreis",290,95,385,31.12.2013
+09261,"Landshut, kreisfreie Stadt",360,145,505,31.12.2013
+09262,"Passau, kreisfreie Stadt",210,135,345,31.12.2013
+09263,"Straubing, kreisfreie Stadt",270,185,455,31.12.2013
+09271,"Deggendorf, Landkreis",245,120,370,31.12.2013
+09272,"Freyung-Grafenau, Landkreis",150,85,235,31.12.2013
+09273,"Kelheim, Landkreis",230,135,360,31.12.2013
+09274,"Landshut, Landkreis",315,150,460,31.12.2013
+09275,"Passau, Landkreis",330,145,475,31.12.2013
+09276,"Regen, Landkreis",125,10,135,31.12.2013
+09277,"Rottal-Inn, Landkreis",285,160,450,31.12.2013
+09278,"Straubing-Bogen, Landkreis",180,80,260,31.12.2013
+09279,"Dingolfing-Landau, Landkreis",255,50,305,31.12.2013
+09361,"Amberg, kreisfreie Stadt",265,125,390,31.12.2013
+09362,"Regensburg, kreisfreie Stadt",745,415,1155,31.12.2013
+09363,"Weiden in der Oberpfalz, kreisfreie Stadt",220,140,360,31.12.2013
+09371,"Amberg-Sulzbach, Landkreis",125,80,205,31.12.2013
+09372,"Cham, Landkreis",155,85,240,31.12.2013
+09373,"Neumarkt in der Oberpfalz, Landkreis",110,75,185,31.12.2013
+09374,"Neustadt an der Waldnaab, Landkreis",95,70,165,31.12.2013
+09375,"Regensburg, Landkreis",200,155,355,31.12.2013
+09376,"Schwandorf, Landkreis",185,80,270,31.12.2013
+09377,"Tirschenreuth, Landkreis",100,70,170,31.12.2013
+09461,"Bamberg, kreisfreie Stadt",200,145,345,31.12.2013
+09462,"Bayreuth, kreisfreie Stadt",830,555,1385,31.12.2013
+09463,"Coburg, kreisfreie Stadt",130,75,210,31.12.2013
+09464,"Hof, kreisfreie Stadt",300,175,475,31.12.2013
+09471,"Bamberg, Landkreis",120,65,185,31.12.2013
+09472,"Bayreuth, Landkreis",55,50,100,31.12.2013
+09473,"Coburg, Landkreis",75,75,150,31.12.2013
+09474,"Forchheim, Landkreis",185,105,295,31.12.2013
+09475,"Hof, Landkreis",95,40,135,31.12.2013
+09476,"Kronach, Landkreis",55,30,85,31.12.2013
+09477,"Kulmbach, Landkreis",85,60,145,31.12.2013
+09478,"Lichtenfels, Landkreis",105,95,200,31.12.2013
+09479,"Wunsiedel im Fichtelgebirge, Landkreis",115,35,155,31.12.2013
+09561,"Ansbach, kreisfreie Stadt",130,75,205,31.12.2013
+09562,"Erlangen, kreisfreie Stadt",370,305,675,31.12.2013
+09563,"Fürth, kreisfreie Stadt",440,405,845,31.12.2013
+09564,"Nürnberg, kreisfreie Stadt",4530,3590,8125,31.12.2013
+09565,"Schwabach, kreisfreie Stadt",150,110,260,31.12.2013
+09571,"Ansbach, Landkreis",320,210,530,31.12.2013
+09572,"Erlangen-Höchstadt, Landkreis",270,140,405,31.12.2013
+09573,"Fürth, Landkreis",240,165,405,31.12.2013
+09574,"Nürnberger Land, Landkreis",225,155,380,31.12.2013
+09575,"Neustadt an der Aisch-Bad Windsheim, Landkreis",120,75,195,31.12.2013
+09576,"Roth, Landkreis",620,365,990,31.12.2013
+09577,"Weißenburg-Gunzenhausen, Landkreis",175,130,310,31.12.2013
+09661,"Aschaffenburg, kreisfreie Stadt",540,295,835,31.12.2013
+09662,"Schweinfurt, kreisfreie Stadt",355,280,635,31.12.2013
+09663,"Würzburg, kreisfreie Stadt",1455,1120,2575,31.12.2013
+09671,"Aschaffenburg, Landkreis",275,170,445,31.12.2013
+09672,"Bad Kissingen, Landkreis",175,140,315,31.12.2013
+09673,"Rhön-Grabfeld, Landkreis",95,95,190,31.12.2013
+09674,"Haßberge, Landkreis",130,110,245,31.12.2013
+09675,"Kitzingen, Landkreis",135,90,225,31.12.2013
+09676,"Miltenberg, Landkreis",130,100,230,31.12.2013
+09677,"Main-Spessart, Landkreis",135,90,225,31.12.2013
+09678,"Schweinfurt, Landkreis",165,125,285,31.12.2013
+09679,"Würzburg, Landkreis",170,100,275,31.12.2013
+09761,"Augsburg, kreisfreie Stadt",2475,1615,4085,31.12.2013
+09762,"Kaufbeuren, kreisfreie Stadt",115,55,170,31.12.2013
+09763,"Kempten (Allgäu), kreisfreie Stadt",190,70,260,31.12.2013
+09764,"Memmingen, kreisfreie Stadt",185,75,260,31.12.2013
+09771,"Aichach-Friedberg, Landkreis",275,115,390,31.12.2013
+09772,"Augsburg, Landkreis",455,230,685,31.12.2013
+09773,"Dillingen an der Donau, Landkreis",230,160,390,31.12.2013
+09774,"Günzburg, Landkreis",270,190,455,31.12.2013
+09775,"Neu-Ulm, Landkreis",470,135,605,31.12.2013
+09776,"Lindau (Bodensee), Landkreis",220,155,375,31.12.2013
+09777,"Ostallgäu, Landkreis",225,115,340,31.12.2013
+09778,"Unterallgäu, Landkreis",205,95,300,31.12.2013
+09779,"Donau-Ries, Landkreis",300,125,425,31.12.2013
+09780,"Oberallgäu, Landkreis",250,165,415,31.12.2013
+10041,"Regionalverband Saarbrücken, Landkreis",-,-,-,31.12.2013
+10042,"Merzig-Wadern, Landkreis",-,-,-,31.12.2013
+10043,"Neunkirchen, Landkreis",-,-,-,31.12.2013
+10044,"Saarlouis, Landkreis",4445,3200,7645,31.12.2013
+10045,Saarpfalz-Kreis,-,-,-,31.12.2013
+10046,"Sankt Wendel, Landkreis",-,-,-,31.12.2013
+11000,"Berlin, kreisfreie Stadt",21435,16120,37555,31.12.2013
+12051,"Brandenburg an der Havel, kreisfreie Stadt",270,190,460,31.12.2013
+12052,"Cottbus, kreisfreie Stadt",565,405,970,31.12.2013
+12053,"Frankfurt (Oder), kreisfreie Stadt",250,175,425,31.12.2013
+12054,"Potsdam, kreisfreie Stadt",645,580,1225,31.12.2013
+12060,"Barnim, Landkreis",390,250,635,31.12.2013
+12061,"Dahme-Spreewald, Landkreis",340,230,575,31.12.2013
+12062,"Elbe-Elster, Landkreis",140,80,225,31.12.2013
+12063,"Havelland, Landkreis",210,90,305,31.12.2013
+12064,"Märkisch-Oderland, Landkreis",295,210,500,31.12.2013
+12065,"Oberhavel, Landkreis",315,280,595,31.12.2013
+12066,"Oberspreewald-Lausitz, Landkreis",170,120,290,31.12.2013
+12067,"Oder-Spree, Landkreis",810,470,1280,31.12.2013
+12068,"Ostprignitz-Ruppin, Landkreis",250,110,360,31.12.2013
+12069,"Potsdam-Mittelmark, Landkreis",370,205,575,31.12.2013
+12070,"Prignitz, Landkreis",160,125,290,31.12.2013
+12071,"Spree-Neiße, Landkreis",-,-,-,31.12.2013
+12072,"Teltow-Fläming, Landkreis",250,150,400,31.12.2013
+12073,"Uckermark, Landkreis",205,105,310,31.12.2013
+13001,"Greifswald, kreisfreie Stadt (bis 03.09.2011)",-,-,-,31.12.2013
+13002,"Neubrandenburg, kreisfreie Stadt (bis 03.09.2011)",-,-,-,31.12.2013
+13003,"Rostock, kreisfreie Stadt",1030,780,1815,31.12.2013
+13004,"Schwerin, kreisfreie Stadt",610,565,1175,31.12.2013
+13005,"Stralsund, kreisfreie Stadt (bis 03.09.2011)",-,-,-,31.12.2013
+13006,"Wismar, kreisfreie Stadt (bis 03.09.2011)",-,-,-,31.12.2013
+13051,"Bad Doberan, Landkreis (bis 03.09.2011)",-,-,-,31.12.2013
+13052,"Demmin, Landkreis (bis 03.09.2011)",-,-,-,31.12.2013
+13053,"Güstrow, Landkreis (bis 03.09.2011)",-,-,-,31.12.2013
+13054,"Ludwigslust, Landkreis (bis 03.09.2011)",-,-,-,31.12.2013
+13055,"Mecklenburg-Strelitz, Landkreis (bis 03.09.2011)",-,-,-,31.12.2013
+13056,"Müritz, Landkreis (bis 03.09.2011)",-,-,-,31.12.2013
+13057,"Nordvorpommern, Landkreis (bis 03.09.2011)",-,-,-,31.12.2013
+13058,"Nordwestmecklenburg, Landkreis (bis 03.09.2011)",-,-,-,31.12.2013
+13059,"Ostvorpommern, Landkreis (bis 03.09.2011)",-,-,-,31.12.2013
+13060,"Parchim, Landkreis (bis 03.09.2011)",-,-,-,31.12.2013
+13061,"Rügen, Landkreis (bis 03.09.2011)",-,-,-,31.12.2013
+13062,"Uecker-Randow, Landkreis (bis 03.09.2011)",-,-,-,31.12.2013
+13071,"Mecklenburgische Seenplatte, Landkreis",615,400,1015,31.12.2013
+13072,"Rostock, Landkreis",445,230,675,31.12.2013
+13073,"Vorpommern-Rügen, Landkreis",360,245,605,31.12.2013
+13074,"Nordwestmecklenburg, Landkreis",355,275,630,31.12.2013
+13075,"Vorpommern-Greifswald, Landkreis",500,275,775,31.12.2013
+13076,"Ludwigslust-Parchim, Landkreis",705,440,1140,31.12.2013
+14161,"Chemnitz, kreisfreie Stadt (bis 31.07.2008)",-,-,-,31.12.2013
+14166,"Plauen, kreisfreie Stadt (bis 31.07.2008)",-,-,-,31.12.2013
+14167,"Zwickau, kreisfreie Stadt (bis 31.07.2008)",-,-,-,31.12.2013
+14171,"Annaberg, Landkreis (bis 31.07.2008)",-,-,-,31.12.2013
+14173,"Chemnitzer Land, Landkreis (bis 31.07.2008)",-,-,-,31.12.2013
+14177,"Freiberg, Landkreis (bis 31.07.2008)",-,-,-,31.12.2013
+14178,Vogtlandkreis (bis 31.07.2008),-,-,-,31.12.2013
+14181,Mittlerer Erzgebirgskreis (bis 31.07.2008),-,-,-,31.12.2013
+14182,"Mittweida, Landkreis (bis 31.07.2008)",-,-,-,31.12.2013
+14188,"Stollberg, Landkreis (bis 31.07.2008)",-,-,-,31.12.2013
+14191,"Aue-Schwarzenberg, Landkreis (bis 31.07.2008)",-,-,-,31.12.2013
+14193,"Zwickauer Land, Landkreis (bis 31.07.2008)",-,-,-,31.12.2013
+14262,"Dresden, kreisfreie Stadt (bis 31.07.2008)",-,-,-,31.12.2013
+14263,"Görlitz, kreisfreie Stadt (bis 31.07.2008)",-,-,-,31.12.2013
+14264,"Hoyerswerda, kreisfreie Stadt (bis 31.07.2008)",-,-,-,31.12.2013
+14272,"Bautzen, Landkreis (bis 31.07.2008)",-,-,-,31.12.2013
+14280,"Meißen, Landkreis (bis 31.07.2008)",-,-,-,31.12.2013
+14284,Niederschlesischer Oberlausitzkreis (b.31.07.2008),-,-,-,31.12.2013
+14285,"Riesa-Großenhain, Landkreis (bis 31.07.2008)",-,-,-,31.12.2013
+14286,"Löbau-Zittau, Landkreis (bis 31.07.2008)",-,-,-,31.12.2013
+14287,"Sächsische Schweiz, Landkreis (bis 31.07.2008)",-,-,-,31.12.2013
+14290,Weißeritzkreis (bis 31.07.2008),-,-,-,31.12.2013
+14292,"Kamenz, Landkreis (bis 31.07.2008)",-,-,-,31.12.2013
+14365,"Leipzig, kreisfreie Stadt (bis 31.07.2008)",-,-,-,31.12.2013
+14374,"Delitzsch, Landkreis (bis 31.07.2008)",-,-,-,31.12.2013
+14375,"Döbeln, Landkreis (bis 31.07.2008)",-,-,-,31.12.2013
+14379,"Leipziger Land, Landkreis (bis 31.07.2008)",-,-,-,31.12.2013
+14383,Muldentalkreis (bis 31.07.2008),-,-,-,31.12.2013
+14389,"Torgau-Oschatz, Landkreis (bis 31.07.2008)",-,-,-,31.12.2013
+14511,"Chemnitz, kreisfreie Stadt",1300,900,2200,31.12.2013
+14521,Erzgebirgskreis,480,210,690,31.12.2013
+14522,"Mittelsachsen, Landkreis",570,260,825,31.12.2013
+14523,Vogtlandkreis,500,225,725,31.12.2013
+14524,"Zwickau, Landkreis",715,335,1050,31.12.2013
+14612,"Dresden, kreisfreie Stadt",1735,1245,2985,31.12.2013
+14625,"Bautzen, Landkreis",475,220,695,31.12.2013
+14626,"Görlitz, Landkreis",375,150,525,31.12.2013
+14627,"Meißen, Landkreis",435,205,635,31.12.2013
+14628,"Sächsische Schweiz-Osterzgebirge, Landkreis",505,70,575,31.12.2013
+14713,"Leipzig, kreisfreie Stadt",2760,1980,4745,31.12.2013
+14729,"Leipzig, Landkreis",460,230,695,31.12.2013
+14730,"Nordsachsen, Landkreis",485,170,655,31.12.2013
+15001,"Dessau-Roßlau, kreisfreie Stadt",325,205,530,31.12.2013
+15002,"Halle (Saale), kreisfreie Stadt",1400,960,2360,31.12.2013
+15003,"Magdeburg, kreisfreie Stadt",1145,955,2100,31.12.2013
+15081,Altmarkkreis Salzwedel,215,130,345,31.12.2013
+15082,"Anhalt-Bitterfeld, Landkreis",510,135,650,31.12.2013
+15083,"Börde, Landkreis",500,185,685,31.12.2013
+15084,Burgenlandkreis,415,205,620,31.12.2013
+15085,"Harz, Landkreis",475,225,700,31.12.2013
+15086,"Jerichower Land, Landkreis",240,85,325,31.12.2013
+15087,"Mansfeld-Südharz, Landkreis",450,240,690,31.12.2013
+15088,Saalekreis,535,220,755,31.12.2013
+15089,Salzlandkreis,560,245,805,31.12.2013
+15090,"Stendal, Landkreis",320,250,570,31.12.2013
+15091,"Wittenberg, Landkreis",370,125,490,31.12.2013
+15101,"Dessau, kreisfreie Stadt (bis 30.06.2007)",-,-,-,31.12.2013
+15151,"Anhalt-Zerbst, Landkreis (bis 30.06.2007)",-,-,-,31.12.2013
+15153,"Bernburg, Landkreis (bis 30.06.2007)",-,-,-,31.12.2013
+15154,"Bitterfeld, Landkreis (bis 30.06.2007)",-,-,-,31.12.2013
+15159,"Köthen, Landkreis (bis 30.06.2007)",-,-,-,31.12.2013
+15171,"Wittenberg, Landkreis (bis 30.06.2007)",-,-,-,31.12.2013
+15202,"Halle (Saale), kreisfreie Stadt (bis 30.06.2007)",-,-,-,31.12.2013
+15256,Burgenlandkreis (bis 30.06.2007),-,-,-,31.12.2013
+15260,"Mansfelder Land, Landkreis (bis 30.06.2007)",-,-,-,31.12.2013
+15261,"Merseburg-Querfurt, Landkreis (bis 30.06.2007)",-,-,-,31.12.2013
+15265,Saalkreis (bis 30.06.2007),-,-,-,31.12.2013
+15266,"Sangerhausen, Landkreis (bis 30.06.2007)",-,-,-,31.12.2013
+15268,"Weißenfels, Landkreis (bis 30.06.2007)",-,-,-,31.12.2013
+15303,"Magdeburg, kreisfreie Stadt (bis 30.06.2007)",-,-,-,31.12.2013
+15352,"Aschersleben-Staßfurt, Landkreis (bis 30.06.2007)",-,-,-,31.12.2013
+15355,Bördekreis (bis 30.06.2007),-,-,-,31.12.2013
+15357,"Halberstadt, Landkreis (bis 30.06.2007)",-,-,-,31.12.2013
+15358,"Jerichower Land, Landkreis (bis 30.06.2007)",-,-,-,31.12.2013
+15362,Ohrekreis (bis 30.06.2007),-,-,-,31.12.2013
+15363,"Stendal, Landkreis (bis 30.06.2007)",-,-,-,31.12.2013
+15364,"Quedlinburg, Landkreis (bis 30.06.2007)",-,-,-,31.12.2013
+15367,"Schönebeck, Landkreis (bis 30.06.2007)",-,-,-,31.12.2013
+15369,"Wernigerode, Landkreis (bis 30.06.2007)",-,-,-,31.12.2013
+15370,Altmarkkreis Salzwedel (bis 30.06.2007),-,-,-,31.12.2013
+16051,"Erfurt, kreisfreie Stadt",1165,1045,2210,31.12.2013
+16052,"Gera, kreisfreie Stadt",170,145,315,31.12.2013
+16053,"Jena, kreisfreie Stadt",355,325,675,31.12.2013
+16054,"Suhl, kreisfreie Stadt",115,85,200,31.12.2013
+16055,"Weimar, kreisfreie Stadt",180,130,305,31.12.2013
+16056,"Eisenach, kreisfreie Stadt",155,135,295,31.12.2013
+16061,"Eichsfeld, Landkreis",165,120,280,31.12.2013
+16062,"Nordhausen, Landkreis",175,100,275,31.12.2013
+16063,Wartburgkreis,160,100,260,31.12.2013
+16064,Unstrut-Hainich-Kreis,190,70,260,31.12.2013
+16065,Kyffhäuserkreis,90,70,160,31.12.2013
+16066,"Schmalkalden-Meiningen, Landkreis",170,100,275,31.12.2013
+16067,"Gotha, Landkreis",305,175,475,31.12.2013
+16068,"Sömmerda, Landkreis",55,50,105,31.12.2013
+16069,"Hildburghausen, Landkreis",125,85,215,31.12.2013
+16070,Ilm-Kreis,170,150,315,31.12.2013
+16071,"Weimarer Land, Landkreis",150,100,250,31.12.2013
+16072,"Sonneberg, Landkreis",95,60,155,31.12.2013
+16073,"Saalfeld-Rudolstadt, Landkreis",190,145,335,31.12.2013
+16074,Saale-Holzland-Kreis,155,85,245,31.12.2013
+16075,Saale-Orla-Kreis,170,120,290,31.12.2013
+16076,"Greiz, Landkreis",155,45,200,31.12.2013
+16077,"Altenburger Land, Landkreis",145,70,215,31.12.2013
+01001,"Flensburg, kreisfreie Stadt",420,210,635,31.12.2014
+01002,"Kiel, kreisfreie Stadt",1940,1205,3145,31.12.2014
+01003,"Lübeck, kreisfreie Stadt",1175,905,2075,31.12.2014
+01004,"Neumünster, kreisfreie Stadt",675,435,1110,31.12.2014
+01051,"Dithmarschen, Landkreis",545,395,940,31.12.2014
+01053,"Herzogtum Lauenburg, Landkreis",805,645,1455,31.12.2014
+01054,"Nordfriesland, Landkreis",720,415,1135,31.12.2014
+01055,"Ostholstein, Landkreis",805,425,1230,31.12.2014
+01056,"Pinneberg, Landkreis",1845,1360,3205,31.12.2014
+01057,"Plön, Landkreis",535,295,830,31.12.2014
+01058,"Rendsburg-Eckernförde, Landkreis",1055,725,1780,31.12.2014
+01059,"Schleswig-Flensburg, Landkreis",695,475,1170,31.12.2014
+01060,"Segeberg, Landkreis",1130,695,1825,31.12.2014
+01061,"Steinburg, Landkreis",555,410,965,31.12.2014
+01062,"Stormarn, Landkreis",1040,755,1795,31.12.2014
+02000,"Hamburg, kreisfreie Stadt",17510,11845,29355,31.12.2014
+03101,"Braunschweig, kreisfreie Stadt",705,455,1160,31.12.2014
+03102,"Salzgitter, kreisfreie Stadt",610,485,1095,31.12.2014
+03103,"Wolfsburg, kreisfreie Stadt",810,755,1570,31.12.2014
+03151,"Gifhorn, Landkreis",540,460,1000,31.12.2014
+03152,"Göttingen, Landkreis (bis 31.10.2016)",1280,1075,2355,31.12.2014
+03153,"Goslar, Landkreis",565,475,1040,31.12.2014
+03154,"Helmstedt, Landkreis",460,185,650,31.12.2014
+03155,"Northeim, Landkreis",695,705,1400,31.12.2014
+03156,"Osterode am Harz, Landkreis (bis 31.10.2016)",320,230,550,31.12.2014
+03157,"Peine, Landkreis",720,545,1265,31.12.2014
+03158,"Wolfenbüttel, Landkreis",565,410,975,31.12.2014
+03159,"Göttingen, Landkreis",-,-,-,31.12.2014
+03201,"Hannover, kreisfreie Stadt (bis 31.10.2001)",-,-,-,31.12.2014
+03241,"Region Hannover, Landkreis",10345,8010,18355,31.12.2014
+03251,"Diepholz, Landkreis",925,845,1770,31.12.2014
+03252,"Hameln-Pyrmont, Landkreis",870,860,1730,31.12.2014
+03253,"Hannover, Landkreis (bis 31.10.2001)",-,-,-,31.12.2014
+03254,"Hildesheim, Landkreis",1715,1245,2960,31.12.2014
+03255,"Holzminden, Landkreis",220,200,425,31.12.2014
+03256,"Nienburg (Weser), Landkreis",600,555,1155,31.12.2014
+03257,"Schaumburg, Landkreis",680,610,1290,31.12.2014
+03351,"Celle, Landkreis",970,890,1855,31.12.2014
+03352,"Cuxhaven, Landkreis",930,610,1540,31.12.2014
+03353,"Harburg, Landkreis",1350,460,1815,31.12.2014
+03354,"Lüchow-Dannenberg, Landkreis",215,205,420,31.12.2014
+03355,"Lüneburg, Landkreis",985,650,1635,31.12.2014
+03356,"Osterholz, Landkreis",550,490,1040,31.12.2014
+03357,"Rotenburg (Wümme), Landkreis",725,490,1215,31.12.2014
+03358,Heidekreis,685,600,1285,31.12.2014
+03359,"Stade, Landkreis",910,470,1380,31.12.2014
+03360,"Uelzen, Landkreis",365,255,620,31.12.2014
+03361,"Verden, Landkreis",740,615,1355,31.12.2014
+03401,"Delmenhorst, kreisfreie Stadt",520,410,930,31.12.2014
+03402,"Emden, kreisfreie Stadt",270,205,475,31.12.2014
+03403,"Oldenburg (Oldenburg), kreisfreie Stadt",1185,960,2145,31.12.2014
+03404,"Osnabrück, kreisfreie Stadt",1160,685,1845,31.12.2014
+03405,"Wilhelmshaven, kreisfreie Stadt",430,345,780,31.12.2014
+03451,"Ammerland, Landkreis",560,380,940,31.12.2014
+03452,"Aurich, Landkreis",1080,760,1845,31.12.2014
+03453,"Cloppenburg, Landkreis",835,640,1475,31.12.2014
+03454,"Emsland, Landkreis",1365,990,2350,31.12.2014
+03455,"Friesland, Landkreis",410,355,765,31.12.2014
+03456,"Grafschaft Bentheim, Landkreis",555,400,950,31.12.2014
+03457,"Leer, Landkreis",645,475,1120,31.12.2014
+03458,"Oldenburg, Landkreis",725,560,1285,31.12.2014
+03459,"Osnabrück, Landkreis",905,735,1645,31.12.2014
+03460,"Vechta, Landkreis",880,575,1455,31.12.2014
+03461,"Wesermarsch, Landkreis",415,265,680,31.12.2014
+03462,"Wittmund, Landkreis",220,210,430,31.12.2014
+04011,"Bremen, kreisfreie Stadt",5250,3645,8895,31.12.2014
+04012,"Bremerhaven, kreisfreie Stadt",790,655,1445,31.12.2014
+05111,"Düsseldorf, kreisfreie Stadt",5815,4655,10470,31.12.2014
+05112,"Duisburg, kreisfreie Stadt",2925,2345,5275,31.12.2014
+05113,"Essen, kreisfreie Stadt",5555,4465,10020,31.12.2014
+05114,"Krefeld, kreisfreie Stadt",1300,1105,2410,31.12.2014
+05116,"Mönchengladbach, kreisfreie Stadt",1830,1445,3275,31.12.2014
+05117,"Mülheim an der Ruhr, kreisfreie Stadt",1570,1295,2865,31.12.2014
+05119,"Oberhausen, kreisfreie Stadt",1355,1155,2515,31.12.2014
+05120,"Remscheid, kreisfreie Stadt",585,450,1035,31.12.2014
+05122,"Solingen, kreisfreie Stadt",880,695,1575,31.12.2014
+05124,"Wuppertal, kreisfreie Stadt",3595,2745,6340,31.12.2014
+05154,"Kleve, Landkreis",1560,900,2460,31.12.2014
+05158,"Mettmann, Landkreis",2650,2155,4805,31.12.2014
+05162,Rhein-Kreis Neuss,2470,1820,4290,31.12.2014
+05166,"Viersen, Landkreis",1340,770,2110,31.12.2014
+05170,"Wesel, Landkreis",2415,1640,4055,31.12.2014
+05313,"Aachen, kreisfreie Stadt (bis 20.10.2009)",-,-,-,31.12.2014
+05314,"Bonn, kreisfreie Stadt",2630,1980,4605,31.12.2014
+05315,"Köln, kreisfreie Stadt",9105,6860,15960,31.12.2014
+05316,"Leverkusen, kreisfreie Stadt",1200,875,2080,31.12.2014
+05334,"Städteregion Aachen, Landkreis",4125,2660,6785,31.12.2014
+05354,"Aachen, Landkreis (bis 20.10.2009)",-,-,-,31.12.2014
+05358,"Düren, Landkreis",1700,985,2685,31.12.2014
+05362,Rhein-Erft-Kreis,2595,1830,4425,31.12.2014
+05366,"Euskirchen, Landkreis",900,490,1390,31.12.2014
+05370,"Heinsberg, Landkreis",1115,610,1725,31.12.2014
+05374,Oberbergischer Kreis,1310,650,1960,31.12.2014
+05378,Rheinisch-Bergischer Kreis,1335,860,2195,31.12.2014
+05382,Rhein-Sieg-Kreis,3220,2150,5370,31.12.2014
+05512,"Bottrop, kreisfreie Stadt",615,465,1080,31.12.2014
+05513,"Gelsenkirchen, kreisfreie Stadt",2210,1810,4020,31.12.2014
+05515,"Münster, kreisfreie Stadt",2085,1670,3755,31.12.2014
+05554,"Borken, Landkreis",2165,1475,3640,31.12.2014
+05558,"Coesfeld, Landkreis",1105,790,1900,31.12.2014
+05562,"Recklinghausen, Landkreis",3385,2750,6135,31.12.2014
+05566,"Steinfurt, Landkreis",2855,2115,4970,31.12.2014
+05570,"Warendorf, Landkreis",1760,1095,2855,31.12.2014
+05711,"Bielefeld, kreisfreie Stadt",4055,3080,7135,31.12.2014
+05754,"Gütersloh, Landkreis",2190,1565,3755,31.12.2014
+05758,"Herford, Landkreis",1395,1005,2400,31.12.2014
+05762,"Höxter, Landkreis",675,265,940,31.12.2014
+05766,"Lippe, Landkreis",2005,1385,3390,31.12.2014
+05770,"Minden-Lübbecke, Landkreis",2020,1395,3415,31.12.2014
+05774,"Paderborn, Landkreis",1765,1175,2940,31.12.2014
+05911,"Bochum, kreisfreie Stadt",2445,1935,4380,31.12.2014
+05913,"Dortmund, kreisfreie Stadt",5320,3510,8830,31.12.2014
+05914,"Hagen, kreisfreie Stadt",1230,930,2160,31.12.2014
+05915,"Hamm, kreisfreie Stadt",1010,805,1815,31.12.2014
+05916,"Herne, kreisfreie Stadt",1025,785,1815,31.12.2014
+05954,Ennepe-Ruhr-Kreis,1880,1490,3370,31.12.2014
+05958,Hochsauerlandkreis,1540,1020,2560,31.12.2014
+05962,Märkischer Kreis,2140,1420,3560,31.12.2014
+05966,"Olpe, Landkreis",800,465,1265,31.12.2014
+05970,"Siegen-Wittgenstein, Landkreis",1735,1240,2975,31.12.2014
+05974,"Soest, Landkreis",1525,955,2480,31.12.2014
+05978,"Unna, Landkreis",2005,1545,3550,31.12.2014
+06411,"Darmstadt, kreisfreie Stadt",1455,880,2335,31.12.2014
+06412,"Frankfurt am Main, kreisfreie Stadt",5910,4255,10165,31.12.2014
+06413,"Offenbach am Main, kreisfreie Stadt",1075,770,1845,31.12.2014
+06414,"Wiesbaden, kreisfreie Stadt",2165,1700,3870,31.12.2014
+06431,"Bergstraße, Landkreis",1900,1220,3120,31.12.2014
+06432,"Darmstadt-Dieburg, Landkreis",1640,1185,2825,31.12.2014
+06433,"Groß-Gerau, Landkreis",1565,1055,2625,31.12.2014
+06434,Hochtaunuskreis,1345,950,2295,31.12.2014
+06435,Main-Kinzig-Kreis,2410,1875,4285,31.12.2014
+06436,Main-Taunus-Kreis,1400,965,2365,31.12.2014
+06437,Odenwaldkreis,225,160,390,31.12.2014
+06438,"Offenbach, Landkreis",2255,1745,4005,31.12.2014
+06439,Rheingau-Taunus-Kreis,1075,710,1785,31.12.2014
+06440,Wetteraukreis,1830,1310,3140,31.12.2014
+06531,"Gießen, Landkreis",2035,1320,3355,31.12.2014
+06532,Lahn-Dill-Kreis,1500,920,2420,31.12.2014
+06533,"Limburg-Weilburg, Landkreis",1150,740,1890,31.12.2014
+06534,"Marburg-Biedenkopf, Landkreis",1340,955,2295,31.12.2014
+06535,Vogelsbergkreis,435,290,725,31.12.2014
+06611,"Kassel, kreisfreie Stadt",2515,1790,4300,31.12.2014
+06631,"Fulda, Landkreis",1095,745,1835,31.12.2014
+06632,"Hersfeld-Rotenburg, Landkreis",560,395,955,31.12.2014
+06633,"Kassel, Landkreis",-,-,-,31.12.2014
+06634,Schwalm-Eder-Kreis,815,420,1235,31.12.2014
+06635,"Waldeck-Frankenberg, Landkreis",825,440,1270,31.12.2014
+06636,Werra-Meißner-Kreis,410,260,670,31.12.2014
+07111,"Koblenz, kreisfreie Stadt",975,715,1690,31.12.2014
+07131,"Ahrweiler, Landkreis",800,535,1335,31.12.2014
+07132,"Altenkirchen (Westerwald), Landkreis",480,290,770,31.12.2014
+07133,"Bad Kreuznach, Landkreis",830,525,1355,31.12.2014
+07134,"Birkenfeld, Landkreis",435,230,665,31.12.2014
+07135,"Cochem-Zell, Landkreis",240,180,420,31.12.2014
+07137,"Mayen-Koblenz, Landkreis",950,755,1710,31.12.2014
+07138,"Neuwied, Landkreis",1000,715,1720,31.12.2014
+07140,Rhein-Hunsrück-Kreis,390,260,650,31.12.2014
+07141,Rhein-Lahn-Kreis,560,400,955,31.12.2014
+07143,Westerwaldkreis,630,425,1055,31.12.2014
+07211,"Trier, kreisfreie Stadt",890,670,1560,31.12.2014
+07231,"Bernkastel-Wittlich, Landkreis",405,290,690,31.12.2014
+07232,Eifelkreis Bitburg-Prüm,335,270,605,31.12.2014
+07233,"Vulkaneifel, Landkreis",200,130,330,31.12.2014
+07235,"Trier-Saarburg, Landkreis",430,325,755,31.12.2014
+07311,"Frankenthal (Pfalz), kreisfreie Stadt",240,165,405,31.12.2014
+07312,"Kaiserslautern, kreisfreie Stadt",500,335,835,31.12.2014
+07313,"Landau in der Pfalz, kreisfreie Stadt",255,165,420,31.12.2014
+07314,"Ludwigshafen am Rhein, kreisfreie Stadt",1340,935,2275,31.12.2014
+07315,"Mainz, kreisfreie Stadt",1425,1090,2510,31.12.2014
+07316,"Neustadt an der Weinstraße, kreisfreie Stadt",250,120,370,31.12.2014
+07317,"Pirmasens, kreisfreie Stadt",215,145,360,31.12.2014
+07318,"Speyer, kreisfreie Stadt",280,195,475,31.12.2014
+07319,"Worms, kreisfreie Stadt",470,315,785,31.12.2014
+07320,"Zweibrücken, kreisfreie Stadt",165,120,285,31.12.2014
+07331,"Alzey-Worms, Landkreis",445,300,740,31.12.2014
+07332,"Bad Dürkheim, Landkreis",500,370,870,31.12.2014
+07333,Donnersbergkreis,255,195,450,31.12.2014
+07334,"Germersheim, Landkreis",555,355,910,31.12.2014
+07335,"Kaiserslautern, Landkreis",405,275,680,31.12.2014
+07336,"Kusel, Landkreis",280,170,450,31.12.2014
+07337,"Südliche Weinstraße, Landkreis",360,210,570,31.12.2014
+07338,Rhein-Pfalz-Kreis,640,475,1115,31.12.2014
+07339,"Mainz-Bingen, Landkreis",595,400,995,31.12.2014
+07340,"Südwestpfalz, Landkreis",260,145,405,31.12.2014
+08111,"Stuttgart, kreisfreie Stadt",4955,3420,8375,31.12.2014
+08115,"Böblingen, Landkreis",1405,1040,2440,31.12.2014
+08116,"Esslingen, Landkreis",2880,1535,4415,31.12.2014
+08117,"Göppingen, Landkreis",1005,620,1620,31.12.2014
+08118,"Ludwigsburg, Landkreis",2330,1495,3830,31.12.2014
+08119,Rems-Murr-Kreis,2220,1145,3365,31.12.2014
+08121,"Heilbronn, kreisfreie Stadt",1205,775,1980,31.12.2014
+08125,"Heilbronn, Landkreis",1460,855,2315,31.12.2014
+08126,Hohenlohekreis,430,95,520,31.12.2014
+08127,"Schwäbisch Hall, Landkreis",695,385,1080,31.12.2014
+08128,Main-Tauber-Kreis,445,215,660,31.12.2014
+08135,"Heidenheim, Landkreis",515,275,790,31.12.2014
+08136,Ostalbkreis,1245,710,1955,31.12.2014
+08211,"Baden-Baden, kreisfreie Stadt",555,515,1070,31.12.2014
+08212,"Karlsruhe, kreisfreie Stadt",1820,1215,3035,31.12.2014
+08215,"Karlsruhe, Landkreis",1800,1020,2820,31.12.2014
+08216,"Rastatt, Landkreis",940,745,1685,31.12.2014
+08221,"Heidelberg, kreisfreie Stadt",895,695,1590,31.12.2014
+08222,"Mannheim, kreisfreie Stadt",1500,1055,2555,31.12.2014
+08225,Neckar-Odenwald-Kreis,505,270,775,31.12.2014
+08226,Rhein-Neckar-Kreis,2410,1750,4160,31.12.2014
+08231,"Pforzheim, kreisfreie Stadt",1515,1175,2690,31.12.2014
+08235,"Calw, Landkreis",630,240,870,31.12.2014
+08236,Enzkreis,585,340,925,31.12.2014
+08237,"Freudenstadt, Landkreis",450,185,630,31.12.2014
+08311,"Freiburg im Breisgau, kreisfreie Stadt",1465,1100,2560,31.12.2014
+08315,"Breisgau-Hochschwarzwald, Landkreis",1295,680,1980,31.12.2014
+08316,"Emmendingen, Landkreis",830,490,1320,31.12.2014
+08317,Ortenaukreis,1905,1410,3315,31.12.2014
+08325,"Rottweil, Landkreis",615,370,985,31.12.2014
+08326,Schwarzwald-Baar-Kreis,1050,435,1485,31.12.2014
+08327,"Tuttlingen, Landkreis",515,305,820,31.12.2014
+08335,"Konstanz, Landkreis",1315,920,2235,31.12.2014
+08336,"Lörrach, Landkreis",1070,765,1835,31.12.2014
+08337,"Waldshut, Landkreis",675,360,1035,31.12.2014
+08415,"Reutlingen, Landkreis",1605,825,2430,31.12.2014
+08416,"Tübingen, Landkreis",1120,735,1860,31.12.2014
+08417,Zollernalbkreis,610,380,990,31.12.2014
+08421,"Ulm, kreisfreie Stadt",860,680,1540,31.12.2014
+08425,Alb-Donau-Kreis,750,435,1185,31.12.2014
+08426,"Biberach, Landkreis",675,445,1120,31.12.2014
+08435,Bodenseekreis,830,545,1375,31.12.2014
+08436,"Ravensburg, Landkreis",1330,575,1905,31.12.2014
+08437,"Sigmaringen, Landkreis",605,320,925,31.12.2014
+09161,"Ingolstadt, kreisfreie Stadt",665,320,985,31.12.2014
+09162,"München, kreisfreie Stadt",14675,9025,23700,31.12.2014
+09163,"Rosenheim, kreisfreie Stadt",380,180,560,31.12.2014
+09171,"Altötting, Landkreis",385,250,635,31.12.2014
+09172,"Berchtesgadener Land, Landkreis",345,190,535,31.12.2014
+09173,"Bad Tölz-Wolfratshausen, Landkreis",385,270,655,31.12.2014
+09174,"Dachau, Landkreis",560,305,865,31.12.2014
+09175,"Ebersberg, Landkreis",510,175,685,31.12.2014
+09176,"Eichstätt, Landkreis",255,145,405,31.12.2014
+09177,"Erding, Landkreis",295,185,480,31.12.2014
+09178,"Freising, Landkreis",610,370,980,31.12.2014
+09179,"Fürstenfeldbruck, Landkreis",795,505,1300,31.12.2014
+09180,"Garmisch-Partenkirchen, Landkreis",330,150,480,31.12.2014
+09181,"Landsberg am Lech, Landkreis",365,150,515,31.12.2014
+09182,"Miesbach, Landkreis",290,140,430,31.12.2014
+09183,"Mühldorf am Inn, Landkreis",340,145,485,31.12.2014
+09184,"München, Landkreis",1050,585,1635,31.12.2014
+09185,"Neuburg-Schrobenhausen, Landkreis",550,255,805,31.12.2014
+09186,"Pfaffenhofen an der Ilm, Landkreis",420,135,555,31.12.2014
+09187,"Rosenheim, Landkreis",700,265,970,31.12.2014
+09188,"Starnberg, Landkreis",495,295,790,31.12.2014
+09189,"Traunstein, Landkreis",630,220,850,31.12.2014
+09190,"Weilheim-Schongau, Landkreis",455,150,605,31.12.2014
+09261,"Landshut, kreisfreie Stadt",420,205,625,31.12.2014
+09262,"Passau, kreisfreie Stadt",255,140,395,31.12.2014
+09263,"Straubing, kreisfreie Stadt",355,230,585,31.12.2014
+09271,"Deggendorf, Landkreis",200,95,295,31.12.2014
+09272,"Freyung-Grafenau, Landkreis",265,95,365,31.12.2014
+09273,"Kelheim, Landkreis",420,180,605,31.12.2014
+09274,"Landshut, Landkreis",500,190,685,31.12.2014
+09275,"Passau, Landkreis",540,250,790,31.12.2014
+09276,"Regen, Landkreis",280,30,310,31.12.2014
+09277,"Rottal-Inn, Landkreis",425,245,675,31.12.2014
+09278,"Straubing-Bogen, Landkreis",300,155,455,31.12.2014
+09279,"Dingolfing-Landau, Landkreis",395,55,450,31.12.2014
+09361,"Amberg, kreisfreie Stadt",310,145,450,31.12.2014
+09362,"Regensburg, kreisfreie Stadt",840,465,1305,31.12.2014
+09363,"Weiden in der Oberpfalz, kreisfreie Stadt",280,170,450,31.12.2014
+09371,"Amberg-Sulzbach, Landkreis",220,100,320,31.12.2014
+09372,"Cham, Landkreis",265,170,440,31.12.2014
+09373,"Neumarkt in der Oberpfalz, Landkreis",240,165,400,31.12.2014
+09374,"Neustadt an der Waldnaab, Landkreis",185,125,310,31.12.2014
+09375,"Regensburg, Landkreis",395,250,650,31.12.2014
+09376,"Schwandorf, Landkreis",320,185,505,31.12.2014
+09377,"Tirschenreuth, Landkreis",135,100,235,31.12.2014
+09461,"Bamberg, kreisfreie Stadt",305,230,535,31.12.2014
+09462,"Bayreuth, kreisfreie Stadt",815,585,1405,31.12.2014
+09463,"Coburg, kreisfreie Stadt",180,120,300,31.12.2014
+09464,"Hof, kreisfreie Stadt",410,240,655,31.12.2014
+09471,"Bamberg, Landkreis",205,115,320,31.12.2014
+09472,"Bayreuth, Landkreis",75,70,150,31.12.2014
+09473,"Coburg, Landkreis",95,100,200,31.12.2014
+09474,"Forchheim, Landkreis",270,160,430,31.12.2014
+09475,"Hof, Landkreis",145,65,210,31.12.2014
+09476,"Kronach, Landkreis",70,50,120,31.12.2014
+09477,"Kulmbach, Landkreis",130,80,210,31.12.2014
+09478,"Lichtenfels, Landkreis",160,115,270,31.12.2014
+09479,"Wunsiedel im Fichtelgebirge, Landkreis",230,80,305,31.12.2014
+09561,"Ansbach, kreisfreie Stadt",165,75,245,31.12.2014
+09562,"Erlangen, kreisfreie Stadt",435,370,805,31.12.2014
+09563,"Fürth, kreisfreie Stadt",535,430,965,31.12.2014
+09564,"Nürnberg, kreisfreie Stadt",5225,4275,9495,31.12.2014
+09565,"Schwabach, kreisfreie Stadt",205,130,340,31.12.2014
+09571,"Ansbach, Landkreis",450,295,745,31.12.2014
+09572,"Erlangen-Höchstadt, Landkreis",335,145,480,31.12.2014
+09573,"Fürth, Landkreis",170,90,255,31.12.2014
+09574,"Nürnberger Land, Landkreis",380,205,585,31.12.2014
+09575,"Neustadt an der Aisch-Bad Windsheim, Landkreis",185,140,320,31.12.2014
+09576,"Roth, Landkreis",850,545,1395,31.12.2014
+09577,"Weißenburg-Gunzenhausen, Landkreis",270,205,475,31.12.2014
+09661,"Aschaffenburg, kreisfreie Stadt",585,320,905,31.12.2014
+09662,"Schweinfurt, kreisfreie Stadt",385,290,675,31.12.2014
+09663,"Würzburg, kreisfreie Stadt",1885,1530,3415,31.12.2014
+09671,"Aschaffenburg, Landkreis",335,195,530,31.12.2014
+09672,"Bad Kissingen, Landkreis",235,175,405,31.12.2014
+09673,"Rhön-Grabfeld, Landkreis",130,120,250,31.12.2014
+09674,"Haßberge, Landkreis",185,130,310,31.12.2014
+09675,"Kitzingen, Landkreis",205,90,295,31.12.2014
+09676,"Miltenberg, Landkreis",180,135,315,31.12.2014
+09677,"Main-Spessart, Landkreis",155,100,255,31.12.2014
+09678,"Schweinfurt, Landkreis",200,140,340,31.12.2014
+09679,"Würzburg, Landkreis",225,140,365,31.12.2014
+09761,"Augsburg, kreisfreie Stadt",2785,1870,4660,31.12.2014
+09762,"Kaufbeuren, kreisfreie Stadt",155,95,250,31.12.2014
+09763,"Kempten (Allgäu), kreisfreie Stadt",270,120,395,31.12.2014
+09764,"Memmingen, kreisfreie Stadt",260,115,375,31.12.2014
+09771,"Aichach-Friedberg, Landkreis",425,210,635,31.12.2014
+09772,"Augsburg, Landkreis",790,260,1050,31.12.2014
+09773,"Dillingen an der Donau, Landkreis",385,220,605,31.12.2014
+09774,"Günzburg, Landkreis",430,265,695,31.12.2014
+09775,"Neu-Ulm, Landkreis",645,180,825,31.12.2014
+09776,"Lindau (Bodensee), Landkreis",300,205,505,31.12.2014
+09777,"Ostallgäu, Landkreis",445,145,590,31.12.2014
+09778,"Unterallgäu, Landkreis",405,180,585,31.12.2014
+09779,"Donau-Ries, Landkreis",480,215,700,31.12.2014
+09780,"Oberallgäu, Landkreis",440,180,620,31.12.2014
+10041,"Regionalverband Saarbrücken, Landkreis",-,-,-,31.12.2014
+10042,"Merzig-Wadern, Landkreis",-,-,-,31.12.2014
+10043,"Neunkirchen, Landkreis",-,-,-,31.12.2014
+10044,"Saarlouis, Landkreis",6070,3675,9745,31.12.2014
+10045,Saarpfalz-Kreis,-,-,-,31.12.2014
+10046,"Sankt Wendel, Landkreis",-,-,-,31.12.2014
+11000,"Berlin, kreisfreie Stadt",25435,18540,43975,31.12.2014
+12051,"Brandenburg an der Havel, kreisfreie Stadt",330,210,540,31.12.2014
+12052,"Cottbus, kreisfreie Stadt",770,510,1280,31.12.2014
+12053,"Frankfurt (Oder), kreisfreie Stadt",295,205,500,31.12.2014
+12054,"Potsdam, kreisfreie Stadt",780,690,1470,31.12.2014
+12060,"Barnim, Landkreis",555,325,880,31.12.2014
+12061,"Dahme-Spreewald, Landkreis",530,290,820,31.12.2014
+12062,"Elbe-Elster, Landkreis",240,105,345,31.12.2014
+12063,"Havelland, Landkreis",340,180,520,31.12.2014
+12064,"Märkisch-Oderland, Landkreis",455,285,740,31.12.2014
+12065,"Oberhavel, Landkreis",635,395,1030,31.12.2014
+12066,"Oberspreewald-Lausitz, Landkreis",310,180,490,31.12.2014
+12067,"Oder-Spree, Landkreis",990,580,1570,31.12.2014
+12068,"Ostprignitz-Ruppin, Landkreis",360,180,540,31.12.2014
+12069,"Potsdam-Mittelmark, Landkreis",610,250,860,31.12.2014
+12070,"Prignitz, Landkreis",225,170,395,31.12.2014
+12071,"Spree-Neiße, Landkreis",-,-,-,31.12.2014
+12072,"Teltow-Fläming, Landkreis",410,200,610,31.12.2014
+12073,"Uckermark, Landkreis",350,150,500,31.12.2014
+13001,"Greifswald, kreisfreie Stadt (bis 03.09.2011)",-,-,-,31.12.2014
+13002,"Neubrandenburg, kreisfreie Stadt (bis 03.09.2011)",-,-,-,31.12.2014
+13003,"Rostock, kreisfreie Stadt",1270,910,2180,31.12.2014
+13004,"Schwerin, kreisfreie Stadt",760,715,1475,31.12.2014
+13005,"Stralsund, kreisfreie Stadt (bis 03.09.2011)",-,-,-,31.12.2014
+13006,"Wismar, kreisfreie Stadt (bis 03.09.2011)",-,-,-,31.12.2014
+13051,"Bad Doberan, Landkreis (bis 03.09.2011)",-,-,-,31.12.2014
+13052,"Demmin, Landkreis (bis 03.09.2011)",-,-,-,31.12.2014
+13053,"Güstrow, Landkreis (bis 03.09.2011)",-,-,-,31.12.2014
+13054,"Ludwigslust, Landkreis (bis 03.09.2011)",-,-,-,31.12.2014
+13055,"Mecklenburg-Strelitz, Landkreis (bis 03.09.2011)",-,-,-,31.12.2014
+13056,"Müritz, Landkreis (bis 03.09.2011)",-,-,-,31.12.2014
+13057,"Nordvorpommern, Landkreis (bis 03.09.2011)",-,-,-,31.12.2014
+13058,"Nordwestmecklenburg, Landkreis (bis 03.09.2011)",-,-,-,31.12.2014
+13059,"Ostvorpommern, Landkreis (bis 03.09.2011)",-,-,-,31.12.2014
+13060,"Parchim, Landkreis (bis 03.09.2011)",-,-,-,31.12.2014
+13061,"Rügen, Landkreis (bis 03.09.2011)",-,-,-,31.12.2014
+13062,"Uecker-Randow, Landkreis (bis 03.09.2011)",-,-,-,31.12.2014
+13071,"Mecklenburgische Seenplatte, Landkreis",935,590,1525,31.12.2014
+13072,"Rostock, Landkreis",675,400,1075,31.12.2014
+13073,"Vorpommern-Rügen, Landkreis",650,420,1070,31.12.2014
+13074,"Nordwestmecklenburg, Landkreis",505,330,840,31.12.2014
+13075,"Vorpommern-Greifswald, Landkreis",785,450,1230,31.12.2014
+13076,"Ludwigslust-Parchim, Landkreis",955,640,1595,31.12.2014
+14161,"Chemnitz, kreisfreie Stadt (bis 31.07.2008)",-,-,-,31.12.2014
+14166,"Plauen, kreisfreie Stadt (bis 31.07.2008)",-,-,-,31.12.2014
+14167,"Zwickau, kreisfreie Stadt (bis 31.07.2008)",-,-,-,31.12.2014
+14171,"Annaberg, Landkreis (bis 31.07.2008)",-,-,-,31.12.2014
+14173,"Chemnitzer Land, Landkreis (bis 31.07.2008)",-,-,-,31.12.2014
+14177,"Freiberg, Landkreis (bis 31.07.2008)",-,-,-,31.12.2014
+14178,Vogtlandkreis (bis 31.07.2008),-,-,-,31.12.2014
+14181,Mittlerer Erzgebirgskreis (bis 31.07.2008),-,-,-,31.12.2014
+14182,"Mittweida, Landkreis (bis 31.07.2008)",-,-,-,31.12.2014
+14188,"Stollberg, Landkreis (bis 31.07.2008)",-,-,-,31.12.2014
+14191,"Aue-Schwarzenberg, Landkreis (bis 31.07.2008)",-,-,-,31.12.2014
+14193,"Zwickauer Land, Landkreis (bis 31.07.2008)",-,-,-,31.12.2014
+14262,"Dresden, kreisfreie Stadt (bis 31.07.2008)",-,-,-,31.12.2014
+14263,"Görlitz, kreisfreie Stadt (bis 31.07.2008)",-,-,-,31.12.2014
+14264,"Hoyerswerda, kreisfreie Stadt (bis 31.07.2008)",-,-,-,31.12.2014
+14272,"Bautzen, Landkreis (bis 31.07.2008)",-,-,-,31.12.2014
+14280,"Meißen, Landkreis (bis 31.07.2008)",-,-,-,31.12.2014
+14284,Niederschlesischer Oberlausitzkreis (b.31.07.2008),-,-,-,31.12.2014
+14285,"Riesa-Großenhain, Landkreis (bis 31.07.2008)",-,-,-,31.12.2014
+14286,"Löbau-Zittau, Landkreis (bis 31.07.2008)",-,-,-,31.12.2014
+14287,"Sächsische Schweiz, Landkreis (bis 31.07.2008)",-,-,-,31.12.2014
+14290,Weißeritzkreis (bis 31.07.2008),-,-,-,31.12.2014
+14292,"Kamenz, Landkreis (bis 31.07.2008)",-,-,-,31.12.2014
+14365,"Leipzig, kreisfreie Stadt (bis 31.07.2008)",-,-,-,31.12.2014
+14374,"Delitzsch, Landkreis (bis 31.07.2008)",-,-,-,31.12.2014
+14375,"Döbeln, Landkreis (bis 31.07.2008)",-,-,-,31.12.2014
+14379,"Leipziger Land, Landkreis (bis 31.07.2008)",-,-,-,31.12.2014
+14383,Muldentalkreis (bis 31.07.2008),-,-,-,31.12.2014
+14389,"Torgau-Oschatz, Landkreis (bis 31.07.2008)",-,-,-,31.12.2014
+14511,"Chemnitz, kreisfreie Stadt",1435,1020,2455,31.12.2014
+14521,Erzgebirgskreis,645,275,920,31.12.2014
+14522,"Mittelsachsen, Landkreis",745,365,1110,31.12.2014
+14523,Vogtlandkreis,560,235,795,31.12.2014
+14524,"Zwickau, Landkreis",780,395,1175,31.12.2014
+14612,"Dresden, kreisfreie Stadt",2435,1440,3875,31.12.2014
+14625,"Bautzen, Landkreis",645,290,930,31.12.2014
+14626,"Görlitz, Landkreis",510,220,730,31.12.2014
+14627,"Meißen, Landkreis",535,220,755,31.12.2014
+14628,"Sächsische Schweiz-Osterzgebirge, Landkreis",635,140,775,31.12.2014
+14713,"Leipzig, kreisfreie Stadt",3310,2375,5685,31.12.2014
+14729,"Leipzig, Landkreis",640,290,930,31.12.2014
+14730,"Nordsachsen, Landkreis",575,220,795,31.12.2014
+15001,"Dessau-Roßlau, kreisfreie Stadt",445,320,765,31.12.2014
+15002,"Halle (Saale), kreisfreie Stadt",1880,1140,3025,31.12.2014
+15003,"Magdeburg, kreisfreie Stadt",1475,1080,2555,31.12.2014
+15081,Altmarkkreis Salzwedel,300,200,505,31.12.2014
+15082,"Anhalt-Bitterfeld, Landkreis",710,180,895,31.12.2014
+15083,"Börde, Landkreis",795,240,1035,31.12.2014
+15084,Burgenlandkreis,655,325,980,31.12.2014
+15085,"Harz, Landkreis",230,140,370,31.12.2014
+15086,"Jerichower Land, Landkreis",340,115,455,31.12.2014
+15087,"Mansfeld-Südharz, Landkreis",690,325,1015,31.12.2014
+15088,Saalekreis,725,340,1065,31.12.2014
+15089,Salzlandkreis,770,355,1130,31.12.2014
+15090,"Stendal, Landkreis",455,350,805,31.12.2014
+15091,"Wittenberg, Landkreis",515,175,690,31.12.2014
+15101,"Dessau, kreisfreie Stadt (bis 30.06.2007)",-,-,-,31.12.2014
+15151,"Anhalt-Zerbst, Landkreis (bis 30.06.2007)",-,-,-,31.12.2014
+15153,"Bernburg, Landkreis (bis 30.06.2007)",-,-,-,31.12.2014
+15154,"Bitterfeld, Landkreis (bis 30.06.2007)",-,-,-,31.12.2014
+15159,"Köthen, Landkreis (bis 30.06.2007)",-,-,-,31.12.2014
+15171,"Wittenberg, Landkreis (bis 30.06.2007)",-,-,-,31.12.2014
+15202,"Halle (Saale), kreisfreie Stadt (bis 30.06.2007)",-,-,-,31.12.2014
+15256,Burgenlandkreis (bis 30.06.2007),-,-,-,31.12.2014
+15260,"Mansfelder Land, Landkreis (bis 30.06.2007)",-,-,-,31.12.2014
+15261,"Merseburg-Querfurt, Landkreis (bis 30.06.2007)",-,-,-,31.12.2014
+15265,Saalkreis (bis 30.06.2007),-,-,-,31.12.2014
+15266,"Sangerhausen, Landkreis (bis 30.06.2007)",-,-,-,31.12.2014
+15268,"Weißenfels, Landkreis (bis 30.06.2007)",-,-,-,31.12.2014
+15303,"Magdeburg, kreisfreie Stadt (bis 30.06.2007)",-,-,-,31.12.2014
+15352,"Aschersleben-Staßfurt, Landkreis (bis 30.06.2007)",-,-,-,31.12.2014
+15355,Bördekreis (bis 30.06.2007),-,-,-,31.12.2014
+15357,"Halberstadt, Landkreis (bis 30.06.2007)",-,-,-,31.12.2014
+15358,"Jerichower Land, Landkreis (bis 30.06.2007)",-,-,-,31.12.2014
+15362,Ohrekreis (bis 30.06.2007),-,-,-,31.12.2014
+15363,"Stendal, Landkreis (bis 30.06.2007)",-,-,-,31.12.2014
+15364,"Quedlinburg, Landkreis (bis 30.06.2007)",-,-,-,31.12.2014
+15367,"Schönebeck, Landkreis (bis 30.06.2007)",-,-,-,31.12.2014
+15369,"Wernigerode, Landkreis (bis 30.06.2007)",-,-,-,31.12.2014
+15370,Altmarkkreis Salzwedel (bis 30.06.2007),-,-,-,31.12.2014
+16051,"Erfurt, kreisfreie Stadt",1345,1140,2490,31.12.2014
+16052,"Gera, kreisfreie Stadt",260,220,475,31.12.2014
+16053,"Jena, kreisfreie Stadt",705,465,1170,31.12.2014
+16054,"Suhl, kreisfreie Stadt",160,120,280,31.12.2014
+16055,"Weimar, kreisfreie Stadt",235,195,425,31.12.2014
+16056,"Eisenach, kreisfreie Stadt",185,180,365,31.12.2014
+16061,"Eichsfeld, Landkreis",230,190,415,31.12.2014
+16062,"Nordhausen, Landkreis",245,140,390,31.12.2014
+16063,Wartburgkreis,255,170,430,31.12.2014
+16064,Unstrut-Hainich-Kreis,250,100,350,31.12.2014
+16065,Kyffhäuserkreis,170,110,280,31.12.2014
+16066,"Schmalkalden-Meiningen, Landkreis",325,195,525,31.12.2014
+16067,"Gotha, Landkreis",480,235,715,31.12.2014
+16068,"Sömmerda, Landkreis",80,55,135,31.12.2014
+16069,"Hildburghausen, Landkreis",135,105,235,31.12.2014
+16070,Ilm-Kreis,245,215,455,31.12.2014
+16071,"Weimarer Land, Landkreis",185,140,325,31.12.2014
+16072,"Sonneberg, Landkreis",140,95,235,31.12.2014
+16073,"Saalfeld-Rudolstadt, Landkreis",350,205,555,31.12.2014
+16074,Saale-Holzland-Kreis,85,35,120,31.12.2014
+16075,Saale-Orla-Kreis,200,140,340,31.12.2014
+16076,"Greiz, Landkreis",245,55,305,31.12.2014
+16077,"Altenburger Land, Landkreis",265,110,375,31.12.2014
+01001,"Flensburg, kreisfreie Stadt",715,335,1055,31.12.2015
+01002,"Kiel, kreisfreie Stadt",2920,1615,4535,31.12.2015
+01003,"Lübeck, kreisfreie Stadt",1835,1180,3015,31.12.2015
+01004,"Neumünster, kreisfreie Stadt",1055,490,1545,31.12.2015
+01051,"Dithmarschen, Landkreis",975,565,1540,31.12.2015
+01053,"Herzogtum Lauenburg, Landkreis",1375,875,2250,31.12.2015
+01054,"Nordfriesland, Landkreis",1185,610,1795,31.12.2015
+01055,"Ostholstein, Landkreis",1405,690,2095,31.12.2015
+01056,"Pinneberg, Landkreis",2635,1695,4325,31.12.2015
+01057,"Plön, Landkreis",805,385,1190,31.12.2015
+01058,"Rendsburg-Eckernförde, Landkreis",1860,1055,2910,31.12.2015
+01059,"Schleswig-Flensburg, Landkreis",1320,690,2005,31.12.2015
+01060,"Segeberg, Landkreis",1790,910,2700,31.12.2015
+01061,"Steinburg, Landkreis",925,550,1470,31.12.2015
+01062,"Stormarn, Landkreis",1655,1005,2665,31.12.2015
+02000,"Hamburg, kreisfreie Stadt",23330,14075,37405,31.12.2015
+03101,"Braunschweig, kreisfreie Stadt",1835,975,2810,31.12.2015
+03102,"Salzgitter, kreisfreie Stadt",1035,675,1710,31.12.2015
+03103,"Wolfsburg, kreisfreie Stadt",1135,925,2060,31.12.2015
+03151,"Gifhorn, Landkreis",775,615,1390,31.12.2015
+03152,"Göttingen, Landkreis (bis 31.10.2016)",1765,1230,2995,31.12.2015
+03153,"Goslar, Landkreis",850,680,1530,31.12.2015
+03154,"Helmstedt, Landkreis",675,295,970,31.12.2015
+03155,"Northeim, Landkreis",895,865,1760,31.12.2015
+03156,"Osterode am Harz, Landkreis (bis 31.10.2016)",445,330,775,31.12.2015
+03157,"Peine, Landkreis",1140,815,1955,31.12.2015
+03158,"Wolfenbüttel, Landkreis",800,610,1410,31.12.2015
+03159,"Göttingen, Landkreis",-,-,-,31.12.2015
+03201,"Hannover, kreisfreie Stadt (bis 31.10.2001)",-,-,-,31.12.2015
+03241,"Region Hannover, Landkreis",13895,9865,23760,31.12.2015
+03251,"Diepholz, Landkreis",1260,1070,2330,31.12.2015
+03252,"Hameln-Pyrmont, Landkreis",1265,1130,2395,31.12.2015
+03253,"Hannover, Landkreis (bis 31.10.2001)",-,-,-,31.12.2015
+03254,"Hildesheim, Landkreis",2205,1445,3650,31.12.2015
+03255,"Holzminden, Landkreis",420,305,725,31.12.2015
+03256,"Nienburg (Weser), Landkreis",795,675,1470,31.12.2015
+03257,"Schaumburg, Landkreis",900,790,1690,31.12.2015
+03351,"Celle, Landkreis",1355,1080,2435,31.12.2015
+03352,"Cuxhaven, Landkreis",1175,740,1910,31.12.2015
+03353,"Harburg, Landkreis",1980,530,2510,31.12.2015
+03354,"Lüchow-Dannenberg, Landkreis",285,240,525,31.12.2015
+03355,"Lüneburg, Landkreis",1490,845,2335,31.12.2015
+03356,"Osterholz, Landkreis",675,595,1270,31.12.2015
+03357,"Rotenburg (Wümme), Landkreis",955,630,1585,31.12.2015
+03358,Heidekreis,1030,850,1885,31.12.2015
+03359,"Stade, Landkreis",1345,695,2035,31.12.2015
+03360,"Uelzen, Landkreis",555,365,920,31.12.2015
+03361,"Verden, Landkreis",930,680,1610,31.12.2015
+03401,"Delmenhorst, kreisfreie Stadt",800,585,1385,31.12.2015
+03402,"Emden, kreisfreie Stadt",375,215,590,31.12.2015
+03403,"Oldenburg (Oldenburg), kreisfreie Stadt",1680,1195,2880,31.12.2015
+03404,"Osnabrück, kreisfreie Stadt",1570,805,2375,31.12.2015
+03405,"Wilhelmshaven, kreisfreie Stadt",605,455,1060,31.12.2015
+03451,"Ammerland, Landkreis",765,535,1300,31.12.2015
+03452,"Aurich, Landkreis",1445,880,2325,31.12.2015
+03453,"Cloppenburg, Landkreis",990,775,1765,31.12.2015
+03454,"Emsland, Landkreis",1865,1305,3170,31.12.2015
+03455,"Friesland, Landkreis",535,440,975,31.12.2015
+03456,"Grafschaft Bentheim, Landkreis",780,600,1385,31.12.2015
+03457,"Leer, Landkreis",855,585,1440,31.12.2015
+03458,"Oldenburg, Landkreis",945,720,1665,31.12.2015
+03459,"Osnabrück, Landkreis",1105,900,2005,31.12.2015
+03460,"Vechta, Landkreis",1160,760,1920,31.12.2015
+03461,"Wesermarsch, Landkreis",555,350,905,31.12.2015
+03462,"Wittmund, Landkreis",285,240,525,31.12.2015
+04011,"Bremen, kreisfreie Stadt",7475,4725,12200,31.12.2015
+04012,"Bremerhaven, kreisfreie Stadt",1400,980,2385,31.12.2015
+05111,"Düsseldorf, kreisfreie Stadt",7030,5350,12380,31.12.2015
+05112,"Duisburg, kreisfreie Stadt",3655,2745,6400,31.12.2015
+05113,"Essen, kreisfreie Stadt",7190,5220,12410,31.12.2015
+05114,"Krefeld, kreisfreie Stadt",1615,1300,2915,31.12.2015
+05116,"Mönchengladbach, kreisfreie Stadt",2345,1735,4080,31.12.2015
+05117,"Mülheim an der Ruhr, kreisfreie Stadt",1940,1485,3425,31.12.2015
+05119,"Oberhausen, kreisfreie Stadt",1720,1285,3005,31.12.2015
+05120,"Remscheid, kreisfreie Stadt",700,515,1215,31.12.2015
+05122,"Solingen, kreisfreie Stadt",1175,860,2035,31.12.2015
+05124,"Wuppertal, kreisfreie Stadt",4565,3260,7825,31.12.2015
+05154,"Kleve, Landkreis",1975,1055,3030,31.12.2015
+05158,"Mettmann, Landkreis",3255,2510,5765,31.12.2015
+05162,Rhein-Kreis Neuss,2845,1970,4815,31.12.2015
+05166,"Viersen, Landkreis",1755,945,2705,31.12.2015
+05170,"Wesel, Landkreis",3155,1995,5150,31.12.2015
+05313,"Aachen, kreisfreie Stadt (bis 20.10.2009)",-,-,-,31.12.2015
+05314,"Bonn, kreisfreie Stadt",3390,2410,5805,31.12.2015
+05315,"Köln, kreisfreie Stadt",11640,8445,20085,31.12.2015
+05316,"Leverkusen, kreisfreie Stadt",1515,1020,2535,31.12.2015
+05334,"Städteregion Aachen, Landkreis",4945,3040,7985,31.12.2015
+05354,"Aachen, Landkreis (bis 20.10.2009)",-,-,-,31.12.2015
+05358,"Düren, Landkreis",2015,1115,3130,31.12.2015
+05362,Rhein-Erft-Kreis,2960,2005,4965,31.12.2015
+05366,"Euskirchen, Landkreis",1120,585,1705,31.12.2015
+05370,"Heinsberg, Landkreis",1675,820,2495,31.12.2015
+05374,Oberbergischer Kreis,1865,985,2850,31.12.2015
+05378,Rheinisch-Bergischer Kreis,1660,1065,2725,31.12.2015
+05382,Rhein-Sieg-Kreis,3810,2560,6375,31.12.2015
+05512,"Bottrop, kreisfreie Stadt",775,585,1360,31.12.2015
+05513,"Gelsenkirchen, kreisfreie Stadt",2500,1930,4430,31.12.2015
+05515,"Münster, kreisfreie Stadt",2470,1875,4345,31.12.2015
+05554,"Borken, Landkreis",2540,1655,4195,31.12.2015
+05558,"Coesfeld, Landkreis",1395,910,2305,31.12.2015
+05562,"Recklinghausen, Landkreis",4395,3275,7670,31.12.2015
+05566,"Steinfurt, Landkreis",3435,2405,5845,31.12.2015
+05570,"Warendorf, Landkreis",2025,1285,3310,31.12.2015
+05711,"Bielefeld, kreisfreie Stadt",5220,3695,8915,31.12.2015
+05754,"Gütersloh, Landkreis",2810,1795,4605,31.12.2015
+05758,"Herford, Landkreis",1730,1220,2950,31.12.2015
+05762,"Höxter, Landkreis",795,340,1135,31.12.2015
+05766,"Lippe, Landkreis",2690,1770,4460,31.12.2015
+05770,"Minden-Lübbecke, Landkreis",2840,1840,4680,31.12.2015
+05774,"Paderborn, Landkreis",2345,1440,3785,31.12.2015
+05911,"Bochum, kreisfreie Stadt",3300,2230,5530,31.12.2015
+05913,"Dortmund, kreisfreie Stadt",7070,4185,11255,31.12.2015
+05914,"Hagen, kreisfreie Stadt",1625,1105,2730,31.12.2015
+05915,"Hamm, kreisfreie Stadt",1360,970,2325,31.12.2015
+05916,"Herne, kreisfreie Stadt",1415,965,2380,31.12.2015
+05954,Ennepe-Ruhr-Kreis,2575,1820,4395,31.12.2015
+05958,Hochsauerlandkreis,1785,1160,2940,31.12.2015
+05962,Märkischer Kreis,2510,1635,4150,31.12.2015
+05966,"Olpe, Landkreis",950,535,1485,31.12.2015
+05970,"Siegen-Wittgenstein, Landkreis",2885,1850,4735,31.12.2015
+05974,"Soest, Landkreis",2425,1360,3785,31.12.2015
+05978,"Unna, Landkreis",2940,1975,4915,31.12.2015
+06411,"Darmstadt, kreisfreie Stadt",1620,920,2535,31.12.2015
+06412,"Frankfurt am Main, kreisfreie Stadt",6595,4515,11110,31.12.2015
+06413,"Offenbach am Main, kreisfreie Stadt",1095,795,1890,31.12.2015
+06414,"Wiesbaden, kreisfreie Stadt",2530,1895,4420,31.12.2015
+06431,"Bergstraße, Landkreis",2220,1345,3570,31.12.2015
+06432,"Darmstadt-Dieburg, Landkreis",1905,1290,3195,31.12.2015
+06433,"Groß-Gerau, Landkreis",1995,1195,3185,31.12.2015
+06434,Hochtaunuskreis,1670,1050,2720,31.12.2015
+06435,Main-Kinzig-Kreis,2995,2055,5050,31.12.2015
+06436,Main-Taunus-Kreis,1935,1200,3135,31.12.2015
+06437,Odenwaldkreis,285,175,460,31.12.2015
+06438,"Offenbach, Landkreis",2725,1980,4710,31.12.2015
+06439,Rheingau-Taunus-Kreis,1475,880,2355,31.12.2015
+06440,Wetteraukreis,2150,1405,3560,31.12.2015
+06531,"Gießen, Landkreis",2285,1525,3805,31.12.2015
+06532,Lahn-Dill-Kreis,1920,1145,3065,31.12.2015
+06533,"Limburg-Weilburg, Landkreis",1410,840,2250,31.12.2015
+06534,"Marburg-Biedenkopf, Landkreis",1945,1140,3080,31.12.2015
+06535,Vogelsbergkreis,580,350,935,31.12.2015
+06611,"Kassel, kreisfreie Stadt",3335,2050,5385,31.12.2015
+06631,"Fulda, Landkreis",1480,900,2380,31.12.2015
+06632,"Hersfeld-Rotenburg, Landkreis",745,495,1240,31.12.2015
+06633,"Kassel, Landkreis",-,-,-,31.12.2015
+06634,Schwalm-Eder-Kreis,1035,500,1530,31.12.2015
+06635,"Waldeck-Frankenberg, Landkreis",1145,580,1725,31.12.2015
+06636,Werra-Meißner-Kreis,630,325,955,31.12.2015
+07111,"Koblenz, kreisfreie Stadt",1250,850,2095,31.12.2015
+07131,"Ahrweiler, Landkreis",1035,695,1730,31.12.2015
+07132,"Altenkirchen (Westerwald), Landkreis",665,375,1040,31.12.2015
+07133,"Bad Kreuznach, Landkreis",995,635,1630,31.12.2015
+07134,"Birkenfeld, Landkreis",560,280,840,31.12.2015
+07135,"Cochem-Zell, Landkreis",390,225,610,31.12.2015
+07137,"Mayen-Koblenz, Landkreis",1320,950,2270,31.12.2015
+07138,"Neuwied, Landkreis",1265,880,2145,31.12.2015
+07140,Rhein-Hunsrück-Kreis,470,295,760,31.12.2015
+07141,Rhein-Lahn-Kreis,775,495,1270,31.12.2015
+07143,Westerwaldkreis,995,555,1550,31.12.2015
+07211,"Trier, kreisfreie Stadt",1050,750,1795,31.12.2015
+07231,"Bernkastel-Wittlich, Landkreis",580,370,950,31.12.2015
+07232,Eifelkreis Bitburg-Prüm,480,315,790,31.12.2015
+07233,"Vulkaneifel, Landkreis",310,190,500,31.12.2015
+07235,"Trier-Saarburg, Landkreis",620,390,1010,31.12.2015
+07311,"Frankenthal (Pfalz), kreisfreie Stadt",350,220,565,31.12.2015
+07312,"Kaiserslautern, kreisfreie Stadt",755,455,1210,31.12.2015
+07313,"Landau in der Pfalz, kreisfreie Stadt",385,235,625,31.12.2015
+07314,"Ludwigshafen am Rhein, kreisfreie Stadt",1595,1035,2630,31.12.2015
+07315,"Mainz, kreisfreie Stadt",1765,1285,3045,31.12.2015
+07316,"Neustadt an der Weinstraße, kreisfreie Stadt",360,170,530,31.12.2015
+07317,"Pirmasens, kreisfreie Stadt",285,170,460,31.12.2015
+07318,"Speyer, kreisfreie Stadt",375,245,620,31.12.2015
+07319,"Worms, kreisfreie Stadt",655,405,1055,31.12.2015
+07320,"Zweibrücken, kreisfreie Stadt",245,155,400,31.12.2015
+07331,"Alzey-Worms, Landkreis",660,410,1070,31.12.2015
+07332,"Bad Dürkheim, Landkreis",675,465,1140,31.12.2015
+07333,Donnersbergkreis,310,210,525,31.12.2015
+07334,"Germersheim, Landkreis",725,410,1135,31.12.2015
+07335,"Kaiserslautern, Landkreis",520,335,855,31.12.2015
+07336,"Kusel, Landkreis",360,195,555,31.12.2015
+07337,"Südliche Weinstraße, Landkreis",450,235,685,31.12.2015
+07338,Rhein-Pfalz-Kreis,825,540,1360,31.12.2015
+07339,"Mainz-Bingen, Landkreis",1265,730,1995,31.12.2015
+07340,"Südwestpfalz, Landkreis",350,175,525,31.12.2015
+08111,"Stuttgart, kreisfreie Stadt",6205,4145,10350,31.12.2015
+08115,"Böblingen, Landkreis",2015,1415,3430,31.12.2015
+08116,"Esslingen, Landkreis",3890,1685,5575,31.12.2015
+08117,"Göppingen, Landkreis",1385,795,2180,31.12.2015
+08118,"Ludwigsburg, Landkreis",3435,1905,5335,31.12.2015
+08119,Rems-Murr-Kreis,3125,1360,4485,31.12.2015
+08121,"Heilbronn, kreisfreie Stadt",1585,905,2490,31.12.2015
+08125,"Heilbronn, Landkreis",2230,1075,3300,31.12.2015
+08126,Hohenlohekreis,755,110,860,31.12.2015
+08127,"Schwäbisch Hall, Landkreis",985,510,1495,31.12.2015
+08128,Main-Tauber-Kreis,800,285,1085,31.12.2015
+08135,"Heidenheim, Landkreis",965,400,1365,31.12.2015
+08136,Ostalbkreis,1615,990,2610,31.12.2015
+08211,"Baden-Baden, kreisfreie Stadt",690,575,1265,31.12.2015
+08212,"Karlsruhe, kreisfreie Stadt",2155,1395,3545,31.12.2015
+08215,"Karlsruhe, Landkreis",2480,1295,3775,31.12.2015
+08216,"Rastatt, Landkreis",1340,1020,2355,31.12.2015
+08221,"Heidelberg, kreisfreie Stadt",1015,710,1730,31.12.2015
+08222,"Mannheim, kreisfreie Stadt",1560,1055,2615,31.12.2015
+08225,Neckar-Odenwald-Kreis,805,345,1150,31.12.2015
+08226,Rhein-Neckar-Kreis,3460,2115,5575,31.12.2015
+08231,"Pforzheim, kreisfreie Stadt",1885,1340,3220,31.12.2015
+08235,"Calw, Landkreis",1005,405,1405,31.12.2015
+08236,Enzkreis,985,615,1600,31.12.2015
+08237,"Freudenstadt, Landkreis",675,235,910,31.12.2015
+08311,"Freiburg im Breisgau, kreisfreie Stadt",1855,1330,3185,31.12.2015
+08315,"Breisgau-Hochschwarzwald, Landkreis",2085,920,3010,31.12.2015
+08316,"Emmendingen, Landkreis",1320,675,1990,31.12.2015
+08317,Ortenaukreis,2500,1780,4280,31.12.2015
+08325,"Rottweil, Landkreis",1025,590,1615,31.12.2015
+08326,Schwarzwald-Baar-Kreis,1600,620,2215,31.12.2015
+08327,"Tuttlingen, Landkreis",955,390,1340,31.12.2015
+08335,"Konstanz, Landkreis",2180,1225,3405,31.12.2015
+08336,"Lörrach, Landkreis",1570,1095,2665,31.12.2015
+08337,"Waldshut, Landkreis",1105,480,1585,31.12.2015
+08415,"Reutlingen, Landkreis",2495,1115,3605,31.12.2015
+08416,"Tübingen, Landkreis",1650,1020,2670,31.12.2015
+08417,Zollernalbkreis,745,455,1200,31.12.2015
+08421,"Ulm, kreisfreie Stadt",1275,875,2145,31.12.2015
+08425,Alb-Donau-Kreis,1220,625,1845,31.12.2015
+08426,"Biberach, Landkreis",1230,665,1895,31.12.2015
+08435,Bodenseekreis,1360,790,2155,31.12.2015
+08436,"Ravensburg, Landkreis",2230,760,2990,31.12.2015
+08437,"Sigmaringen, Landkreis",830,370,1195,31.12.2015
+09161,"Ingolstadt, kreisfreie Stadt",1300,665,1965,31.12.2015
+09162,"München, kreisfreie Stadt",15155,9745,24900,31.12.2015
+09163,"Rosenheim, kreisfreie Stadt",505,220,730,31.12.2015
+09171,"Altötting, Landkreis",610,405,1015,31.12.2015
+09172,"Berchtesgadener Land, Landkreis",490,235,725,31.12.2015
+09173,"Bad Tölz-Wolfratshausen, Landkreis",575,365,940,31.12.2015
+09174,"Dachau, Landkreis",950,350,1305,31.12.2015
+09175,"Ebersberg, Landkreis",800,175,975,31.12.2015
+09176,"Eichstätt, Landkreis",520,235,755,31.12.2015
+09177,"Erding, Landkreis",640,340,980,31.12.2015
+09178,"Freising, Landkreis",1025,510,1535,31.12.2015
+09179,"Fürstenfeldbruck, Landkreis",1095,685,1780,31.12.2015
+09180,"Garmisch-Partenkirchen, Landkreis",490,235,725,31.12.2015
+09181,"Landsberg am Lech, Landkreis",790,170,960,31.12.2015
+09182,"Miesbach, Landkreis",465,165,630,31.12.2015
+09183,"Mühldorf am Inn, Landkreis",635,190,825,31.12.2015
+09184,"München, Landkreis",2055,880,2940,31.12.2015
+09185,"Neuburg-Schrobenhausen, Landkreis",565,245,810,31.12.2015
+09186,"Pfaffenhofen an der Ilm, Landkreis",755,195,950,31.12.2015
+09187,"Rosenheim, Landkreis",1095,395,1490,31.12.2015
+09188,"Starnberg, Landkreis",795,385,1180,31.12.2015
+09189,"Traunstein, Landkreis",1110,285,1395,31.12.2015
+09190,"Weilheim-Schongau, Landkreis",890,220,1110,31.12.2015
+09261,"Landshut, kreisfreie Stadt",585,265,850,31.12.2015
+09262,"Passau, kreisfreie Stadt",330,155,485,31.12.2015
+09263,"Straubing, kreisfreie Stadt",460,250,710,31.12.2015
+09271,"Deggendorf, Landkreis",1365,520,1885,31.12.2015
+09272,"Freyung-Grafenau, Landkreis",365,145,510,31.12.2015
+09273,"Kelheim, Landkreis",845,330,1180,31.12.2015
+09274,"Landshut, Landkreis",1120,315,1430,31.12.2015
+09275,"Passau, Landkreis",985,390,1380,31.12.2015
+09276,"Regen, Landkreis",565,65,625,31.12.2015
+09277,"Rottal-Inn, Landkreis",695,335,1030,31.12.2015
+09278,"Straubing-Bogen, Landkreis",710,240,950,31.12.2015
+09279,"Dingolfing-Landau, Landkreis",885,130,1015,31.12.2015
+09361,"Amberg, kreisfreie Stadt",465,225,685,31.12.2015
+09362,"Regensburg, kreisfreie Stadt",1170,570,1740,31.12.2015
+09363,"Weiden in der Oberpfalz, kreisfreie Stadt",415,235,650,31.12.2015
+09371,"Amberg-Sulzbach, Landkreis",440,200,635,31.12.2015
+09372,"Cham, Landkreis",475,265,740,31.12.2015
+09373,"Neumarkt in der Oberpfalz, Landkreis",535,270,805,31.12.2015
+09374,"Neustadt an der Waldnaab, Landkreis",340,225,560,31.12.2015
+09375,"Regensburg, Landkreis",870,500,1375,31.12.2015
+09376,"Schwandorf, Landkreis",730,340,1075,31.12.2015
+09377,"Tirschenreuth, Landkreis",340,195,535,31.12.2015
+09461,"Bamberg, kreisfreie Stadt",850,535,1385,31.12.2015
+09462,"Bayreuth, kreisfreie Stadt",760,545,1305,31.12.2015
+09463,"Coburg, kreisfreie Stadt",265,160,425,31.12.2015
+09464,"Hof, kreisfreie Stadt",535,280,810,31.12.2015
+09471,"Bamberg, Landkreis",385,160,545,31.12.2015
+09472,"Bayreuth, Landkreis",150,80,230,31.12.2015
+09473,"Coburg, Landkreis",235,140,380,31.12.2015
+09474,"Forchheim, Landkreis",415,260,675,31.12.2015
+09475,"Hof, Landkreis",285,125,410,31.12.2015
+09476,"Kronach, Landkreis",120,70,190,31.12.2015
+09477,"Kulmbach, Landkreis",205,120,325,31.12.2015
+09478,"Lichtenfels, Landkreis",245,140,385,31.12.2015
+09479,"Wunsiedel im Fichtelgebirge, Landkreis",365,140,505,31.12.2015
+09561,"Ansbach, kreisfreie Stadt",375,135,510,31.12.2015
+09562,"Erlangen, kreisfreie Stadt",735,530,1260,31.12.2015
+09563,"Fürth, kreisfreie Stadt",850,560,1410,31.12.2015
+09564,"Nürnberg, kreisfreie Stadt",7210,5250,12460,31.12.2015
+09565,"Schwabach, kreisfreie Stadt",315,160,475,31.12.2015
+09571,"Ansbach, Landkreis",890,510,1400,31.12.2015
+09572,"Erlangen-Höchstadt, Landkreis",685,225,910,31.12.2015
+09573,"Fürth, Landkreis",665,380,1045,31.12.2015
+09574,"Nürnberger Land, Landkreis",675,290,965,31.12.2015
+09575,"Neustadt an der Aisch-Bad Windsheim, Landkreis",410,235,645,31.12.2015
+09576,"Roth, Landkreis",720,395,1115,31.12.2015
+09577,"Weißenburg-Gunzenhausen, Landkreis",495,335,835,31.12.2015
+09661,"Aschaffenburg, kreisfreie Stadt",720,360,1080,31.12.2015
+09662,"Schweinfurt, kreisfreie Stadt",2495,1670,4165,31.12.2015
+09663,"Würzburg, kreisfreie Stadt",1195,875,2070,31.12.2015
+09671,"Aschaffenburg, Landkreis",625,285,910,31.12.2015
+09672,"Bad Kissingen, Landkreis",425,295,715,31.12.2015
+09673,"Rhön-Grabfeld, Landkreis",245,175,420,31.12.2015
+09674,"Haßberge, Landkreis",390,185,575,31.12.2015
+09675,"Kitzingen, Landkreis",435,140,570,31.12.2015
+09676,"Miltenberg, Landkreis",325,170,495,31.12.2015
+09677,"Main-Spessart, Landkreis",265,150,420,31.12.2015
+09678,"Schweinfurt, Landkreis",385,205,590,31.12.2015
+09679,"Würzburg, Landkreis",340,175,515,31.12.2015
+09761,"Augsburg, kreisfreie Stadt",3380,2210,5590,31.12.2015
+09762,"Kaufbeuren, kreisfreie Stadt",280,105,385,31.12.2015
+09763,"Kempten (Allgäu), kreisfreie Stadt",485,180,665,31.12.2015
+09764,"Memmingen, kreisfreie Stadt",370,165,535,31.12.2015
+09771,"Aichach-Friedberg, Landkreis",750,355,1105,31.12.2015
+09772,"Augsburg, Landkreis",1290,385,1675,31.12.2015
+09773,"Dillingen an der Donau, Landkreis",685,365,1045,31.12.2015
+09774,"Günzburg, Landkreis",645,350,995,31.12.2015
+09775,"Neu-Ulm, Landkreis",1040,250,1285,31.12.2015
+09776,"Lindau (Bodensee), Landkreis",460,280,740,31.12.2015
+09777,"Ostallgäu, Landkreis",845,210,1055,31.12.2015
+09778,"Unterallgäu, Landkreis",720,240,960,31.12.2015
+09779,"Donau-Ries, Landkreis",645,320,965,31.12.2015
+09780,"Oberallgäu, Landkreis",820,225,1045,31.12.2015
+10041,"Regionalverband Saarbrücken, Landkreis",-,-,-,31.12.2015
+10042,"Merzig-Wadern, Landkreis",-,-,-,31.12.2015
+10043,"Neunkirchen, Landkreis",-,-,-,31.12.2015
+10044,"Saarlouis, Landkreis",12175,5825,18005,31.12.2015
+10045,Saarpfalz-Kreis,-,-,-,31.12.2015
+10046,"Sankt Wendel, Landkreis",-,-,-,31.12.2015
+11000,"Berlin, kreisfreie Stadt",43370,26975,70345,31.12.2015
+12051,"Brandenburg an der Havel, kreisfreie Stadt",595,295,895,31.12.2015
+12052,"Cottbus, kreisfreie Stadt",1470,800,2265,31.12.2015
+12053,"Frankfurt (Oder), kreisfreie Stadt",430,270,700,31.12.2015
+12054,"Potsdam, kreisfreie Stadt",1145,900,2045,31.12.2015
+12060,"Barnim, Landkreis",1110,555,1665,31.12.2015
+12061,"Dahme-Spreewald, Landkreis",985,425,1415,31.12.2015
+12062,"Elbe-Elster, Landkreis",545,260,805,31.12.2015
+12063,"Havelland, Landkreis",640,310,950,31.12.2015
+12064,"Märkisch-Oderland, Landkreis",1260,495,1755,31.12.2015
+12065,"Oberhavel, Landkreis",1260,570,1830,31.12.2015
+12066,"Oberspreewald-Lausitz, Landkreis",535,225,760,31.12.2015
+12067,"Oder-Spree, Landkreis",1925,1105,3030,31.12.2015
+12068,"Ostprignitz-Ruppin, Landkreis",640,320,960,31.12.2015
+12069,"Potsdam-Mittelmark, Landkreis",995,400,1395,31.12.2015
+12070,"Prignitz, Landkreis",620,290,910,31.12.2015
+12071,"Spree-Neiße, Landkreis",-,-,-,31.12.2015
+12072,"Teltow-Fläming, Landkreis",1035,460,1500,31.12.2015
+12073,"Uckermark, Landkreis",745,335,1085,31.12.2015
+13001,"Greifswald, kreisfreie Stadt (bis 03.09.2011)",-,-,-,31.12.2015
+13002,"Neubrandenburg, kreisfreie Stadt (bis 03.09.2011)",-,-,-,31.12.2015
+13003,"Rostock, kreisfreie Stadt",2020,1250,3265,31.12.2015
+13004,"Schwerin, kreisfreie Stadt",1205,890,2095,31.12.2015
+13005,"Stralsund, kreisfreie Stadt (bis 03.09.2011)",-,-,-,31.12.2015
+13006,"Wismar, kreisfreie Stadt (bis 03.09.2011)",-,-,-,31.12.2015
+13051,"Bad Doberan, Landkreis (bis 03.09.2011)",-,-,-,31.12.2015
+13052,"Demmin, Landkreis (bis 03.09.2011)",-,-,-,31.12.2015
+13053,"Güstrow, Landkreis (bis 03.09.2011)",-,-,-,31.12.2015
+13054,"Ludwigslust, Landkreis (bis 03.09.2011)",-,-,-,31.12.2015
+13055,"Mecklenburg-Strelitz, Landkreis (bis 03.09.2011)",-,-,-,31.12.2015
+13056,"Müritz, Landkreis (bis 03.09.2011)",-,-,-,31.12.2015
+13057,"Nordvorpommern, Landkreis (bis 03.09.2011)",-,-,-,31.12.2015
+13058,"Nordwestmecklenburg, Landkreis (bis 03.09.2011)",-,-,-,31.12.2015
+13059,"Ostvorpommern, Landkreis (bis 03.09.2011)",-,-,-,31.12.2015
+13060,"Parchim, Landkreis (bis 03.09.2011)",-,-,-,31.12.2015
+13061,"Rügen, Landkreis (bis 03.09.2011)",-,-,-,31.12.2015
+13062,"Uecker-Randow, Landkreis (bis 03.09.2011)",-,-,-,31.12.2015
+13071,"Mecklenburgische Seenplatte, Landkreis",2370,1145,3515,31.12.2015
+13072,"Rostock, Landkreis",2000,1030,3030,31.12.2015
+13073,"Vorpommern-Rügen, Landkreis",2020,1010,3030,31.12.2015
+13074,"Nordwestmecklenburg, Landkreis",1035,560,1595,31.12.2015
+13075,"Vorpommern-Greifswald, Landkreis",2190,1050,3240,31.12.2015
+13076,"Ludwigslust-Parchim, Landkreis",2745,1385,4130,31.12.2015
+14161,"Chemnitz, kreisfreie Stadt (bis 31.07.2008)",-,-,-,31.12.2015
+14166,"Plauen, kreisfreie Stadt (bis 31.07.2008)",-,-,-,31.12.2015
+14167,"Zwickau, kreisfreie Stadt (bis 31.07.2008)",-,-,-,31.12.2015
+14171,"Annaberg, Landkreis (bis 31.07.2008)",-,-,-,31.12.2015
+14173,"Chemnitzer Land, Landkreis (bis 31.07.2008)",-,-,-,31.12.2015
+14177,"Freiberg, Landkreis (bis 31.07.2008)",-,-,-,31.12.2015
+14178,Vogtlandkreis (bis 31.07.2008),-,-,-,31.12.2015
+14181,Mittlerer Erzgebirgskreis (bis 31.07.2008),-,-,-,31.12.2015
+14182,"Mittweida, Landkreis (bis 31.07.2008)",-,-,-,31.12.2015
+14188,"Stollberg, Landkreis (bis 31.07.2008)",-,-,-,31.12.2015
+14191,"Aue-Schwarzenberg, Landkreis (bis 31.07.2008)",-,-,-,31.12.2015
+14193,"Zwickauer Land, Landkreis (bis 31.07.2008)",-,-,-,31.12.2015
+14262,"Dresden, kreisfreie Stadt (bis 31.07.2008)",-,-,-,31.12.2015
+14263,"Görlitz, kreisfreie Stadt (bis 31.07.2008)",-,-,-,31.12.2015
+14264,"Hoyerswerda, kreisfreie Stadt (bis 31.07.2008)",-,-,-,31.12.2015
+14272,"Bautzen, Landkreis (bis 31.07.2008)",-,-,-,31.12.2015
+14280,"Meißen, Landkreis (bis 31.07.2008)",-,-,-,31.12.2015
+14284,Niederschlesischer Oberlausitzkreis (b.31.07.2008),-,-,-,31.12.2015
+14285,"Riesa-Großenhain, Landkreis (bis 31.07.2008)",-,-,-,31.12.2015
+14286,"Löbau-Zittau, Landkreis (bis 31.07.2008)",-,-,-,31.12.2015
+14287,"Sächsische Schweiz, Landkreis (bis 31.07.2008)",-,-,-,31.12.2015
+14290,Weißeritzkreis (bis 31.07.2008),-,-,-,31.12.2015
+14292,"Kamenz, Landkreis (bis 31.07.2008)",-,-,-,31.12.2015
+14365,"Leipzig, kreisfreie Stadt (bis 31.07.2008)",-,-,-,31.12.2015
+14374,"Delitzsch, Landkreis (bis 31.07.2008)",-,-,-,31.12.2015
+14375,"Döbeln, Landkreis (bis 31.07.2008)",-,-,-,31.12.2015
+14379,"Leipziger Land, Landkreis (bis 31.07.2008)",-,-,-,31.12.2015
+14383,Muldentalkreis (bis 31.07.2008),-,-,-,31.12.2015
+14389,"Torgau-Oschatz, Landkreis (bis 31.07.2008)",-,-,-,31.12.2015
+14511,"Chemnitz, kreisfreie Stadt",4285,2025,6305,31.12.2015
+14521,Erzgebirgskreis,1855,720,2575,31.12.2015
+14522,"Mittelsachsen, Landkreis",1785,840,2625,31.12.2015
+14523,Vogtlandkreis,1390,500,1890,31.12.2015
+14524,"Zwickau, Landkreis",1785,860,2650,31.12.2015
+14612,"Dresden, kreisfreie Stadt",3835,1830,5665,31.12.2015
+14625,"Bautzen, Landkreis",1560,685,2245,31.12.2015
+14626,"Görlitz, Landkreis",1200,560,1755,31.12.2015
+14627,"Meißen, Landkreis",1460,585,2050,31.12.2015
+14628,"Sächsische Schweiz-Osterzgebirge, Landkreis",1585,385,1970,31.12.2015
+14713,"Leipzig, kreisfreie Stadt",5035,3190,8230,31.12.2015
+14729,"Leipzig, Landkreis",1290,500,1790,31.12.2015
+14730,"Nordsachsen, Landkreis",1080,425,1505,31.12.2015
+15001,"Dessau-Roßlau, kreisfreie Stadt",650,405,1055,31.12.2015
+15002,"Halle (Saale), kreisfreie Stadt",2940,1510,4450,31.12.2015
+15003,"Magdeburg, kreisfreie Stadt",2275,1360,3635,31.12.2015
+15081,Altmarkkreis Salzwedel,620,405,1025,31.12.2015
+15082,"Anhalt-Bitterfeld, Landkreis",1195,375,1570,31.12.2015
+15083,"Börde, Landkreis",1280,345,1625,31.12.2015
+15084,Burgenlandkreis,1255,550,1805,31.12.2015
+15085,"Harz, Landkreis",870,370,1240,31.12.2015
+15086,"Jerichower Land, Landkreis",600,140,740,31.12.2015
+15087,"Mansfeld-Südharz, Landkreis",1080,415,1495,31.12.2015
+15088,Saalekreis,1110,575,1685,31.12.2015
+15089,Salzlandkreis,1275,695,1970,31.12.2015
+15090,"Stendal, Landkreis",965,615,1580,31.12.2015
+15091,"Wittenberg, Landkreis",955,225,1175,31.12.2015
+15101,"Dessau, kreisfreie Stadt (bis 30.06.2007)",-,-,-,31.12.2015
+15151,"Anhalt-Zerbst, Landkreis (bis 30.06.2007)",-,-,-,31.12.2015
+15153,"Bernburg, Landkreis (bis 30.06.2007)",-,-,-,31.12.2015
+15154,"Bitterfeld, Landkreis (bis 30.06.2007)",-,-,-,31.12.2015
+15159,"Köthen, Landkreis (bis 30.06.2007)",-,-,-,31.12.2015
+15171,"Wittenberg, Landkreis (bis 30.06.2007)",-,-,-,31.12.2015
+15202,"Halle (Saale), kreisfreie Stadt (bis 30.06.2007)",-,-,-,31.12.2015
+15256,Burgenlandkreis (bis 30.06.2007),-,-,-,31.12.2015
+15260,"Mansfelder Land, Landkreis (bis 30.06.2007)",-,-,-,31.12.2015
+15261,"Merseburg-Querfurt, Landkreis (bis 30.06.2007)",-,-,-,31.12.2015
+15265,Saalkreis (bis 30.06.2007),-,-,-,31.12.2015
+15266,"Sangerhausen, Landkreis (bis 30.06.2007)",-,-,-,31.12.2015
+15268,"Weißenfels, Landkreis (bis 30.06.2007)",-,-,-,31.12.2015
+15303,"Magdeburg, kreisfreie Stadt (bis 30.06.2007)",-,-,-,31.12.2015
+15352,"Aschersleben-Staßfurt, Landkreis (bis 30.06.2007)",-,-,-,31.12.2015
+15355,Bördekreis (bis 30.06.2007),-,-,-,31.12.2015
+15357,"Halberstadt, Landkreis (bis 30.06.2007)",-,-,-,31.12.2015
+15358,"Jerichower Land, Landkreis (bis 30.06.2007)",-,-,-,31.12.2015
+15362,Ohrekreis (bis 30.06.2007),-,-,-,31.12.2015
+15363,"Stendal, Landkreis (bis 30.06.2007)",-,-,-,31.12.2015
+15364,"Quedlinburg, Landkreis (bis 30.06.2007)",-,-,-,31.12.2015
+15367,"Schönebeck, Landkreis (bis 30.06.2007)",-,-,-,31.12.2015
+15369,"Wernigerode, Landkreis (bis 30.06.2007)",-,-,-,31.12.2015
+15370,Altmarkkreis Salzwedel (bis 30.06.2007),-,-,-,31.12.2015
+16051,"Erfurt, kreisfreie Stadt",2235,1490,3725,31.12.2015
+16052,"Gera, kreisfreie Stadt",540,375,915,31.12.2015
+16053,"Jena, kreisfreie Stadt",1265,760,2025,31.12.2015
+16054,"Suhl, kreisfreie Stadt",245,135,380,31.12.2015
+16055,"Weimar, kreisfreie Stadt",450,345,795,31.12.2015
+16056,"Eisenach, kreisfreie Stadt",340,240,580,31.12.2015
+16061,"Eichsfeld, Landkreis",515,345,855,31.12.2015
+16062,"Nordhausen, Landkreis",480,190,670,31.12.2015
+16063,Wartburgkreis,520,250,770,31.12.2015
+16064,Unstrut-Hainich-Kreis,675,300,975,31.12.2015
+16065,Kyffhäuserkreis,535,230,760,31.12.2015
+16066,"Schmalkalden-Meiningen, Landkreis",515,285,800,31.12.2015
+16067,"Gotha, Landkreis",920,410,1330,31.12.2015
+16068,"Sömmerda, Landkreis",240,135,370,31.12.2015
+16069,"Hildburghausen, Landkreis",320,190,505,31.12.2015
+16070,Ilm-Kreis,560,365,925,31.12.2015
+16071,"Weimarer Land, Landkreis",395,180,575,31.12.2015
+16072,"Sonneberg, Landkreis",360,170,530,31.12.2015
+16073,"Saalfeld-Rudolstadt, Landkreis",560,265,820,31.12.2015
+16074,Saale-Holzland-Kreis,55,15,70,31.12.2015
+16075,Saale-Orla-Kreis,430,275,705,31.12.2015
+16076,"Greiz, Landkreis",550,170,720,31.12.2015
+16077,"Altenburger Land, Landkreis",515,225,740,31.12.2015
+01001,"Flensburg, kreisfreie Stadt",1410,705,2115,31.12.2016
+01002,"Kiel, kreisfreie Stadt",3945,2255,6200,31.12.2016
+01003,"Lübeck, kreisfreie Stadt",2980,1805,4785,31.12.2016
+01004,"Neumünster, kreisfreie Stadt",2265,1170,3435,31.12.2016
+01051,"Dithmarschen, Landkreis",1720,960,2685,31.12.2016
+01053,"Herzogtum Lauenburg, Landkreis",2225,1365,3590,31.12.2016
+01054,"Nordfriesland, Landkreis",2085,1195,3280,31.12.2016
+01055,"Ostholstein, Landkreis",2300,1195,3495,31.12.2016
+01056,"Pinneberg, Landkreis",4280,2645,6925,31.12.2016
+01057,"Plön, Landkreis",1500,765,2265,31.12.2016
+01058,"Rendsburg-Eckernförde, Landkreis",3135,1740,4875,31.12.2016
+01059,"Schleswig-Flensburg, Landkreis",2210,1285,3495,31.12.2016
+01060,"Segeberg, Landkreis",3095,1670,4765,31.12.2016
+01061,"Steinburg, Landkreis",1880,1130,3010,31.12.2016
+01062,"Stormarn, Landkreis",2935,1740,4670,31.12.2016
+02000,"Hamburg, kreisfreie Stadt",32425,18750,51170,31.12.2016
+03101,"Braunschweig, kreisfreie Stadt",2450,1240,3690,31.12.2016
+03102,"Salzgitter, kreisfreie Stadt",2340,1340,3680,31.12.2016
+03103,"Wolfsburg, kreisfreie Stadt",1740,1175,2915,31.12.2016
+03151,"Gifhorn, Landkreis",1495,815,2310,31.12.2016
+03152,"Göttingen, Landkreis (bis 31.10.2016)",-,-,-,31.12.2016
+03153,"Goslar, Landkreis",1740,1185,2920,31.12.2016
+03154,"Helmstedt, Landkreis",1190,570,1760,31.12.2016
+03155,"Northeim, Landkreis",1385,1115,2500,31.12.2016
+03156,"Osterode am Harz, Landkreis (bis 31.10.2016)",-,-,-,31.12.2016
+03157,"Peine, Landkreis",1680,1020,2700,31.12.2016
+03158,"Wolfenbüttel, Landkreis",1410,900,2310,31.12.2016
+03159,"Göttingen, Landkreis",3690,2335,6025,31.12.2016
+03201,"Hannover, kreisfreie Stadt (bis 31.10.2001)",-,-,-,31.12.2016
+03241,"Region Hannover, Landkreis",19745,12710,32455,31.12.2016
+03251,"Diepholz, Landkreis",2500,1870,4370,31.12.2016
+03252,"Hameln-Pyrmont, Landkreis",2205,1695,3900,31.12.2016
+03253,"Hannover, Landkreis (bis 31.10.2001)",-,-,-,31.12.2016
+03254,"Hildesheim, Landkreis",3745,2020,5765,31.12.2016
+03255,"Holzminden, Landkreis",900,525,1425,31.12.2016
+03256,"Nienburg (Weser), Landkreis",1725,1370,3095,31.12.2016
+03257,"Schaumburg, Landkreis",1910,1415,3325,31.12.2016
+03351,"Celle, Landkreis",2405,1640,4045,31.12.2016
+03352,"Cuxhaven, Landkreis",2290,1480,3770,31.12.2016
+03353,"Harburg, Landkreis",3315,680,3995,31.12.2016
+03354,"Lüchow-Dannenberg, Landkreis",380,290,670,31.12.2016
+03355,"Lüneburg, Landkreis",2555,1315,3870,31.12.2016
+03356,"Osterholz, Landkreis",1130,840,1970,31.12.2016
+03357,"Rotenburg (Wümme), Landkreis",1850,970,2820,31.12.2016
+03358,Heidekreis,1530,1065,2595,31.12.2016
+03359,"Stade, Landkreis",2580,1275,3855,31.12.2016
+03360,"Uelzen, Landkreis",900,555,1450,31.12.2016
+03361,"Verden, Landkreis",1985,1050,3035,31.12.2016
+03401,"Delmenhorst, kreisfreie Stadt",1530,1015,2540,31.12.2016
+03402,"Emden, kreisfreie Stadt",830,380,1210,31.12.2016
+03403,"Oldenburg (Oldenburg), kreisfreie Stadt",2585,1910,4495,31.12.2016
+03404,"Osnabrück, kreisfreie Stadt",2865,1275,4140,31.12.2016
+03405,"Wilhelmshaven, kreisfreie Stadt",1205,705,1910,31.12.2016
+03451,"Ammerland, Landkreis",1380,940,2320,31.12.2016
+03452,"Aurich, Landkreis",2485,1160,3645,31.12.2016
+03453,"Cloppenburg, Landkreis",2010,1455,3470,31.12.2016
+03454,"Emsland, Landkreis",3790,2110,5900,31.12.2016
+03455,"Friesland, Landkreis",925,705,1630,31.12.2016
+03456,"Grafschaft Bentheim, Landkreis",1545,850,2395,31.12.2016
+03457,"Leer, Landkreis",1830,1050,2880,31.12.2016
+03458,"Oldenburg, Landkreis",1765,1235,3000,31.12.2016
+03459,"Osnabrück, Landkreis",2645,1760,4400,31.12.2016
+03460,"Vechta, Landkreis",2220,1240,3465,31.12.2016
+03461,"Wesermarsch, Landkreis",940,635,1575,31.12.2016
+03462,"Wittmund, Landkreis",520,370,895,31.12.2016
+04011,"Bremen, kreisfreie Stadt",12005,6830,18835,31.12.2016
+04012,"Bremerhaven, kreisfreie Stadt",2540,1710,4250,31.12.2016
+05111,"Düsseldorf, kreisfreie Stadt",10495,7335,17830,31.12.2016
+05112,"Duisburg, kreisfreie Stadt",7565,4610,12175,31.12.2016
+05113,"Essen, kreisfreie Stadt",13300,8130,21430,31.12.2016
+05114,"Krefeld, kreisfreie Stadt",3570,2170,5740,31.12.2016
+05116,"Mönchengladbach, kreisfreie Stadt",4050,2535,6580,31.12.2016
+05117,"Mülheim an der Ruhr, kreisfreie Stadt",3265,2145,5405,31.12.2016
+05119,"Oberhausen, kreisfreie Stadt",3460,2065,5525,31.12.2016
+05120,"Remscheid, kreisfreie Stadt",1470,900,2365,31.12.2016
+05122,"Solingen, kreisfreie Stadt",1940,1240,3180,31.12.2016
+05124,"Wuppertal, kreisfreie Stadt",7295,4540,11835,31.12.2016
+05154,"Kleve, Landkreis",3390,1565,4950,31.12.2016
+05158,"Mettmann, Landkreis",5440,3555,8995,31.12.2016
+05162,Rhein-Kreis Neuss,5170,3050,8220,31.12.2016
+05166,"Viersen, Landkreis",3180,1645,4825,31.12.2016
+05170,"Wesel, Landkreis",5985,3365,9350,31.12.2016
+05313,"Aachen, kreisfreie Stadt (bis 20.10.2009)",-,-,-,31.12.2016
+05314,"Bonn, kreisfreie Stadt",5475,3260,8735,31.12.2016
+05315,"Köln, kreisfreie Stadt",17495,11790,29285,31.12.2016
+05316,"Leverkusen, kreisfreie Stadt",2205,1395,3600,31.12.2016
+05334,"Städteregion Aachen, Landkreis",8385,4635,13020,31.12.2016
+05354,"Aachen, Landkreis (bis 20.10.2009)",-,-,-,31.12.2016
+05358,"Düren, Landkreis",3435,1830,5265,31.12.2016
+05362,Rhein-Erft-Kreis,6255,3545,9800,31.12.2016
+05366,"Euskirchen, Landkreis",2320,1185,3505,31.12.2016
+05370,"Heinsberg, Landkreis",2980,1385,4365,31.12.2016
+05374,Oberbergischer Kreis,3750,1835,5590,31.12.2016
+05378,Rheinisch-Bergischer Kreis,3530,1920,5450,31.12.2016
+05382,Rhein-Sieg-Kreis,7110,4100,11210,31.12.2016
+05512,"Bottrop, kreisfreie Stadt",1520,935,2455,31.12.2016
+05513,"Gelsenkirchen, kreisfreie Stadt",3995,2440,6435,31.12.2016
+05515,"Münster, kreisfreie Stadt",4295,2930,7225,31.12.2016
+05554,"Borken, Landkreis",4025,2270,6290,31.12.2016
+05558,"Coesfeld, Landkreis",2545,1405,3950,31.12.2016
+05562,"Recklinghausen, Landkreis",8765,5275,14040,31.12.2016
+05566,"Steinfurt, Landkreis",7065,3910,10980,31.12.2016
+05570,"Warendorf, Landkreis",3480,1815,5295,31.12.2016
+05711,"Bielefeld, kreisfreie Stadt",8715,5745,14460,31.12.2016
+05754,"Gütersloh, Landkreis",4460,2640,7100,31.12.2016
+05758,"Herford, Landkreis",4005,2280,6285,31.12.2016
+05762,"Höxter, Landkreis",1785,720,2505,31.12.2016
+05766,"Lippe, Landkreis",4845,2920,7765,31.12.2016
+05770,"Minden-Lübbecke, Landkreis",5265,3040,8305,31.12.2016
+05774,"Paderborn, Landkreis",4570,2570,7140,31.12.2016
+05911,"Bochum, kreisfreie Stadt",6345,3525,9870,31.12.2016
+05913,"Dortmund, kreisfreie Stadt",13100,7255,20350,31.12.2016
+05914,"Hagen, kreisfreie Stadt",2950,1655,4600,31.12.2016
+05915,"Hamm, kreisfreie Stadt",2225,1410,3640,31.12.2016
+05916,"Herne, kreisfreie Stadt",2535,1355,3890,31.12.2016
+05954,Ennepe-Ruhr-Kreis,4870,3005,7875,31.12.2016
+05958,Hochsauerlandkreis,3700,2040,5740,31.12.2016
+05962,Märkischer Kreis,5095,2810,7905,31.12.2016
+05966,"Olpe, Landkreis",1915,1030,2945,31.12.2016
+05970,"Siegen-Wittgenstein, Landkreis",4825,2605,7430,31.12.2016
+05974,"Soest, Landkreis",3860,2000,5860,31.12.2016
+05978,"Unna, Landkreis",5555,3485,9040,31.12.2016
+06411,"Darmstadt, kreisfreie Stadt",2095,1200,3295,31.12.2016
+06412,"Frankfurt am Main, kreisfreie Stadt",8925,5430,14355,31.12.2016
+06413,"Offenbach am Main, kreisfreie Stadt",1125,815,1940,31.12.2016
+06414,"Wiesbaden, kreisfreie Stadt",4115,2700,6815,31.12.2016
+06431,"Bergstraße, Landkreis",3665,1940,5600,31.12.2016
+06432,"Darmstadt-Dieburg, Landkreis",3570,1990,5560,31.12.2016
+06433,"Groß-Gerau, Landkreis",3635,1915,5550,31.12.2016
+06434,Hochtaunuskreis,2905,1425,4335,31.12.2016
+06435,Main-Kinzig-Kreis,6095,3570,9670,31.12.2016
+06436,Main-Taunus-Kreis,3035,1655,4690,31.12.2016
+06437,Odenwaldkreis,515,270,780,31.12.2016
+06438,"Offenbach, Landkreis",4550,2835,7385,31.12.2016
+06439,Rheingau-Taunus-Kreis,2405,1285,3690,31.12.2016
+06440,Wetteraukreis,3575,1980,5555,31.12.2016
+06531,"Gießen, Landkreis",5855,3175,9035,31.12.2016
+06532,Lahn-Dill-Kreis,3440,1835,5275,31.12.2016
+06533,"Limburg-Weilburg, Landkreis",2490,1330,3820,31.12.2016
+06534,"Marburg-Biedenkopf, Landkreis",3190,1605,4795,31.12.2016
+06535,Vogelsbergkreis,1205,610,1810,31.12.2016
+06611,"Kassel, kreisfreie Stadt",6285,3580,9865,31.12.2016
+06631,"Fulda, Landkreis",3065,1630,4695,31.12.2016
+06632,"Hersfeld-Rotenburg, Landkreis",1110,650,1765,31.12.2016
+06633,"Kassel, Landkreis",-,-,-,31.12.2016
+06634,Schwalm-Eder-Kreis,2375,1140,3510,31.12.2016
+06635,"Waldeck-Frankenberg, Landkreis",2240,1090,3330,31.12.2016
+06636,Werra-Meißner-Kreis,1265,620,1885,31.12.2016
+07111,"Koblenz, kreisfreie Stadt",2055,1210,3265,31.12.2016
+07131,"Ahrweiler, Landkreis",1710,1045,2755,31.12.2016
+07132,"Altenkirchen (Westerwald), Landkreis",1160,600,1760,31.12.2016
+07133,"Bad Kreuznach, Landkreis",1470,915,2385,31.12.2016
+07134,"Birkenfeld, Landkreis",800,440,1240,31.12.2016
+07135,"Cochem-Zell, Landkreis",595,285,880,31.12.2016
+07137,"Mayen-Koblenz, Landkreis",2105,1375,3480,31.12.2016
+07138,"Neuwied, Landkreis",1925,1140,3060,31.12.2016
+07140,Rhein-Hunsrück-Kreis,990,525,1515,31.12.2016
+07141,Rhein-Lahn-Kreis,1280,745,2025,31.12.2016
+07143,Westerwaldkreis,1785,955,2740,31.12.2016
+07211,"Trier, kreisfreie Stadt",2540,1510,4045,31.12.2016
+07231,"Bernkastel-Wittlich, Landkreis",1100,630,1730,31.12.2016
+07232,Eifelkreis Bitburg-Prüm,775,395,1170,31.12.2016
+07233,"Vulkaneifel, Landkreis",520,265,785,31.12.2016
+07235,"Trier-Saarburg, Landkreis",1100,630,1725,31.12.2016
+07311,"Frankenthal (Pfalz), kreisfreie Stadt",530,280,805,31.12.2016
+07312,"Kaiserslautern, kreisfreie Stadt",1300,660,1960,31.12.2016
+07313,"Landau in der Pfalz, kreisfreie Stadt",660,380,1040,31.12.2016
+07314,"Ludwigshafen am Rhein, kreisfreie Stadt",2500,1445,3945,31.12.2016
+07315,"Mainz, kreisfreie Stadt",2895,1765,4660,31.12.2016
+07316,"Neustadt an der Weinstraße, kreisfreie Stadt",620,325,940,31.12.2016
+07317,"Pirmasens, kreisfreie Stadt",555,310,865,31.12.2016
+07318,"Speyer, kreisfreie Stadt",625,355,980,31.12.2016
+07319,"Worms, kreisfreie Stadt",1110,605,1720,31.12.2016
+07320,"Zweibrücken, kreisfreie Stadt",455,255,715,31.12.2016
+07331,"Alzey-Worms, Landkreis",1270,705,1975,31.12.2016
+07332,"Bad Dürkheim, Landkreis",1100,630,1730,31.12.2016
+07333,Donnersbergkreis,570,310,880,31.12.2016
+07334,"Germersheim, Landkreis",1210,620,1830,31.12.2016
+07335,"Kaiserslautern, Landkreis",970,555,1525,31.12.2016
+07336,"Kusel, Landkreis",780,370,1150,31.12.2016
+07337,"Südliche Weinstraße, Landkreis",820,395,1215,31.12.2016
+07338,Rhein-Pfalz-Kreis,1490,835,2325,31.12.2016
+07339,"Mainz-Bingen, Landkreis",2330,1275,3605,31.12.2016
+07340,"Südwestpfalz, Landkreis",600,300,900,31.12.2016
+08111,"Stuttgart, kreisfreie Stadt",8640,5405,14045,31.12.2016
+08115,"Böblingen, Landkreis",3810,2420,6230,31.12.2016
+08116,"Esslingen, Landkreis",7500,2105,9610,31.12.2016
+08117,"Göppingen, Landkreis",2575,1505,4080,31.12.2016
+08118,"Ludwigsburg, Landkreis",5690,2840,8530,31.12.2016
+08119,Rems-Murr-Kreis,5100,2445,7545,31.12.2016
+08121,"Heilbronn, kreisfreie Stadt",2360,1055,3415,31.12.2016
+08125,"Heilbronn, Landkreis",3375,1505,4875,31.12.2016
+08126,Hohenlohekreis,1350,310,1660,31.12.2016
+08127,"Schwäbisch Hall, Landkreis",1730,995,2725,31.12.2016
+08128,Main-Tauber-Kreis,1695,590,2285,31.12.2016
+08135,"Heidenheim, Landkreis",1560,745,2305,31.12.2016
+08136,Ostalbkreis,2510,1285,3795,31.12.2016
+08211,"Baden-Baden, kreisfreie Stadt",1050,670,1720,31.12.2016
+08212,"Karlsruhe, kreisfreie Stadt",4355,2125,6475,31.12.2016
+08215,"Karlsruhe, Landkreis",4230,1945,6170,31.12.2016
+08216,"Rastatt, Landkreis",2500,1775,4275,31.12.2016
+08221,"Heidelberg, kreisfreie Stadt",2345,1185,3525,31.12.2016
+08222,"Mannheim, kreisfreie Stadt",2035,1130,3170,31.12.2016
+08225,Neckar-Odenwald-Kreis,1610,475,2085,31.12.2016
+08226,Rhein-Neckar-Kreis,6055,2815,8870,31.12.2016
+08231,"Pforzheim, kreisfreie Stadt",2595,1950,4540,31.12.2016
+08235,"Calw, Landkreis",1815,675,2485,31.12.2016
+08236,Enzkreis,1745,1265,3015,31.12.2016
+08237,"Freudenstadt, Landkreis",1290,555,1845,31.12.2016
+08311,"Freiburg im Breisgau, kreisfreie Stadt",3750,2245,5995,31.12.2016
+08315,"Breisgau-Hochschwarzwald, Landkreis",3350,1480,4825,31.12.2016
+08316,"Emmendingen, Landkreis",2060,945,3005,31.12.2016
+08317,Ortenaukreis,4200,2640,6840,31.12.2016
+08325,"Rottweil, Landkreis",1590,1015,2610,31.12.2016
+08326,Schwarzwald-Baar-Kreis,1970,800,2770,31.12.2016
+08327,"Tuttlingen, Landkreis",1425,715,2140,31.12.2016
+08335,"Konstanz, Landkreis",3295,1790,5090,31.12.2016
+08336,"Lörrach, Landkreis",2370,1535,3905,31.12.2016
+08337,"Waldshut, Landkreis",1850,830,2680,31.12.2016
+08415,"Reutlingen, Landkreis",3670,1565,5235,31.12.2016
+08416,"Tübingen, Landkreis",2385,1530,3915,31.12.2016
+08417,Zollernalbkreis,1015,600,1615,31.12.2016
+08421,"Ulm, kreisfreie Stadt",1980,1040,3025,31.12.2016
+08425,Alb-Donau-Kreis,2120,945,3065,31.12.2016
+08426,"Biberach, Landkreis",2295,1125,3420,31.12.2016
+08435,Bodenseekreis,2295,1410,3705,31.12.2016
+08436,"Ravensburg, Landkreis",3475,1190,4670,31.12.2016
+08437,"Sigmaringen, Landkreis",1650,665,2310,31.12.2016
+09161,"Ingolstadt, kreisfreie Stadt",1340,735,2075,31.12.2016
+09162,"München, kreisfreie Stadt",21300,11845,33145,31.12.2016
+09163,"Rosenheim, kreisfreie Stadt",770,375,1145,31.12.2016
+09171,"Altötting, Landkreis",1000,720,1725,31.12.2016
+09172,"Berchtesgadener Land, Landkreis",850,460,1310,31.12.2016
+09173,"Bad Tölz-Wolfratshausen, Landkreis",1200,690,1890,31.12.2016
+09174,"Dachau, Landkreis",1425,370,1795,31.12.2016
+09175,"Ebersberg, Landkreis",1200,200,1400,31.12.2016
+09176,"Eichstätt, Landkreis",1430,475,1905,31.12.2016
+09177,"Erding, Landkreis",1010,455,1465,31.12.2016
+09178,"Freising, Landkreis",1760,745,2505,31.12.2016
+09179,"Fürstenfeldbruck, Landkreis",1685,1140,2825,31.12.2016
+09180,"Garmisch-Partenkirchen, Landkreis",825,390,1215,31.12.2016
+09181,"Landsberg am Lech, Landkreis",1455,225,1685,31.12.2016
+09182,"Miesbach, Landkreis",765,175,940,31.12.2016
+09183,"Mühldorf am Inn, Landkreis",1150,415,1570,31.12.2016
+09184,"München, Landkreis",3475,1235,4710,31.12.2016
+09185,"Neuburg-Schrobenhausen, Landkreis",885,350,1235,31.12.2016
+09186,"Pfaffenhofen an der Ilm, Landkreis",1220,235,1460,31.12.2016
+09187,"Rosenheim, Landkreis",1995,750,2745,31.12.2016
+09188,"Starnberg, Landkreis",1325,665,1990,31.12.2016
+09189,"Traunstein, Landkreis",2015,565,2580,31.12.2016
+09190,"Weilheim-Schongau, Landkreis",1610,410,2015,31.12.2016
+09261,"Landshut, kreisfreie Stadt",750,290,1040,31.12.2016
+09262,"Passau, kreisfreie Stadt",885,420,1305,31.12.2016
+09263,"Straubing, kreisfreie Stadt",625,300,920,31.12.2016
+09271,"Deggendorf, Landkreis",1230,485,1715,31.12.2016
+09272,"Freyung-Grafenau, Landkreis",390,180,570,31.12.2016
+09273,"Kelheim, Landkreis",1230,450,1680,31.12.2016
+09274,"Landshut, Landkreis",1285,315,1600,31.12.2016
+09275,"Passau, Landkreis",1190,480,1670,31.12.2016
+09276,"Regen, Landkreis",850,170,1020,31.12.2016
+09277,"Rottal-Inn, Landkreis",830,365,1195,31.12.2016
+09278,"Straubing-Bogen, Landkreis",740,270,1010,31.12.2016
+09279,"Dingolfing-Landau, Landkreis",865,145,1010,31.12.2016
+09361,"Amberg, kreisfreie Stadt",590,290,880,31.12.2016
+09362,"Regensburg, kreisfreie Stadt",2450,1165,3615,31.12.2016
+09363,"Weiden in der Oberpfalz, kreisfreie Stadt",780,320,1100,31.12.2016
+09371,"Amberg-Sulzbach, Landkreis",615,225,840,31.12.2016
+09372,"Cham, Landkreis",720,335,1055,31.12.2016
+09373,"Neumarkt in der Oberpfalz, Landkreis",615,300,910,31.12.2016
+09374,"Neustadt an der Waldnaab, Landkreis",515,245,760,31.12.2016
+09375,"Regensburg, Landkreis",950,535,1485,31.12.2016
+09376,"Schwandorf, Landkreis",1065,475,1540,31.12.2016
+09377,"Tirschenreuth, Landkreis",365,195,560,31.12.2016
+09461,"Bamberg, kreisfreie Stadt",2105,1085,3185,31.12.2016
+09462,"Bayreuth, kreisfreie Stadt",1720,960,2685,31.12.2016
+09463,"Coburg, kreisfreie Stadt",430,215,645,31.12.2016
+09464,"Hof, kreisfreie Stadt",975,490,1470,31.12.2016
+09471,"Bamberg, Landkreis",510,210,720,31.12.2016
+09472,"Bayreuth, Landkreis",235,115,350,31.12.2016
+09473,"Coburg, Landkreis",340,170,510,31.12.2016
+09474,"Forchheim, Landkreis",575,320,895,31.12.2016
+09475,"Hof, Landkreis",375,200,575,31.12.2016
+09476,"Kronach, Landkreis",245,130,375,31.12.2016
+09477,"Kulmbach, Landkreis",340,200,535,31.12.2016
+09478,"Lichtenfels, Landkreis",365,205,570,31.12.2016
+09479,"Wunsiedel im Fichtelgebirge, Landkreis",505,240,745,31.12.2016
+09561,"Ansbach, kreisfreie Stadt",720,300,1020,31.12.2016
+09562,"Erlangen, kreisfreie Stadt",1080,655,1735,31.12.2016
+09563,"Fürth, kreisfreie Stadt",1365,845,2205,31.12.2016
+09564,"Nürnberg, kreisfreie Stadt",9095,6105,15200,31.12.2016
+09565,"Schwabach, kreisfreie Stadt",450,205,655,31.12.2016
+09571,"Ansbach, Landkreis",1340,655,1995,31.12.2016
+09572,"Erlangen-Höchstadt, Landkreis",915,400,1315,31.12.2016
+09573,"Fürth, Landkreis",1540,870,2410,31.12.2016
+09574,"Nürnberger Land, Landkreis",1270,605,1880,31.12.2016
+09575,"Neustadt an der Aisch-Bad Windsheim, Landkreis",715,420,1135,31.12.2016
+09576,"Roth, Landkreis",1535,815,2350,31.12.2016
+09577,"Weißenburg-Gunzenhausen, Landkreis",750,475,1225,31.12.2016
+09661,"Aschaffenburg, kreisfreie Stadt",1105,520,1625,31.12.2016
+09662,"Schweinfurt, kreisfreie Stadt",4320,2535,6855,31.12.2016
+09663,"Würzburg, kreisfreie Stadt",1480,915,2395,31.12.2016
+09671,"Aschaffenburg, Landkreis",920,475,1395,31.12.2016
+09672,"Bad Kissingen, Landkreis",715,430,1145,31.12.2016
+09673,"Rhön-Grabfeld, Landkreis",320,200,515,31.12.2016
+09674,"Haßberge, Landkreis",490,240,730,31.12.2016
+09675,"Kitzingen, Landkreis",590,285,875,31.12.2016
+09676,"Miltenberg, Landkreis",625,335,960,31.12.2016
+09677,"Main-Spessart, Landkreis",480,240,720,31.12.2016
+09678,"Schweinfurt, Landkreis",530,280,810,31.12.2016
+09679,"Würzburg, Landkreis",765,300,1065,31.12.2016
+09761,"Augsburg, kreisfreie Stadt",5170,2905,8075,31.12.2016
+09762,"Kaufbeuren, kreisfreie Stadt",495,215,710,31.12.2016
+09763,"Kempten (Allgäu), kreisfreie Stadt",685,315,1000,31.12.2016
+09764,"Memmingen, kreisfreie Stadt",485,260,750,31.12.2016
+09771,"Aichach-Friedberg, Landkreis",905,500,1405,31.12.2016
+09772,"Augsburg, Landkreis",1630,595,2225,31.12.2016
+09773,"Dillingen an der Donau, Landkreis",935,485,1420,31.12.2016
+09774,"Günzburg, Landkreis",790,435,1230,31.12.2016
+09775,"Neu-Ulm, Landkreis",1405,315,1720,31.12.2016
+09776,"Lindau (Bodensee), Landkreis",625,350,980,31.12.2016
+09777,"Ostallgäu, Landkreis",1160,385,1545,31.12.2016
+09778,"Unterallgäu, Landkreis",900,315,1215,31.12.2016
+09779,"Donau-Ries, Landkreis",1005,470,1475,31.12.2016
+09780,"Oberallgäu, Landkreis",1105,445,1550,31.12.2016
+10041,"Regionalverband Saarbrücken, Landkreis",-,-,-,31.12.2016
+10042,"Merzig-Wadern, Landkreis",-,-,-,31.12.2016
+10043,"Neunkirchen, Landkreis",-,-,-,31.12.2016
+10044,"Saarlouis, Landkreis",15790,7860,23650,31.12.2016
+10045,Saarpfalz-Kreis,-,-,-,31.12.2016
+10046,"Sankt Wendel, Landkreis",-,-,-,31.12.2016
+11000,"Berlin, kreisfreie Stadt",51265,30840,82105,31.12.2016
+12051,"Brandenburg an der Havel, kreisfreie Stadt",880,390,1270,31.12.2016
+12052,"Cottbus, kreisfreie Stadt",2785,1430,4210,31.12.2016
+12053,"Frankfurt (Oder), kreisfreie Stadt",740,410,1155,31.12.2016
+12054,"Potsdam, kreisfreie Stadt",2155,1395,3550,31.12.2016
+12060,"Barnim, Landkreis",1595,785,2380,31.12.2016
+12061,"Dahme-Spreewald, Landkreis",1210,570,1775,31.12.2016
+12062,"Elbe-Elster, Landkreis",805,460,1265,31.12.2016
+12063,"Havelland, Landkreis",1200,590,1790,31.12.2016
+12064,"Märkisch-Oderland, Landkreis",1275,500,1775,31.12.2016
+12065,"Oberhavel, Landkreis",1740,790,2530,31.12.2016
+12066,"Oberspreewald-Lausitz, Landkreis",1005,420,1420,31.12.2016
+12067,"Oder-Spree, Landkreis",3260,1885,5145,31.12.2016
+12068,"Ostprignitz-Ruppin, Landkreis",1005,515,1520,31.12.2016
+12069,"Potsdam-Mittelmark, Landkreis",1335,480,1810,31.12.2016
+12070,"Prignitz, Landkreis",975,510,1485,31.12.2016
+12071,"Spree-Neiße, Landkreis",-,-,-,31.12.2016
+12072,"Teltow-Fläming, Landkreis",1420,630,2055,31.12.2016
+12073,"Uckermark, Landkreis",1120,470,1595,31.12.2016
+13001,"Greifswald, kreisfreie Stadt (bis 03.09.2011)",-,-,-,31.12.2016
+13002,"Neubrandenburg, kreisfreie Stadt (bis 03.09.2011)",-,-,-,31.12.2016
+13003,"Rostock, kreisfreie Stadt",2355,1355,3710,31.12.2016
+13004,"Schwerin, kreisfreie Stadt",1790,1185,2975,31.12.2016
+13005,"Stralsund, kreisfreie Stadt (bis 03.09.2011)",-,-,-,31.12.2016
+13006,"Wismar, kreisfreie Stadt (bis 03.09.2011)",-,-,-,31.12.2016
+13051,"Bad Doberan, Landkreis (bis 03.09.2011)",-,-,-,31.12.2016
+13052,"Demmin, Landkreis (bis 03.09.2011)",-,-,-,31.12.2016
+13053,"Güstrow, Landkreis (bis 03.09.2011)",-,-,-,31.12.2016
+13054,"Ludwigslust, Landkreis (bis 03.09.2011)",-,-,-,31.12.2016
+13055,"Mecklenburg-Strelitz, Landkreis (bis 03.09.2011)",-,-,-,31.12.2016
+13056,"Müritz, Landkreis (bis 03.09.2011)",-,-,-,31.12.2016
+13057,"Nordvorpommern, Landkreis (bis 03.09.2011)",-,-,-,31.12.2016
+13058,"Nordwestmecklenburg, Landkreis (bis 03.09.2011)",-,-,-,31.12.2016
+13059,"Ostvorpommern, Landkreis (bis 03.09.2011)",-,-,-,31.12.2016
+13060,"Parchim, Landkreis (bis 03.09.2011)",-,-,-,31.12.2016
+13061,"Rügen, Landkreis (bis 03.09.2011)",-,-,-,31.12.2016
+13062,"Uecker-Randow, Landkreis (bis 03.09.2011)",-,-,-,31.12.2016
+13071,"Mecklenburgische Seenplatte, Landkreis",2215,1100,3310,31.12.2016
+13072,"Rostock, Landkreis",1715,945,2660,31.12.2016
+13073,"Vorpommern-Rügen, Landkreis",1855,945,2800,31.12.2016
+13074,"Nordwestmecklenburg, Landkreis",1000,535,1540,31.12.2016
+13075,"Vorpommern-Greifswald, Landkreis",1885,885,2770,31.12.2016
+13076,"Ludwigslust-Parchim, Landkreis",2260,1220,3480,31.12.2016
+14161,"Chemnitz, kreisfreie Stadt (bis 31.07.2008)",-,-,-,31.12.2016
+14166,"Plauen, kreisfreie Stadt (bis 31.07.2008)",-,-,-,31.12.2016
+14167,"Zwickau, kreisfreie Stadt (bis 31.07.2008)",-,-,-,31.12.2016
+14171,"Annaberg, Landkreis (bis 31.07.2008)",-,-,-,31.12.2016
+14173,"Chemnitzer Land, Landkreis (bis 31.07.2008)",-,-,-,31.12.2016
+14177,"Freiberg, Landkreis (bis 31.07.2008)",-,-,-,31.12.2016
+14178,Vogtlandkreis (bis 31.07.2008),-,-,-,31.12.2016
+14181,Mittlerer Erzgebirgskreis (bis 31.07.2008),-,-,-,31.12.2016
+14182,"Mittweida, Landkreis (bis 31.07.2008)",-,-,-,31.12.2016
+14188,"Stollberg, Landkreis (bis 31.07.2008)",-,-,-,31.12.2016
+14191,"Aue-Schwarzenberg, Landkreis (bis 31.07.2008)",-,-,-,31.12.2016
+14193,"Zwickauer Land, Landkreis (bis 31.07.2008)",-,-,-,31.12.2016
+14262,"Dresden, kreisfreie Stadt (bis 31.07.2008)",-,-,-,31.12.2016
+14263,"Görlitz, kreisfreie Stadt (bis 31.07.2008)",-,-,-,31.12.2016
+14264,"Hoyerswerda, kreisfreie Stadt (bis 31.07.2008)",-,-,-,31.12.2016
+14272,"Bautzen, Landkreis (bis 31.07.2008)",-,-,-,31.12.2016
+14280,"Meißen, Landkreis (bis 31.07.2008)",-,-,-,31.12.2016
+14284,Niederschlesischer Oberlausitzkreis (b.31.07.2008),-,-,-,31.12.2016
+14285,"Riesa-Großenhain, Landkreis (bis 31.07.2008)",-,-,-,31.12.2016
+14286,"Löbau-Zittau, Landkreis (bis 31.07.2008)",-,-,-,31.12.2016
+14287,"Sächsische Schweiz, Landkreis (bis 31.07.2008)",-,-,-,31.12.2016
+14290,Weißeritzkreis (bis 31.07.2008),-,-,-,31.12.2016
+14292,"Kamenz, Landkreis (bis 31.07.2008)",-,-,-,31.12.2016
+14365,"Leipzig, kreisfreie Stadt (bis 31.07.2008)",-,-,-,31.12.2016
+14374,"Delitzsch, Landkreis (bis 31.07.2008)",-,-,-,31.12.2016
+14375,"Döbeln, Landkreis (bis 31.07.2008)",-,-,-,31.12.2016
+14379,"Leipziger Land, Landkreis (bis 31.07.2008)",-,-,-,31.12.2016
+14383,Muldentalkreis (bis 31.07.2008),-,-,-,31.12.2016
+14389,"Torgau-Oschatz, Landkreis (bis 31.07.2008)",-,-,-,31.12.2016
+14511,"Chemnitz, kreisfreie Stadt",4400,2300,6700,31.12.2016
+14521,Erzgebirgskreis,2200,920,3115,31.12.2016
+14522,"Mittelsachsen, Landkreis",2125,1005,3130,31.12.2016
+14523,Vogtlandkreis,2020,715,2735,31.12.2016
+14524,"Zwickau, Landkreis",2420,1180,3600,31.12.2016
+14612,"Dresden, kreisfreie Stadt",5810,2300,8110,31.12.2016
+14625,"Bautzen, Landkreis",1895,855,2750,31.12.2016
+14626,"Görlitz, Landkreis",1515,835,2350,31.12.2016
+14627,"Meißen, Landkreis",1830,780,2610,31.12.2016
+14628,"Sächsische Schweiz-Osterzgebirge, Landkreis",1760,590,2350,31.12.2016
+14713,"Leipzig, kreisfreie Stadt",8315,4750,13065,31.12.2016
+14729,"Leipzig, Landkreis",1730,775,2505,31.12.2016
+14730,"Nordsachsen, Landkreis",1445,655,2100,31.12.2016
+15001,"Dessau-Roßlau, kreisfreie Stadt",1135,670,1805,31.12.2016
+15002,"Halle (Saale), kreisfreie Stadt",4745,2340,7090,31.12.2016
+15003,"Magdeburg, kreisfreie Stadt",4185,2260,6445,31.12.2016
+15081,Altmarkkreis Salzwedel,685,400,1080,31.12.2016
+15082,"Anhalt-Bitterfeld, Landkreis",1485,545,2025,31.12.2016
+15083,"Börde, Landkreis",1755,615,2370,31.12.2016
+15084,Burgenlandkreis,1635,710,2345,31.12.2016
+15085,"Harz, Landkreis",1700,810,2510,31.12.2016
+15086,"Jerichower Land, Landkreis",850,315,1160,31.12.2016
+15087,"Mansfeld-Südharz, Landkreis",1420,640,2060,31.12.2016
+15088,Saalekreis,1640,815,2455,31.12.2016
+15089,Salzlandkreis,1640,885,2525,31.12.2016
+15090,"Stendal, Landkreis",1090,665,1755,31.12.2016
+15091,"Wittenberg, Landkreis",1220,440,1655,31.12.2016
+15101,"Dessau, kreisfreie Stadt (bis 30.06.2007)",-,-,-,31.12.2016
+15151,"Anhalt-Zerbst, Landkreis (bis 30.06.2007)",-,-,-,31.12.2016
+15153,"Bernburg, Landkreis (bis 30.06.2007)",-,-,-,31.12.2016
+15154,"Bitterfeld, Landkreis (bis 30.06.2007)",-,-,-,31.12.2016
+15159,"Köthen, Landkreis (bis 30.06.2007)",-,-,-,31.12.2016
+15171,"Wittenberg, Landkreis (bis 30.06.2007)",-,-,-,31.12.2016
+15202,"Halle (Saale), kreisfreie Stadt (bis 30.06.2007)",-,-,-,31.12.2016
+15256,Burgenlandkreis (bis 30.06.2007),-,-,-,31.12.2016
+15260,"Mansfelder Land, Landkreis (bis 30.06.2007)",-,-,-,31.12.2016
+15261,"Merseburg-Querfurt, Landkreis (bis 30.06.2007)",-,-,-,31.12.2016
+15265,Saalkreis (bis 30.06.2007),-,-,-,31.12.2016
+15266,"Sangerhausen, Landkreis (bis 30.06.2007)",-,-,-,31.12.2016
+15268,"Weißenfels, Landkreis (bis 30.06.2007)",-,-,-,31.12.2016
+15303,"Magdeburg, kreisfreie Stadt (bis 30.06.2007)",-,-,-,31.12.2016
+15352,"Aschersleben-Staßfurt, Landkreis (bis 30.06.2007)",-,-,-,31.12.2016
+15355,Bördekreis (bis 30.06.2007),-,-,-,31.12.2016
+15357,"Halberstadt, Landkreis (bis 30.06.2007)",-,-,-,31.12.2016
+15358,"Jerichower Land, Landkreis (bis 30.06.2007)",-,-,-,31.12.2016
+15362,Ohrekreis (bis 30.06.2007),-,-,-,31.12.2016
+15363,"Stendal, Landkreis (bis 30.06.2007)",-,-,-,31.12.2016
+15364,"Quedlinburg, Landkreis (bis 30.06.2007)",-,-,-,31.12.2016
+15367,"Schönebeck, Landkreis (bis 30.06.2007)",-,-,-,31.12.2016
+15369,"Wernigerode, Landkreis (bis 30.06.2007)",-,-,-,31.12.2016
+15370,Altmarkkreis Salzwedel (bis 30.06.2007),-,-,-,31.12.2016
+16051,"Erfurt, kreisfreie Stadt",2690,1645,4330,31.12.2016
+16052,"Gera, kreisfreie Stadt",1510,810,2315,31.12.2016
+16053,"Jena, kreisfreie Stadt",1515,815,2330,31.12.2016
+16054,"Suhl, kreisfreie Stadt",315,175,490,31.12.2016
+16055,"Weimar, kreisfreie Stadt",670,415,1085,31.12.2016
+16056,"Eisenach, kreisfreie Stadt",655,395,1050,31.12.2016
+16061,"Eichsfeld, Landkreis",795,515,1310,31.12.2016
+16062,"Nordhausen, Landkreis",825,370,1195,31.12.2016
+16063,Wartburgkreis,580,335,915,31.12.2016
+16064,Unstrut-Hainich-Kreis,1020,510,1530,31.12.2016
+16065,Kyffhäuserkreis,655,315,970,31.12.2016
+16066,"Schmalkalden-Meiningen, Landkreis",745,400,1145,31.12.2016
+16067,"Gotha, Landkreis",1080,430,1505,31.12.2016
+16068,"Sömmerda, Landkreis",275,140,415,31.12.2016
+16069,"Hildburghausen, Landkreis",460,255,715,31.12.2016
+16070,Ilm-Kreis,825,520,1345,31.12.2016
+16071,"Weimarer Land, Landkreis",605,300,905,31.12.2016
+16072,"Sonneberg, Landkreis",555,295,850,31.12.2016
+16073,"Saalfeld-Rudolstadt, Landkreis",810,415,1225,31.12.2016
+16074,Saale-Holzland-Kreis,130,20,155,31.12.2016
+16075,Saale-Orla-Kreis,685,405,1095,31.12.2016
+16076,"Greiz, Landkreis",615,265,880,31.12.2016
+16077,"Altenburger Land, Landkreis",755,385,1140,31.12.2016
+01001,"Flensburg, kreisfreie Stadt",1725,850,2575,31.12.2017
+01002,"Kiel, kreisfreie Stadt",4695,2640,7335,31.12.2017
+01003,"Lübeck, kreisfreie Stadt",3080,1865,4945,31.12.2017
+01004,"Neumünster, kreisfreie Stadt",1430,765,2195,31.12.2017
+01051,"Dithmarschen, Landkreis",1735,980,2715,31.12.2017
+01053,"Herzogtum Lauenburg, Landkreis",2395,1455,3850,31.12.2017
+01054,"Nordfriesland, Landkreis",2080,1245,3325,31.12.2017
+01055,"Ostholstein, Landkreis",2225,1165,3390,31.12.2017
+01056,"Pinneberg, Landkreis",4535,2840,7380,31.12.2017
+01057,"Plön, Landkreis",1575,865,2440,31.12.2017
+01058,"Rendsburg-Eckernförde, Landkreis",3465,2075,5540,31.12.2017
+01059,"Schleswig-Flensburg, Landkreis",2190,1285,3470,31.12.2017
+01060,"Segeberg, Landkreis",3705,2140,5845,31.12.2017
+01061,"Steinburg, Landkreis",1810,1095,2910,31.12.2017
+01062,"Stormarn, Landkreis",3010,1785,4795,31.12.2017
+02000,"Hamburg, kreisfreie Stadt",33155,19360,52515,31.12.2017
+03101,"Braunschweig, kreisfreie Stadt",2435,1345,3780,31.12.2017
+03102,"Salzgitter, kreisfreie Stadt",2805,1700,4505,31.12.2017
+03103,"Wolfsburg, kreisfreie Stadt",1845,1265,3110,31.12.2017
+03151,"Gifhorn, Landkreis",1600,905,2505,31.12.2017
+03152,"Göttingen, Landkreis (bis 31.10.2016)",-,-,-,31.12.2017
+03153,"Goslar, Landkreis",1870,1325,3195,31.12.2017
+03154,"Helmstedt, Landkreis",1130,550,1680,31.12.2017
+03155,"Northeim, Landkreis",1455,1165,2615,31.12.2017
+03156,"Osterode am Harz, Landkreis (bis 31.10.2016)",-,-,-,31.12.2017
+03157,"Peine, Landkreis",1735,1100,2840,31.12.2017
+03158,"Wolfenbüttel, Landkreis",1385,880,2265,31.12.2017
+03159,"Göttingen, Landkreis",3805,2490,6290,31.12.2017
+03201,"Hannover, kreisfreie Stadt (bis 31.10.2001)",-,-,-,31.12.2017
+03241,"Region Hannover, Landkreis",21060,14000,35055,31.12.2017
+03251,"Diepholz, Landkreis",2565,2035,4595,31.12.2017
+03252,"Hameln-Pyrmont, Landkreis",2375,1845,4215,31.12.2017
+03253,"Hannover, Landkreis (bis 31.10.2001)",-,-,-,31.12.2017
+03254,"Hildesheim, Landkreis",3885,2240,6125,31.12.2017
+03255,"Holzminden, Landkreis",890,545,1435,31.12.2017
+03256,"Nienburg (Weser), Landkreis",1875,1520,3395,31.12.2017
+03257,"Schaumburg, Landkreis",2295,1700,3995,31.12.2017
+03351,"Celle, Landkreis",2685,1955,4640,31.12.2017
+03352,"Cuxhaven, Landkreis",2250,1465,3715,31.12.2017
+03353,"Harburg, Landkreis",3185,680,3865,31.12.2017
+03354,"Lüchow-Dannenberg, Landkreis",345,260,605,31.12.2017
+03355,"Lüneburg, Landkreis",2595,1385,3980,31.12.2017
+03356,"Osterholz, Landkreis",1180,875,2060,31.12.2017
+03357,"Rotenburg (Wümme), Landkreis",1870,990,2860,31.12.2017
+03358,Heidekreis,1470,1075,2545,31.12.2017
+03359,"Stade, Landkreis",2925,1490,4415,31.12.2017
+03360,"Uelzen, Landkreis",910,585,1500,31.12.2017
+03361,"Verden, Landkreis",2085,1205,3290,31.12.2017
+03401,"Delmenhorst, kreisfreie Stadt",1820,1300,3115,31.12.2017
+03402,"Emden, kreisfreie Stadt",885,420,1310,31.12.2017
+03403,"Oldenburg (Oldenburg), kreisfreie Stadt",2905,2200,5105,31.12.2017
+03404,"Osnabrück, kreisfreie Stadt",3335,1475,4810,31.12.2017
+03405,"Wilhelmshaven, kreisfreie Stadt",1600,1060,2655,31.12.2017
+03451,"Ammerland, Landkreis",1395,1005,2400,31.12.2017
+03452,"Aurich, Landkreis",2310,1215,3525,31.12.2017
+03453,"Cloppenburg, Landkreis",2035,1480,3520,31.12.2017
+03454,"Emsland, Landkreis",4005,2325,6330,31.12.2017
+03455,"Friesland, Landkreis",1095,875,1975,31.12.2017
+03456,"Grafschaft Bentheim, Landkreis",1440,835,2275,31.12.2017
+03457,"Leer, Landkreis",1905,1125,3030,31.12.2017
+03458,"Oldenburg, Landkreis",1660,1240,2900,31.12.2017
+03459,"Osnabrück, Landkreis",2765,2035,4800,31.12.2017
+03460,"Vechta, Landkreis",2275,1435,3705,31.12.2017
+03461,"Wesermarsch, Landkreis",905,640,1545,31.12.2017
+03462,"Wittmund, Landkreis",490,340,830,31.12.2017
+04011,"Bremen, kreisfreie Stadt",13195,7670,20865,31.12.2017
+04012,"Bremerhaven, kreisfreie Stadt",2715,1820,4535,31.12.2017
+05111,"Düsseldorf, kreisfreie Stadt",11245,7865,19110,31.12.2017
+05112,"Duisburg, kreisfreie Stadt",8510,5385,13895,31.12.2017
+05113,"Essen, kreisfreie Stadt",13725,8915,22640,31.12.2017
+05114,"Krefeld, kreisfreie Stadt",3465,2185,5650,31.12.2017
+05116,"Mönchengladbach, kreisfreie Stadt",4705,2975,7680,31.12.2017
+05117,"Mülheim an der Ruhr, kreisfreie Stadt",3610,2380,5985,31.12.2017
+05119,"Oberhausen, kreisfreie Stadt",3660,2215,5875,31.12.2017
+05120,"Remscheid, kreisfreie Stadt",1550,985,2540,31.12.2017
+05122,"Solingen, kreisfreie Stadt",1955,1255,3210,31.12.2017
+05124,"Wuppertal, kreisfreie Stadt",8385,5310,13690,31.12.2017
+05154,"Kleve, Landkreis",3435,1695,5130,31.12.2017
+05158,"Mettmann, Landkreis",5315,3500,8815,31.12.2017
+05162,Rhein-Kreis Neuss,5415,3330,8750,31.12.2017
+05166,"Viersen, Landkreis",3030,1660,4690,31.12.2017
+05170,"Wesel, Landkreis",5795,3400,9195,31.12.2017
+05313,"Aachen, kreisfreie Stadt (bis 20.10.2009)",-,-,-,31.12.2017
+05314,"Bonn, kreisfreie Stadt",5925,3665,9590,31.12.2017
+05315,"Köln, kreisfreie Stadt",19020,12880,31900,31.12.2017
+05316,"Leverkusen, kreisfreie Stadt",2475,1685,4160,31.12.2017
+05334,"Städteregion Aachen, Landkreis",8740,4920,13660,31.12.2017
+05354,"Aachen, Landkreis (bis 20.10.2009)",-,-,-,31.12.2017
+05358,"Düren, Landkreis",3550,1925,5470,31.12.2017
+05362,Rhein-Erft-Kreis,5305,3235,8540,31.12.2017
+05366,"Euskirchen, Landkreis",2055,1095,3145,31.12.2017
+05370,"Heinsberg, Landkreis",2955,1480,4435,31.12.2017
+05374,Oberbergischer Kreis,3525,1775,5300,31.12.2017
+05378,Rheinisch-Bergischer Kreis,3515,2015,5530,31.12.2017
+05382,Rhein-Sieg-Kreis,6815,3960,10770,31.12.2017
+05512,"Bottrop, kreisfreie Stadt",1685,1060,2745,31.12.2017
+05513,"Gelsenkirchen, kreisfreie Stadt",4475,2690,7165,31.12.2017
+05515,"Münster, kreisfreie Stadt",4750,3260,8010,31.12.2017
+05554,"Borken, Landkreis",3985,2300,6285,31.12.2017
+05558,"Coesfeld, Landkreis",2385,1365,3750,31.12.2017
+05562,"Recklinghausen, Landkreis",9290,5770,15060,31.12.2017
+05566,"Steinfurt, Landkreis",6050,3690,9740,31.12.2017
+05570,"Warendorf, Landkreis",3250,1755,5005,31.12.2017
+05711,"Bielefeld, kreisfreie Stadt",8685,5930,14615,31.12.2017
+05754,"Gütersloh, Landkreis",4930,3010,7935,31.12.2017
+05758,"Herford, Landkreis",3160,1910,5070,31.12.2017
+05762,"Höxter, Landkreis",1670,735,2405,31.12.2017
+05766,"Lippe, Landkreis",4505,2855,7360,31.12.2017
+05770,"Minden-Lübbecke, Landkreis",5175,3170,8345,31.12.2017
+05774,"Paderborn, Landkreis",4565,2600,7165,31.12.2017
+05911,"Bochum, kreisfreie Stadt",6890,3930,10820,31.12.2017
+05913,"Dortmund, kreisfreie Stadt",10635,6355,16995,31.12.2017
+05914,"Hagen, kreisfreie Stadt",3405,1905,5310,31.12.2017
+05915,"Hamm, kreisfreie Stadt",2190,1415,3610,31.12.2017
+05916,"Herne, kreisfreie Stadt",2950,1565,4515,31.12.2017
+05954,Ennepe-Ruhr-Kreis,4820,3070,7885,31.12.2017
+05958,Hochsauerlandkreis,3630,2120,5750,31.12.2017
+05962,Märkischer Kreis,5090,2935,8025,31.12.2017
+05966,"Olpe, Landkreis",1740,1030,2770,31.12.2017
+05970,"Siegen-Wittgenstein, Landkreis",4415,2555,6970,31.12.2017
+05974,"Soest, Landkreis",3675,2090,5765,31.12.2017
+05978,"Unna, Landkreis",6915,4295,11210,31.12.2017
+06411,"Darmstadt, kreisfreie Stadt",2360,1300,3655,31.12.2017
+06412,"Frankfurt am Main, kreisfreie Stadt",9675,5815,15490,31.12.2017
+06413,"Offenbach am Main, kreisfreie Stadt",1165,820,1985,31.12.2017
+06414,"Wiesbaden, kreisfreie Stadt",4830,3235,8060,31.12.2017
+06431,"Bergstraße, Landkreis",4285,2390,6680,31.12.2017
+06432,"Darmstadt-Dieburg, Landkreis",3865,2175,6035,31.12.2017
+06433,"Groß-Gerau, Landkreis",4060,2215,6275,31.12.2017
+06434,Hochtaunuskreis,3305,1680,4985,31.12.2017
+06435,Main-Kinzig-Kreis,6175,3765,9940,31.12.2017
+06436,Main-Taunus-Kreis,3290,1800,5090,31.12.2017
+06437,Odenwaldkreis,565,310,880,31.12.2017
+06438,"Offenbach, Landkreis",4950,3140,8085,31.12.2017
+06439,Rheingau-Taunus-Kreis,2705,1530,4235,31.12.2017
+06440,Wetteraukreis,4015,2210,6220,31.12.2017
+06531,"Gießen, Landkreis",6285,3740,10030,31.12.2017
+06532,Lahn-Dill-Kreis,3920,2190,6110,31.12.2017
+06533,"Limburg-Weilburg, Landkreis",2660,1500,4160,31.12.2017
+06534,"Marburg-Biedenkopf, Landkreis",3620,1895,5515,31.12.2017
+06535,Vogelsbergkreis,1335,710,2045,31.12.2017
+06611,"Kassel, kreisfreie Stadt",6700,3885,10585,31.12.2017
+06631,"Fulda, Landkreis",3015,1655,4670,31.12.2017
+06632,"Hersfeld-Rotenburg, Landkreis",1365,860,2225,31.12.2017
+06633,"Kassel, Landkreis",-,-,-,31.12.2017
+06634,Schwalm-Eder-Kreis,2345,1245,3595,31.12.2017
+06635,"Waldeck-Frankenberg, Landkreis",2505,1330,3835,31.12.2017
+06636,Werra-Meißner-Kreis,1395,740,2140,31.12.2017
+07111,"Koblenz, kreisfreie Stadt",2245,1275,3525,31.12.2017
+07131,"Ahrweiler, Landkreis",1765,1120,2880,31.12.2017
+07132,"Altenkirchen (Westerwald), Landkreis",1315,730,2045,31.12.2017
+07133,"Bad Kreuznach, Landkreis",1900,1140,3040,31.12.2017
+07134,"Birkenfeld, Landkreis",865,500,1365,31.12.2017
+07135,"Cochem-Zell, Landkreis",635,325,960,31.12.2017
+07137,"Mayen-Koblenz, Landkreis",2705,1700,4405,31.12.2017
+07138,"Neuwied, Landkreis",2275,1390,3665,31.12.2017
+07140,Rhein-Hunsrück-Kreis,1010,580,1590,31.12.2017
+07141,Rhein-Lahn-Kreis,1400,825,2225,31.12.2017
+07143,Westerwaldkreis,1830,1010,2840,31.12.2017
+07211,"Trier, kreisfreie Stadt",2730,1510,4240,31.12.2017
+07231,"Bernkastel-Wittlich, Landkreis",1115,640,1755,31.12.2017
+07232,Eifelkreis Bitburg-Prüm,750,385,1135,31.12.2017
+07233,"Vulkaneifel, Landkreis",510,285,795,31.12.2017
+07235,"Trier-Saarburg, Landkreis",1095,650,1745,31.12.2017
+07311,"Frankenthal (Pfalz), kreisfreie Stadt",575,335,905,31.12.2017
+07312,"Kaiserslautern, kreisfreie Stadt",1720,885,2605,31.12.2017
+07313,"Landau in der Pfalz, kreisfreie Stadt",690,395,1085,31.12.2017
+07314,"Ludwigshafen am Rhein, kreisfreie Stadt",2935,1675,4610,31.12.2017
+07315,"Mainz, kreisfreie Stadt",3185,1920,5105,31.12.2017
+07316,"Neustadt an der Weinstraße, kreisfreie Stadt",680,395,1070,31.12.2017
+07317,"Pirmasens, kreisfreie Stadt",810,480,1285,31.12.2017
+07318,"Speyer, kreisfreie Stadt",805,445,1245,31.12.2017
+07319,"Worms, kreisfreie Stadt",1250,680,1930,31.12.2017
+07320,"Zweibrücken, kreisfreie Stadt",485,275,760,31.12.2017
+07331,"Alzey-Worms, Landkreis",1395,755,2150,31.12.2017
+07332,"Bad Dürkheim, Landkreis",1290,790,2080,31.12.2017
+07333,Donnersbergkreis,720,415,1140,31.12.2017
+07334,"Germersheim, Landkreis",1230,640,1865,31.12.2017
+07335,"Kaiserslautern, Landkreis",1000,560,1560,31.12.2017
+07336,"Kusel, Landkreis",810,385,1200,31.12.2017
+07337,"Südliche Weinstraße, Landkreis",900,470,1375,31.12.2017
+07338,Rhein-Pfalz-Kreis,1545,905,2450,31.12.2017
+07339,"Mainz-Bingen, Landkreis",2300,1305,3610,31.12.2017
+07340,"Südwestpfalz, Landkreis",640,310,950,31.12.2017
+08111,"Stuttgart, kreisfreie Stadt",9035,5540,14575,31.12.2017
+08115,"Böblingen, Landkreis",4145,2635,6780,31.12.2017
+08116,"Esslingen, Landkreis",7725,2230,9955,31.12.2017
+08117,"Göppingen, Landkreis",3090,1880,4970,31.12.2017
+08118,"Ludwigsburg, Landkreis",6280,3235,9515,31.12.2017
+08119,Rems-Murr-Kreis,5245,2560,7805,31.12.2017
+08121,"Heilbronn, kreisfreie Stadt",2395,1055,3450,31.12.2017
+08125,"Heilbronn, Landkreis",3540,1650,5190,31.12.2017
+08126,Hohenlohekreis,1245,320,1560,31.12.2017
+08127,"Schwäbisch Hall, Landkreis",1775,1000,2775,31.12.2017
+08128,Main-Tauber-Kreis,1400,570,1970,31.12.2017
+08135,"Heidenheim, Landkreis",1620,800,2420,31.12.2017
+08136,Ostalbkreis,2210,1190,3400,31.12.2017
+08211,"Baden-Baden, kreisfreie Stadt",1070,650,1720,31.12.2017
+08212,"Karlsruhe, kreisfreie Stadt",3710,2030,5740,31.12.2017
+08215,"Karlsruhe, Landkreis",4450,2140,6590,31.12.2017
+08216,"Rastatt, Landkreis",2445,1750,4200,31.12.2017
+08221,"Heidelberg, kreisfreie Stadt",1645,1050,2695,31.12.2017
+08222,"Mannheim, kreisfreie Stadt",2020,1125,3145,31.12.2017
+08225,Neckar-Odenwald-Kreis,1580,550,2130,31.12.2017
+08226,Rhein-Neckar-Kreis,6360,3040,9395,31.12.2017
+08231,"Pforzheim, kreisfreie Stadt",2785,2140,4925,31.12.2017
+08235,"Calw, Landkreis",1765,690,2460,31.12.2017
+08236,Enzkreis,1690,1220,2910,31.12.2017
+08237,"Freudenstadt, Landkreis",1375,660,2035,31.12.2017
+08311,"Freiburg im Breisgau, kreisfreie Stadt",3315,2055,5370,31.12.2017
+08315,"Breisgau-Hochschwarzwald, Landkreis",3420,1450,4870,31.12.2017
+08316,"Emmendingen, Landkreis",2015,940,2955,31.12.2017
+08317,Ortenaukreis,4670,2760,7425,31.12.2017
+08325,"Rottweil, Landkreis",1610,1030,2640,31.12.2017
+08326,Schwarzwald-Baar-Kreis,1965,860,2825,31.12.2017
+08327,"Tuttlingen, Landkreis",1505,800,2305,31.12.2017
+08335,"Konstanz, Landkreis",3445,1875,5325,31.12.2017
+08336,"Lörrach, Landkreis",2395,1485,3880,31.12.2017
+08337,"Waldshut, Landkreis",1890,845,2730,31.12.2017
+08415,"Reutlingen, Landkreis",3730,1650,5380,31.12.2017
+08416,"Tübingen, Landkreis",2560,1665,4225,31.12.2017
+08417,Zollernalbkreis,850,475,1325,31.12.2017
+08421,"Ulm, kreisfreie Stadt",2190,1045,3235,31.12.2017
+08425,Alb-Donau-Kreis,2135,995,3130,31.12.2017
+08426,"Biberach, Landkreis",2265,1180,3445,31.12.2017
+08435,Bodenseekreis,2350,1485,3830,31.12.2017
+08436,"Ravensburg, Landkreis",3475,1220,4695,31.12.2017
+08437,"Sigmaringen, Landkreis",1510,705,2215,31.12.2017
+09161,"Ingolstadt, kreisfreie Stadt",1850,930,2780,31.12.2017
+09162,"München, kreisfreie Stadt",21070,12160,33235,31.12.2017
+09163,"Rosenheim, kreisfreie Stadt",830,415,1245,31.12.2017
+09171,"Altötting, Landkreis",1090,755,1845,31.12.2017
+09172,"Berchtesgadener Land, Landkreis",845,435,1285,31.12.2017
+09173,"Bad Tölz-Wolfratshausen, Landkreis",1345,780,2130,31.12.2017
+09174,"Dachau, Landkreis",1355,410,1765,31.12.2017
+09175,"Ebersberg, Landkreis",1125,220,1340,31.12.2017
+09176,"Eichstätt, Landkreis",1410,560,1965,31.12.2017
+09177,"Erding, Landkreis",925,455,1380,31.12.2017
+09178,"Freising, Landkreis",1540,695,2235,31.12.2017
+09179,"Fürstenfeldbruck, Landkreis",1660,1155,2815,31.12.2017
+09180,"Garmisch-Partenkirchen, Landkreis",850,450,1300,31.12.2017
+09181,"Landsberg am Lech, Landkreis",1380,250,1630,31.12.2017
+09182,"Miesbach, Landkreis",635,180,815,31.12.2017
+09183,"Mühldorf am Inn, Landkreis",990,460,1450,31.12.2017
+09184,"München, Landkreis",3085,1280,4360,31.12.2017
+09185,"Neuburg-Schrobenhausen, Landkreis",895,420,1315,31.12.2017
+09186,"Pfaffenhofen an der Ilm, Landkreis",1030,245,1275,31.12.2017
+09187,"Rosenheim, Landkreis",2005,835,2835,31.12.2017
+09188,"Starnberg, Landkreis",1225,560,1785,31.12.2017
+09189,"Traunstein, Landkreis",1710,570,2280,31.12.2017
+09190,"Weilheim-Schongau, Landkreis",1415,390,1800,31.12.2017
+09261,"Landshut, kreisfreie Stadt",830,375,1205,31.12.2017
+09262,"Passau, kreisfreie Stadt",885,355,1240,31.12.2017
+09263,"Straubing, kreisfreie Stadt",740,380,1120,31.12.2017
+09271,"Deggendorf, Landkreis",2205,725,2930,31.12.2017
+09272,"Freyung-Grafenau, Landkreis",350,175,530,31.12.2017
+09273,"Kelheim, Landkreis",980,405,1390,31.12.2017
+09274,"Landshut, Landkreis",1090,340,1430,31.12.2017
+09275,"Passau, Landkreis",1275,615,1890,31.12.2017
+09276,"Regen, Landkreis",740,205,945,31.12.2017
+09277,"Rottal-Inn, Landkreis",805,415,1225,31.12.2017
+09278,"Straubing-Bogen, Landkreis",595,265,860,31.12.2017
+09279,"Dingolfing-Landau, Landkreis",755,140,900,31.12.2017
+09361,"Amberg, kreisfreie Stadt",645,355,1000,31.12.2017
+09362,"Regensburg, kreisfreie Stadt",2955,1475,4430,31.12.2017
+09363,"Weiden in der Oberpfalz, kreisfreie Stadt",780,360,1140,31.12.2017
+09371,"Amberg-Sulzbach, Landkreis",655,245,900,31.12.2017
+09372,"Cham, Landkreis",690,360,1050,31.12.2017
+09373,"Neumarkt in der Oberpfalz, Landkreis",745,325,1070,31.12.2017
+09374,"Neustadt an der Waldnaab, Landkreis",505,240,750,31.12.2017
+09375,"Regensburg, Landkreis",1005,515,1520,31.12.2017
+09376,"Schwandorf, Landkreis",1055,505,1560,31.12.2017
+09377,"Tirschenreuth, Landkreis",445,240,690,31.12.2017
+09461,"Bamberg, kreisfreie Stadt",1985,1085,3070,31.12.2017
+09462,"Bayreuth, kreisfreie Stadt",2500,1370,3870,31.12.2017
+09463,"Coburg, kreisfreie Stadt",475,260,735,31.12.2017
+09464,"Hof, kreisfreie Stadt",1320,735,2050,31.12.2017
+09471,"Bamberg, Landkreis",550,245,800,31.12.2017
+09472,"Bayreuth, Landkreis",280,160,440,31.12.2017
+09473,"Coburg, Landkreis",345,225,565,31.12.2017
+09474,"Forchheim, Landkreis",720,415,1135,31.12.2017
+09475,"Hof, Landkreis",425,265,690,31.12.2017
+09476,"Kronach, Landkreis",280,170,450,31.12.2017
+09477,"Kulmbach, Landkreis",365,235,600,31.12.2017
+09478,"Lichtenfels, Landkreis",375,225,600,31.12.2017
+09479,"Wunsiedel im Fichtelgebirge, Landkreis",720,380,1100,31.12.2017
+09561,"Ansbach, kreisfreie Stadt",875,415,1290,31.12.2017
+09562,"Erlangen, kreisfreie Stadt",1330,760,2090,31.12.2017
+09563,"Fürth, kreisfreie Stadt",1370,870,2240,31.12.2017
+09564,"Nürnberg, kreisfreie Stadt",9400,6365,15765,31.12.2017
+09565,"Schwabach, kreisfreie Stadt",455,220,675,31.12.2017
+09571,"Ansbach, Landkreis",1315,705,2020,31.12.2017
+09572,"Erlangen-Höchstadt, Landkreis",875,385,1260,31.12.2017
+09573,"Fürth, Landkreis",730,445,1175,31.12.2017
+09574,"Nürnberger Land, Landkreis",1330,680,2005,31.12.2017
+09575,"Neustadt an der Aisch-Bad Windsheim, Landkreis",740,490,1230,31.12.2017
+09576,"Roth, Landkreis",1550,840,2395,31.12.2017
+09577,"Weißenburg-Gunzenhausen, Landkreis",755,490,1245,31.12.2017
+09661,"Aschaffenburg, kreisfreie Stadt",1185,530,1720,31.12.2017
+09662,"Schweinfurt, kreisfreie Stadt",4330,2315,6640,31.12.2017
+09663,"Würzburg, kreisfreie Stadt",1730,1065,2795,31.12.2017
+09671,"Aschaffenburg, Landkreis",1020,650,1670,31.12.2017
+09672,"Bad Kissingen, Landkreis",635,400,1035,31.12.2017
+09673,"Rhön-Grabfeld, Landkreis",380,245,625,31.12.2017
+09674,"Haßberge, Landkreis",480,285,765,31.12.2017
+09675,"Kitzingen, Landkreis",570,305,875,31.12.2017
+09676,"Miltenberg, Landkreis",755,470,1225,31.12.2017
+09677,"Main-Spessart, Landkreis",615,375,990,31.12.2017
+09678,"Schweinfurt, Landkreis",530,295,820,31.12.2017
+09679,"Würzburg, Landkreis",860,420,1280,31.12.2017
+09761,"Augsburg, kreisfreie Stadt",6445,3285,9735,31.12.2017
+09762,"Kaufbeuren, kreisfreie Stadt",470,270,740,31.12.2017
+09763,"Kempten (Allgäu), kreisfreie Stadt",735,365,1100,31.12.2017
+09764,"Memmingen, kreisfreie Stadt",490,265,760,31.12.2017
+09771,"Aichach-Friedberg, Landkreis",725,445,1170,31.12.2017
+09772,"Augsburg, Landkreis",1780,825,2605,31.12.2017
+09773,"Dillingen an der Donau, Landkreis",950,555,1510,31.12.2017
+09774,"Günzburg, Landkreis",790,520,1310,31.12.2017
+09775,"Neu-Ulm, Landkreis",1430,425,1855,31.12.2017
+09776,"Lindau (Bodensee), Landkreis",545,345,890,31.12.2017
+09777,"Ostallgäu, Landkreis",1020,440,1460,31.12.2017
+09778,"Unterallgäu, Landkreis",875,365,1235,31.12.2017
+09779,"Donau-Ries, Landkreis",1190,505,1695,31.12.2017
+09780,"Oberallgäu, Landkreis",925,445,1375,31.12.2017
+10041,"Regionalverband Saarbrücken, Landkreis",-,-,-,31.12.2017
+10042,"Merzig-Wadern, Landkreis",-,-,-,31.12.2017
+10043,"Neunkirchen, Landkreis",-,-,-,31.12.2017
+10044,"Saarlouis, Landkreis",16750,8950,25705,31.12.2017
+10045,Saarpfalz-Kreis,-,-,-,31.12.2017
+10046,"Sankt Wendel, Landkreis",-,-,-,31.12.2017
+11000,"Berlin, kreisfreie Stadt",57520,34430,91950,31.12.2017
+12051,"Brandenburg an der Havel, kreisfreie Stadt",1085,475,1560,31.12.2017
+12052,"Cottbus, kreisfreie Stadt",3180,1805,4980,31.12.2017
+12053,"Frankfurt (Oder), kreisfreie Stadt",895,505,1400,31.12.2017
+12054,"Potsdam, kreisfreie Stadt",2455,1560,4015,31.12.2017
+12060,"Barnim, Landkreis",1335,690,2025,31.12.2017
+12061,"Dahme-Spreewald, Landkreis",1225,640,1865,31.12.2017
+12062,"Elbe-Elster, Landkreis",770,475,1245,31.12.2017
+12063,"Havelland, Landkreis",1305,660,1965,31.12.2017
+12064,"Märkisch-Oderland, Landkreis",1215,535,1750,31.12.2017
+12065,"Oberhavel, Landkreis",1775,865,2635,31.12.2017
+12066,"Oberspreewald-Lausitz, Landkreis",890,425,1320,31.12.2017
+12067,"Oder-Spree, Landkreis",3105,1710,4815,31.12.2017
+12068,"Ostprignitz-Ruppin, Landkreis",950,500,1450,31.12.2017
+12069,"Potsdam-Mittelmark, Landkreis",1320,550,1870,31.12.2017
+12070,"Prignitz, Landkreis",915,500,1415,31.12.2017
+12071,"Spree-Neiße, Landkreis",-,-,-,31.12.2017
+12072,"Teltow-Fläming, Landkreis",1435,660,2095,31.12.2017
+12073,"Uckermark, Landkreis",1130,525,1655,31.12.2017
+13001,"Greifswald, kreisfreie Stadt (bis 03.09.2011)",-,-,-,31.12.2017
+13002,"Neubrandenburg, kreisfreie Stadt (bis 03.09.2011)",-,-,-,31.12.2017
+13003,"Rostock, kreisfreie Stadt",2490,1545,4035,31.12.2017
+13004,"Schwerin, kreisfreie Stadt",2405,1555,3960,31.12.2017
+13005,"Stralsund, kreisfreie Stadt (bis 03.09.2011)",-,-,-,31.12.2017
+13006,"Wismar, kreisfreie Stadt (bis 03.09.2011)",-,-,-,31.12.2017
+13051,"Bad Doberan, Landkreis (bis 03.09.2011)",-,-,-,31.12.2017
+13052,"Demmin, Landkreis (bis 03.09.2011)",-,-,-,31.12.2017
+13053,"Güstrow, Landkreis (bis 03.09.2011)",-,-,-,31.12.2017
+13054,"Ludwigslust, Landkreis (bis 03.09.2011)",-,-,-,31.12.2017
+13055,"Mecklenburg-Strelitz, Landkreis (bis 03.09.2011)",-,-,-,31.12.2017
+13056,"Müritz, Landkreis (bis 03.09.2011)",-,-,-,31.12.2017
+13057,"Nordvorpommern, Landkreis (bis 03.09.2011)",-,-,-,31.12.2017
+13058,"Nordwestmecklenburg, Landkreis (bis 03.09.2011)",-,-,-,31.12.2017
+13059,"Ostvorpommern, Landkreis (bis 03.09.2011)",-,-,-,31.12.2017
+13060,"Parchim, Landkreis (bis 03.09.2011)",-,-,-,31.12.2017
+13061,"Rügen, Landkreis (bis 03.09.2011)",-,-,-,31.12.2017
+13062,"Uecker-Randow, Landkreis (bis 03.09.2011)",-,-,-,31.12.2017
+13071,"Mecklenburgische Seenplatte, Landkreis",2320,1180,3500,31.12.2017
+13072,"Rostock, Landkreis",1595,875,2465,31.12.2017
+13073,"Vorpommern-Rügen, Landkreis",1805,995,2800,31.12.2017
+13074,"Nordwestmecklenburg, Landkreis",1160,605,1760,31.12.2017
+13075,"Vorpommern-Greifswald, Landkreis",1805,910,2710,31.12.2017
+13076,"Ludwigslust-Parchim, Landkreis",1585,925,2510,31.12.2017
+14161,"Chemnitz, kreisfreie Stadt (bis 31.07.2008)",-,-,-,31.12.2017
+14166,"Plauen, kreisfreie Stadt (bis 31.07.2008)",-,-,-,31.12.2017
+14167,"Zwickau, kreisfreie Stadt (bis 31.07.2008)",-,-,-,31.12.2017
+14171,"Annaberg, Landkreis (bis 31.07.2008)",-,-,-,31.12.2017
+14173,"Chemnitzer Land, Landkreis (bis 31.07.2008)",-,-,-,31.12.2017
+14177,"Freiberg, Landkreis (bis 31.07.2008)",-,-,-,31.12.2017
+14178,Vogtlandkreis (bis 31.07.2008),-,-,-,31.12.2017
+14181,Mittlerer Erzgebirgskreis (bis 31.07.2008),-,-,-,31.12.2017
+14182,"Mittweida, Landkreis (bis 31.07.2008)",-,-,-,31.12.2017
+14188,"Stollberg, Landkreis (bis 31.07.2008)",-,-,-,31.12.2017
+14191,"Aue-Schwarzenberg, Landkreis (bis 31.07.2008)",-,-,-,31.12.2017
+14193,"Zwickauer Land, Landkreis (bis 31.07.2008)",-,-,-,31.12.2017
+14262,"Dresden, kreisfreie Stadt (bis 31.07.2008)",-,-,-,31.12.2017
+14263,"Görlitz, kreisfreie Stadt (bis 31.07.2008)",-,-,-,31.12.2017
+14264,"Hoyerswerda, kreisfreie Stadt (bis 31.07.2008)",-,-,-,31.12.2017
+14272,"Bautzen, Landkreis (bis 31.07.2008)",-,-,-,31.12.2017
+14280,"Meißen, Landkreis (bis 31.07.2008)",-,-,-,31.12.2017
+14284,Niederschlesischer Oberlausitzkreis (b.31.07.2008),-,-,-,31.12.2017
+14285,"Riesa-Großenhain, Landkreis (bis 31.07.2008)",-,-,-,31.12.2017
+14286,"Löbau-Zittau, Landkreis (bis 31.07.2008)",-,-,-,31.12.2017
+14287,"Sächsische Schweiz, Landkreis (bis 31.07.2008)",-,-,-,31.12.2017
+14290,Weißeritzkreis (bis 31.07.2008),-,-,-,31.12.2017
+14292,"Kamenz, Landkreis (bis 31.07.2008)",-,-,-,31.12.2017
+14365,"Leipzig, kreisfreie Stadt (bis 31.07.2008)",-,-,-,31.12.2017
+14374,"Delitzsch, Landkreis (bis 31.07.2008)",-,-,-,31.12.2017
+14375,"Döbeln, Landkreis (bis 31.07.2008)",-,-,-,31.12.2017
+14379,"Leipziger Land, Landkreis (bis 31.07.2008)",-,-,-,31.12.2017
+14383,Muldentalkreis (bis 31.07.2008),-,-,-,31.12.2017
+14389,"Torgau-Oschatz, Landkreis (bis 31.07.2008)",-,-,-,31.12.2017
+14511,"Chemnitz, kreisfreie Stadt",4805,2715,7520,31.12.2017
+14521,Erzgebirgskreis,1955,755,2710,31.12.2017
+14522,"Mittelsachsen, Landkreis",1880,865,2745,31.12.2017
+14523,Vogtlandkreis,2005,790,2795,31.12.2017
+14524,"Zwickau, Landkreis",2370,1210,3585,31.12.2017
+14612,"Dresden, kreisfreie Stadt",6915,3055,9970,31.12.2017
+14625,"Bautzen, Landkreis",1585,745,2335,31.12.2017
+14626,"Görlitz, Landkreis",1550,865,2415,31.12.2017
+14627,"Meißen, Landkreis",1660,760,2420,31.12.2017
+14628,"Sächsische Schweiz-Osterzgebirge, Landkreis",1435,520,1955,31.12.2017
+14713,"Leipzig, kreisfreie Stadt",9285,5485,14775,31.12.2017
+14729,"Leipzig, Landkreis",1590,765,2355,31.12.2017
+14730,"Nordsachsen, Landkreis",1495,685,2180,31.12.2017
+15001,"Dessau-Roßlau, kreisfreie Stadt",1300,780,2075,31.12.2017
+15002,"Halle (Saale), kreisfreie Stadt",5610,2970,8580,31.12.2017
+15003,"Magdeburg, kreisfreie Stadt",4525,2455,6980,31.12.2017
+15081,Altmarkkreis Salzwedel,685,415,1100,31.12.2017
+15082,"Anhalt-Bitterfeld, Landkreis",1235,425,1655,31.12.2017
+15083,"Börde, Landkreis",1550,575,2125,31.12.2017
+15084,Burgenlandkreis,1610,725,2335,31.12.2017
+15085,"Harz, Landkreis",1095,605,1695,31.12.2017
+15086,"Jerichower Land, Landkreis",730,300,1025,31.12.2017
+15087,"Mansfeld-Südharz, Landkreis",1270,595,1865,31.12.2017
+15088,Saalekreis,1670,870,2540,31.12.2017
+15089,Salzlandkreis,1415,745,2160,31.12.2017
+15090,"Stendal, Landkreis",1020,600,1620,31.12.2017
+15091,"Wittenberg, Landkreis",1130,435,1565,31.12.2017
+15101,"Dessau, kreisfreie Stadt (bis 30.06.2007)",-,-,-,31.12.2017
+15151,"Anhalt-Zerbst, Landkreis (bis 30.06.2007)",-,-,-,31.12.2017
+15153,"Bernburg, Landkreis (bis 30.06.2007)",-,-,-,31.12.2017
+15154,"Bitterfeld, Landkreis (bis 30.06.2007)",-,-,-,31.12.2017
+15159,"Köthen, Landkreis (bis 30.06.2007)",-,-,-,31.12.2017
+15171,"Wittenberg, Landkreis (bis 30.06.2007)",-,-,-,31.12.2017
+15202,"Halle (Saale), kreisfreie Stadt (bis 30.06.2007)",-,-,-,31.12.2017
+15256,Burgenlandkreis (bis 30.06.2007),-,-,-,31.12.2017
+15260,"Mansfelder Land, Landkreis (bis 30.06.2007)",-,-,-,31.12.2017
+15261,"Merseburg-Querfurt, Landkreis (bis 30.06.2007)",-,-,-,31.12.2017
+15265,Saalkreis (bis 30.06.2007),-,-,-,31.12.2017
+15266,"Sangerhausen, Landkreis (bis 30.06.2007)",-,-,-,31.12.2017
+15268,"Weißenfels, Landkreis (bis 30.06.2007)",-,-,-,31.12.2017
+15303,"Magdeburg, kreisfreie Stadt (bis 30.06.2007)",-,-,-,31.12.2017
+15352,"Aschersleben-Staßfurt, Landkreis (bis 30.06.2007)",-,-,-,31.12.2017
+15355,Bördekreis (bis 30.06.2007),-,-,-,31.12.2017
+15357,"Halberstadt, Landkreis (bis 30.06.2007)",-,-,-,31.12.2017
+15358,"Jerichower Land, Landkreis (bis 30.06.2007)",-,-,-,31.12.2017
+15362,Ohrekreis (bis 30.06.2007),-,-,-,31.12.2017
+15363,"Stendal, Landkreis (bis 30.06.2007)",-,-,-,31.12.2017
+15364,"Quedlinburg, Landkreis (bis 30.06.2007)",-,-,-,31.12.2017
+15367,"Schönebeck, Landkreis (bis 30.06.2007)",-,-,-,31.12.2017
+15369,"Wernigerode, Landkreis (bis 30.06.2007)",-,-,-,31.12.2017
+15370,Altmarkkreis Salzwedel (bis 30.06.2007),-,-,-,31.12.2017
+16051,"Erfurt, kreisfreie Stadt",3265,2030,5295,31.12.2017
+16052,"Gera, kreisfreie Stadt",1835,1040,2875,31.12.2017
+16053,"Jena, kreisfreie Stadt",1690,920,2610,31.12.2017
+16054,"Suhl, kreisfreie Stadt",240,130,370,31.12.2017
+16055,"Weimar, kreisfreie Stadt",935,575,1510,31.12.2017
+16056,"Eisenach, kreisfreie Stadt",790,495,1285,31.12.2017
+16061,"Eichsfeld, Landkreis",795,495,1290,31.12.2017
+16062,"Nordhausen, Landkreis",900,405,1305,31.12.2017
+16063,Wartburgkreis,595,340,935,31.12.2017
+16064,Unstrut-Hainich-Kreis,1005,565,1575,31.12.2017
+16065,Kyffhäuserkreis,600,280,880,31.12.2017
+16066,"Schmalkalden-Meiningen, Landkreis",735,385,1120,31.12.2017
+16067,"Gotha, Landkreis",1070,475,1545,31.12.2017
+16068,"Sömmerda, Landkreis",245,125,365,31.12.2017
+16069,"Hildburghausen, Landkreis",450,245,695,31.12.2017
+16070,Ilm-Kreis,855,545,1400,31.12.2017
+16071,"Weimarer Land, Landkreis",595,295,890,31.12.2017
+16072,"Sonneberg, Landkreis",570,285,855,31.12.2017
+16073,"Saalfeld-Rudolstadt, Landkreis",815,415,1230,31.12.2017
+16074,Saale-Holzland-Kreis,140,30,175,31.12.2017
+16075,Saale-Orla-Kreis,640,385,1025,31.12.2017
+16076,"Greiz, Landkreis",455,205,660,31.12.2017
+16077,"Altenburger Land, Landkreis",790,455,1245,31.12.2017
